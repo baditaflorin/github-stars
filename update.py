@@ -33,7 +33,7 @@ def get_fragment_id(heading: str) -> str:
 
 repo_list_dict = defaultdict(list)
 
-for s in gh.starred_by("meribold"):
+for s in gh.starred_by("baditaflorin"):
     repo_list_dict[s.language or "Miscellaneous"].append(
         [s.full_name, s.html_url, html_escape((s.description or "").strip())]
     )
