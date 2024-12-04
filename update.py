@@ -12,6 +12,7 @@ html_escape_table = {
 }
 
 
+
 def html_escape(text: str) -> str:
     return "".join(html_escape_table.get(c, c) for c in text)
 
