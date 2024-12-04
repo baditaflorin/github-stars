@@ -15,5 +15,5 @@ jobs:
       run: pip install -r requirements.txt
     - name: Update list
       env:
-        GITHUB_TOKEN: ${{ secrets.NOW_GITHUB_TOKEN }}
+        NEW_GITHUB_TOKEN: ${{ secrets.NOW_GITHUB_TOKEN }}
       run: python3 update.py
