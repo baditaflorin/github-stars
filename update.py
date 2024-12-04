@@ -4,7 +4,7 @@ from collections import defaultdict
 
 from github3 import GitHub
 
-gh = GitHub(token=os.environ["GITHUB_TOKEN"])
+gh = GitHub(token=os.environ["NEW_GITHUB_TOKEN"])
 
 html_escape_table = {
     ">": "&gt;",
