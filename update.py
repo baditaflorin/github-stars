@@ -55,7 +55,7 @@ new_readme_content = "## Languages\n\n{}\n{}\n".format(
     ),
 ).encode()
 
-readme = gh.repository("meribold", "github-stars").readme()
+readme = gh.repository("baditaflorin", "github-stars").readme()
 
 if new_readme_content != readme.decoded:
     readme.update("Update list of starred repositories", new_readme_content)
