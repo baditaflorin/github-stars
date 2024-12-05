@@ -109,6 +109,7 @@
 
 ## Go
 
+*   [m1k1o/neko](https://github.com/m1k1o/neko): A self hosted virtual browser that runs in docker and uses WebRTC.
 *   [nektos/act](https://github.com/nektos/act): Run your GitHub Actions locally 🚀
 *   [go-kit/kit](https://github.com/go-kit/kit): A standard library for microservices.
 *   [eriklupander/dvizz](https://github.com/eriklupander/dvizz): Docker Swarm visualization including live updates using D3 Force layout
@@ -216,6 +217,7 @@
 
 ## JavaScript
 
+*   [pegaltier/awesome-utils-dev](https://github.com/pegaltier/awesome-utils-dev): 📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...
 *   [dockersamples/docker-swarm-visualizer](https://github.com/dockersamples/docker-swarm-visualizer): A visualizer for Docker Swarm Mode using the Docker Remote API, Node.JS, and D3
 *   [bellingcat/toolkit](https://github.com/bellingcat/toolkit)
 *   [opening-hours/opening_hours_map](https://github.com/opening-hours/opening_hours_map): Map which evaluates opening_hours related tags.
@@ -349,6 +351,7 @@
 
 ## Miscellaneous
 
+*   [mxschmitt/awesome-playwright](https://github.com/mxschmitt/awesome-playwright): A curated list of awesome tools, utils and projects using Playwright
 *   [femueller/cloud-ip-ranges](https://github.com/femueller/cloud-ip-ranges): An up-to-date export of cloud provider IP address ranges
 *   [diptomondal007/GoLangBooks](https://github.com/diptomondal007/GoLangBooks): A list of best books which are needed to be a specialist in golang
 *   [letthedataconfess/Data-Engineering-Books](https://github.com/letthedataconfess/Data-Engineering-Books)
@@ -659,6 +662,7 @@
 
 ## Ruby
 
+*   [countries/countries](https://github.com/countries/countries): All sorts of useful information about every country packaged as convenient little country objects. It includes data from ISO 3166 (countries and states/subdivisions ), ISO 4217 (currency), and E.164 (phone numbers).
 *   [dbreunig/git-scraper-extractor](https://github.com/dbreunig/git-scraper-extractor): Pull out versions of specific files from a gitscraping repo into individual files.
 *   [community/community](https://github.com/community/community): Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
 *   [Homebrew/brew](https://github.com/Homebrew/brew): 🍺 The missing package manager for macOS (or Linux)
