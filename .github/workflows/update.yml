@@ -15,12 +15,11 @@ jobs:
       run: pip install -r requirements.txt
 
     - name: Debug Token
-      run:
-        echo "Token exists and length: ${#NEW_GITHUB_TOKEN}"
       env:
         NEW_GITHUB_TOKEN: ${{ secrets.NEW_GITHUB_TOKEN }}
-
-
+      run: |
+        echo "Checking token..."
+        echo "Token exists and length: ${#NEW_GITHUB_TOKEN}"
 
     - name: Update list
       env:
