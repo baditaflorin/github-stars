@@ -4,9 +4,10 @@ from collections import defaultdict
 from github3 import GitHub, exceptions
 
 # Fetch the token from environment variables
-token = os.environ.get("NEW_GITHUB_TOKEN")
-if not token:
-    raise ValueError("Environment variable NEW_GITHUB_TOKEN is not set.")
+token = os.getenv("NEW_GITHUB_TOKEN", None)
+if token is None or token == "":
+    raise ValueError("Environment variable NEW_GITHUB_TOKEN is either not set or empty.")
+print(f"Token received: {token[:5]}{'*' * (len(token) - 5)}")
 
 # Authenticate with GitHub
 try:

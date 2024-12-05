@@ -21,7 +21,5 @@ jobs:
         echo "Checking token..."
         echo "Token exists and length: ${#NEW_GITHUB_TOKEN}"
 
-    - name: Update list
-      env:
-        NEW_GITHUB_TOKEN: ${{ secrets.NOW_GITHUB_TOKEN }}
-      run: python3 update.py
+    - name: Run Python Script
+      run: NEW_GITHUB_TOKEN=${{ secrets.NEW_GITHUB_TOKEN }} python3 update.py
