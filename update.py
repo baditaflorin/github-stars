@@ -55,6 +55,7 @@ new_readme_content = "## Languages\n\n{}\n{}\n".format(
     ),
 ).encode()
 
+
 readme = gh.repository("baditaflorin", "github-stars").readme()
 
 if new_readme_content != readme.decoded:
