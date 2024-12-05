@@ -217,6 +217,7 @@
 
 ## JavaScript
 
+*   [angus-c/just](https://github.com/angus-c/just): A library of dependency-free JavaScript utilities that do just one thing.
 *   [pegaltier/awesome-utils-dev](https://github.com/pegaltier/awesome-utils-dev): 📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...
 *   [dockersamples/docker-swarm-visualizer](https://github.com/dockersamples/docker-swarm-visualizer): A visualizer for Docker Swarm Mode using the Docker Remote API, Node.JS, and D3
 *   [bellingcat/toolkit](https://github.com/bellingcat/toolkit)
