@@ -353,6 +353,7 @@
 
 ## Miscellaneous
 
+*   [simonw/awesome-db-tools](https://github.com/simonw/awesome-db-tools): Everything that makes working with databases easier
 *   [mxschmitt/awesome-playwright](https://github.com/mxschmitt/awesome-playwright): A curated list of awesome tools, utils and projects using Playwright
 *   [femueller/cloud-ip-ranges](https://github.com/femueller/cloud-ip-ranges): An up-to-date export of cloud provider IP address ranges
 *   [diptomondal007/GoLangBooks](https://github.com/diptomondal007/GoLangBooks): A list of best books which are needed to be a specialist in golang
