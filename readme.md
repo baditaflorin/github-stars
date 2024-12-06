@@ -88,6 +88,7 @@
 
 ## CSS
 
+*   [progit/progit2](https://github.com/progit/progit2): Pro Git 2nd Edition
 *   [mvexel/openstreetmap-vintage-tile-server](https://github.com/mvexel/openstreetmap-vintage-tile-server): A Bash script to create a vintage OpenStreetMap tile server
 *   [tinoschroeter/bash_on_steroids](https://github.com/tinoschroeter/bash_on_steroids): Use bash scrpts for writing beautiful web apps. :globe_with_meridians:
 *   [JarnoLeConte/streamdeck-findertags](https://github.com/JarnoLeConte/streamdeck-findertags)
@@ -493,6 +494,8 @@
 
 ## Python
 
+*   [simonw/sqlite-utils](https://github.com/simonw/sqlite-utils): Python CLI utility and library for manipulating SQLite databases
+*   [simonw/llm-cluster](https://github.com/simonw/llm-cluster): LLM plugin for clustering embeddings
 *   [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory): Unified Efficient Fine-Tuning of 100+ LLMs (ACL 2024)
 *   [unslothai/unsloth](https://github.com/unslothai/unsloth): Finetune Llama 3.2, Mistral, Phi, Qwen 2.5 & Gemma LLMs 2-5x faster with 80% less memory
 *   [opendatalab/PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit): A Comprehensive Toolkit for High-Quality PDF Content Extraction
