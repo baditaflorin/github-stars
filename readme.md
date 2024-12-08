@@ -71,6 +71,7 @@
 
 ## C#
 
+*   [microsoft/CodeXGLUE](https://github.com/microsoft/CodeXGLUE): CodeXGLUE
 *   [jgosar/mine-city-2000](https://github.com/jgosar/mine-city-2000): A program that converts SimCity 2000 cities into Minecraft worlds
 *   [ShareX/ShareX](https://github.com/ShareX/ShareX): ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
 *   [BarRaider/streamdeck-profileoverwrite](https://github.com/BarRaider/streamdeck-profileoverwrite): Copies entire columns of one profile to another profile
@@ -495,6 +496,8 @@
 
 ## Python
 
+*   [autodistill/autodistill](https://github.com/autodistill/autodistill): Images to inference with no labeling (use foundation models to train supervised models).
+*   [fdalvi/NeuroX](https://github.com/fdalvi/NeuroX): A Python library that encapsulates various methods for neuron interpretation and analysis in Deep NLP models.
 *   [simonw/sqlite-utils](https://github.com/simonw/sqlite-utils): Python CLI utility and library for manipulating SQLite databases
 *   [simonw/llm-cluster](https://github.com/simonw/llm-cluster): LLM plugin for clustering embeddings
 *   [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory): Unified Efficient Fine-Tuning of 100+ LLMs (ACL 2024)
