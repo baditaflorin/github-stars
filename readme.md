@@ -496,6 +496,7 @@
 
 ## Python
 
+*   [Sanaelotfi/sublora-bounds-for-llms](https://github.com/Sanaelotfi/sublora-bounds-for-llms): Computing compression-based generalization bounds for LLMs using SubLoRA
 *   [autodistill/autodistill](https://github.com/autodistill/autodistill): Images to inference with no labeling (use foundation models to train supervised models).
 *   [fdalvi/NeuroX](https://github.com/fdalvi/NeuroX): A Python library that encapsulates various methods for neuron interpretation and analysis in Deep NLP models.
 *   [simonw/sqlite-utils](https://github.com/simonw/sqlite-utils): Python CLI utility and library for manipulating SQLite databases
