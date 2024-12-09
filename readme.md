@@ -219,6 +219,7 @@
 
 ## JavaScript
 
+*   [lowlighter/metrics](https://github.com/lowlighter/metrics): 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 *   [angus-c/just](https://github.com/angus-c/just): A library of dependency-free JavaScript utilities that do just one thing.
 *   [pegaltier/awesome-utils-dev](https://github.com/pegaltier/awesome-utils-dev): 📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...
 *   [dockersamples/docker-swarm-visualizer](https://github.com/dockersamples/docker-swarm-visualizer): A visualizer for Docker Swarm Mode using the Docker Remote API, Node.JS, and D3
