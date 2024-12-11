@@ -639,7 +639,7 @@
 *   [BernhardWenzel/google-taxonomy-matcher](https://github.com/BernhardWenzel/google-taxonomy-matcher): Matches a category of Google's Taxonomy to product that is described in any kind of text data
 *   [giacbrd/ShallowLearn](https://github.com/giacbrd/ShallowLearn): An experiment about re-implementing supervised learning models based on shallow neural network approaches (e.g. fastText) with some additional exclusive features and nice API. Written in Python and fully compatible with Scikit-learn.
 *   [vivekprm/DataScienceAndMachineLearning](https://github.com/vivekprm/DataScienceAndMachineLearning)
-*   [bslatkin/effectivepython](https://github.com/bslatkin/effectivepython): Effective Python: Second Edition — Source Code and Errata for the Book
+*   [bslatkin/effectivepython](https://github.com/bslatkin/effectivepython): Effective Python: Third Edition — Source Code and Errata for the Book
 *   [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning): A curated list of awesome Machine Learning frameworks, libraries and software.
 *   [matheusportela/simpletable](https://github.com/matheusportela/simpletable): Python module to provide simple HTML table creation without third-party libraries.
 *   [google/google-visualization-python](https://github.com/google/google-visualization-python): Automatically exported from code.google.com/p/google-visualization-python
