@@ -78,6 +78,7 @@
 
 ## C++
 
+*   [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM): TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.
 *   [microsoft/BitNet](https://github.com/microsoft/BitNet): Official inference framework for 1-bit LLMs
 *   [google/libphonenumber](https://github.com/google/libphonenumber): Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
 *   [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp): Port of OpenAI's Whisper model in C/C++
@@ -497,6 +498,7 @@
 
 ## Python
 
+*   [triton-inference-server/tensorrtllm_backend](https://github.com/triton-inference-server/tensorrtllm_backend): The Triton TensorRT-LLM Backend
 *   [Sanaelotfi/sublora-bounds-for-llms](https://github.com/Sanaelotfi/sublora-bounds-for-llms): Computing compression-based generalization bounds for LLMs using SubLoRA
 *   [autodistill/autodistill](https://github.com/autodistill/autodistill): Images to inference with no labeling (use foundation models to train supervised models).
 *   [fdalvi/NeuroX](https://github.com/fdalvi/NeuroX): A Python library that encapsulates various methods for neuron interpretation and analysis in Deep NLP models.
