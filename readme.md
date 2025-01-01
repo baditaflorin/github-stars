@@ -94,6 +94,7 @@
 *   [progit/progit2](https://github.com/progit/progit2): Pro Git 2nd Edition
 *   [mvexel/openstreetmap-vintage-tile-server](https://github.com/mvexel/openstreetmap-vintage-tile-server): A Bash script to create a vintage OpenStreetMap tile server
 *   [tinoschroeter/bash_on_steroids](https://github.com/tinoschroeter/bash_on_steroids): Use bash scrpts for writing beautiful web apps. :globe_with_meridians:
+*   [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks): Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 *   [JarnoLeConte/streamdeck-findertags](https://github.com/JarnoLeConte/streamdeck-findertags)
 *   [CodeKindness/streamdeck-transformer](https://github.com/CodeKindness/streamdeck-transformer)
 *   [robconery/node-pg-start](https://github.com/robconery/node-pg-start): A Postgres-centric Node JS starter app built with Tailwind CSS and Express
@@ -580,7 +581,6 @@
 *   [lee212/sh2ansible](https://github.com/lee212/sh2ansible): Convert shell scripts to Ansible scripts with limiations
 *   [doccano/doccano](https://github.com/doccano/doccano): Open source annotation tool for machine learning practitioners.
 *   [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops): Ansible for DevOps examples.
-*   [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks): Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 *   [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries): The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 *   [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python): 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
 *   [3b1b/manim](https://github.com/3b1b/manim): Animation engine for explanatory math videos
