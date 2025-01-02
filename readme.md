@@ -259,7 +259,7 @@
 *   [hakimel/reveal.js](https://github.com/hakimel/reveal.js): The HTML Presentation Framework
 *   [gchq/CyberChef](https://github.com/gchq/CyberChef): The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 *   [html-to-text/node-html-to-text](https://github.com/html-to-text/node-html-to-text): Advanced html to text converter
-*   [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code): Short code snippets for all your development needs
+*   [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code): Coding articles to level up your development skills
 *   [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript): Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 *   [BloombergGraphics/whatiscode](https://github.com/BloombergGraphics/whatiscode): Paul Ford’s “What Is Code?”
 *   [openaddresses/openaddresses](https://github.com/openaddresses/openaddresses): A global repository of open address, building, and parcel data.
