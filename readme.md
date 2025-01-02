@@ -94,7 +94,6 @@
 *   [progit/progit2](https://github.com/progit/progit2): Pro Git 2nd Edition
 *   [mvexel/openstreetmap-vintage-tile-server](https://github.com/mvexel/openstreetmap-vintage-tile-server): A Bash script to create a vintage OpenStreetMap tile server
 *   [tinoschroeter/bash_on_steroids](https://github.com/tinoschroeter/bash_on_steroids): Use bash scrpts for writing beautiful web apps. :globe_with_meridians:
-*   [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks): Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 *   [JarnoLeConte/streamdeck-findertags](https://github.com/JarnoLeConte/streamdeck-findertags)
 *   [CodeKindness/streamdeck-transformer](https://github.com/CodeKindness/streamdeck-transformer)
 *   [robconery/node-pg-start](https://github.com/robconery/node-pg-start): A Postgres-centric Node JS starter app built with Tailwind CSS and Express
@@ -259,6 +258,7 @@
 *   [hakimel/reveal.js](https://github.com/hakimel/reveal.js): The HTML Presentation Framework
 *   [gchq/CyberChef](https://github.com/gchq/CyberChef): The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 *   [html-to-text/node-html-to-text](https://github.com/html-to-text/node-html-to-text): Advanced html to text converter
+*   [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks): Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 *   [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code): Coding articles to level up your development skills
 *   [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript): Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 *   [BloombergGraphics/whatiscode](https://github.com/BloombergGraphics/whatiscode): Paul Ford’s “What Is Code?”
