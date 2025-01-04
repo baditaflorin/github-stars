@@ -782,7 +782,7 @@
 ## TypeScript
 
 *   [scrapoxy/scrapoxy](https://github.com/scrapoxy/scrapoxy): Scrapoxy is a super proxies manager that orchestrates all your proxies into one place, rather than spreading management across multiple scrapers. It manages IP rotation and fingerprinting, and smartly routes traffic to avoid bans.
-*   [vitabaks/autobase](https://github.com/vitabaks/autobase): Automated database platform for PostgreSQL® — the open-source alternative to cloud-managed databases (DBaaS).
+*   [vitabaks/autobase](https://github.com/vitabaks/autobase): Automated database platform for PostgreSQL® — the open-source alternative to cloud-managed databases.
 *   [jina-ai/reader](https://github.com/jina-ai/reader): Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
 *   [xenova/whisper-web](https://github.com/xenova/whisper-web): ML-powered speech recognition directly in your browser
 *   [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti): Open Cyber Threat Intelligence Platform
