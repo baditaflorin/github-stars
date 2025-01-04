@@ -17,7 +17,6 @@
 *   [Jinja](#jinja)
 *   [Julia](#julia)
 *   [Jupyter Notebook](#jupyter-notebook)
-*   [Just](#just)
 *   [Kotlin](#kotlin)
 *   [Lua](#lua)
 *   [MDX](#mdx)
@@ -333,10 +332,6 @@
 *   [minimaxir/reddit-graph](https://github.com/minimaxir/reddit-graph): Jupyter notebook + Code for reproducing Reddit Subreddit graphs
 *   [Digitaalhumanitaaria/facebook-page-post-scraper](https://github.com/Digitaalhumanitaaria/facebook-page-post-scraper): Data scraper for Facebook Pages, and also code accompanying the blog post How to Scrape Data From Facebook Page Posts for Statistical Analysis
 
-## Just
-
-*   [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django): A curated list of awesome things related to Django
-
 ## Kotlin
 
 *   [KonradIT/CamControl](https://github.com/KonradIT/CamControl): Open source app to connect with popular action cameras, replacing your vendor's closed source app system.
@@ -564,6 +559,7 @@
 *   [cookiecutter/cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django): Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
 *   [jarun/ddgr](https://github.com/jarun/ddgr): :duck: DuckDuckGo from the terminal
 *   [SmileyChris/django-countries](https://github.com/SmileyChris/django-countries): A Django application that provides country choices for use with forms, flag icons static files, and a country field for models.
+*   [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django): A curated list of awesome things related to Django
 *   [ramiroaznar/geocode-with-python-using-geopy](https://github.com/ramiroaznar/geocode-with-python-using-geopy): A Python program to geocode a csv file using Geopy
 *   [pyppeteer/pyppeteer](https://github.com/pyppeteer/pyppeteer): Headless chrome/chromium automation library (unofficial port of puppeteer)
 *   [kanishka-linux/hlspy](https://github.com/kanishka-linux/hlspy): A simple headless browser
