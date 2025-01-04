@@ -17,6 +17,7 @@
 *   [Jinja](#jinja)
 *   [Julia](#julia)
 *   [Jupyter Notebook](#jupyter-notebook)
+*   [Just](#just)
 *   [Kotlin](#kotlin)
 *   [Lua](#lua)
 *   [MDX](#mdx)
@@ -171,7 +172,6 @@
 *   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): This repo includes ChatGPT prompt curation to use ChatGPT better.
 *   [payloadartist/offensive-chatgpt](https://github.com/payloadartist/offensive-chatgpt): Offensive security use cases of ChatGPT
 *   [Podcastindex-org/podcast-namespace](https://github.com/Podcastindex-org/podcast-namespace): A wholistic rss namespace for podcasting
-*   [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django): A curated list of awesome things related to Django
 *   [realpython/materials](https://github.com/realpython/materials): Bonus materials, exercises, and example projects for our Python tutorials
 *   [docker/awesome-compose](https://github.com/docker/awesome-compose): Awesome Docker Compose samples
 *   [w3c/webextensions](https://github.com/w3c/webextensions): Charter and administrivia for the WebExtensions Community Group (WECG)
@@ -332,6 +332,10 @@
 *   [GoogleCloudPlatform/python-docs-samples](https://github.com/GoogleCloudPlatform/python-docs-samples): Code samples used on cloud.google.com
 *   [minimaxir/reddit-graph](https://github.com/minimaxir/reddit-graph): Jupyter notebook + Code for reproducing Reddit Subreddit graphs
 *   [Digitaalhumanitaaria/facebook-page-post-scraper](https://github.com/Digitaalhumanitaaria/facebook-page-post-scraper): Data scraper for Facebook Pages, and also code accompanying the blog post How to Scrape Data From Facebook Page Posts for Statistical Analysis
+
+## Just
+
+*   [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django): A curated list of awesome things related to Django
 
 ## Kotlin
 
