@@ -169,7 +169,7 @@
 *   [vladmandic/human](https://github.com/vladmandic/human): Human: AI-powered 3D Face Detection & Rotation Tracking, Face Description & Recognition, Body Pose Tracking, 3D Hand & Finger Tracking, Iris Analysis, Age & Gender & Emotion Prediction, Gaze Tracking, Gesture Recognition
 *   [baditaflorin/scrape_hub](https://github.com/baditaflorin/scrape_hub)
 *   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev): A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): This repo includes ChatGPT prompt curation to use ChatGPT better.
+*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 *   [payloadartist/offensive-chatgpt](https://github.com/payloadartist/offensive-chatgpt): Offensive security use cases of ChatGPT
 *   [Podcastindex-org/podcast-namespace](https://github.com/Podcastindex-org/podcast-namespace): A wholistic rss namespace for podcasting
 *   [realpython/materials](https://github.com/realpython/materials): Bonus materials, exercises, and example projects for our Python tutorials
