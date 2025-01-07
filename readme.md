@@ -113,6 +113,7 @@
 
 ## Go
 
+*   [pkoukk/tiktoken-go](https://github.com/pkoukk/tiktoken-go): go version of tiktoken
 *   [minio/minio](https://github.com/minio/minio): MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 *   [ondrajz/go-callvis](https://github.com/ondrajz/go-callvis): Visualize call graph of a Go program using Graphviz
 *   [mudler/LocalAI](https://github.com/mudler/LocalAI): :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference
@@ -321,6 +322,7 @@
 
 ## Jupyter Notebook
 
+*   [topoteretes/cognee](https://github.com/topoteretes/cognee): Reliable LLM Memory for AI Applications and AI Agents
 *   [huggingface/smol-course](https://github.com/huggingface/smol-course): A course on aligning smol models.
 *   [run-llama/llama-hub](https://github.com/run-llama/llama-hub): A library of data loaders for LLMs made by the community -- to be used with LlamaIndex and/or LangChain
 *   [sanchit-gandhi/whisper-jax](https://github.com/sanchit-gandhi/whisper-jax): JAX implementation of OpenAI's Whisper model for up to 70x speed-up on TPU.
@@ -502,6 +504,7 @@
 
 ## Python
 
+*   [deepset-ai/haystack](https://github.com/deepset-ai/haystack): AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.
 *   [khoj-ai/khoj](https://github.com/khoj-ai/khoj): Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
 *   [triton-inference-server/tensorrtllm_backend](https://github.com/triton-inference-server/tensorrtllm_backend): The Triton TensorRT-LLM Backend
 *   [Sanaelotfi/sublora-bounds-for-llms](https://github.com/Sanaelotfi/sublora-bounds-for-llms): Computing compression-based generalization bounds for LLMs using SubLoRA
