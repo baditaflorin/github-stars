@@ -164,7 +164,6 @@
 
 ## HTML
 
-*   [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai): 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper
 *   [tyrasd/osm-node-density](https://github.com/tyrasd/osm-node-density): :city_sunrise: a visualization of OpenStreetMaps node density
 *   [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured): Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
 *   [vladmandic/human](https://github.com/vladmandic/human): Human: AI-powered 3D Face Detection & Rotation Tracking, Face Description & Recognition, Body Pose Tracking, 3D Hand & Finger Tracking, Iris Analysis, Age & Gender & Emotion Prediction, Gaze Tracking, Gesture Recognition
@@ -520,6 +519,7 @@
 *   [exo-explore/exo](https://github.com/exo-explore/exo): Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 *   [openai/swarm](https://github.com/openai/swarm): Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
 *   [opengeos/qgis-basemaps](https://github.com/opengeos/qgis-basemaps): Adding basemaps to QGIS
+*   [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai): 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper
 *   [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech): Speech To Speech: an effort for an open-sourced and modular GPT4-o
 *   [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam): real time face swap and one-click video deepfake with only a single image
 *   [Alb-310/Geogramint](https://github.com/Alb-310/Geogramint): An OSINT Geolocalization tool for Telegram that find nearby users and groups 📡🌍🔍
