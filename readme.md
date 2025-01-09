@@ -113,6 +113,7 @@
 
 ## Go
 
+*   [ncabatoff/process-exporter](https://github.com/ncabatoff/process-exporter): Prometheus exporter that mines /proc to report on selected processes
 *   [pkoukk/tiktoken-go](https://github.com/pkoukk/tiktoken-go): go version of tiktoken
 *   [minio/minio](https://github.com/minio/minio): MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 *   [ondrajz/go-callvis](https://github.com/ondrajz/go-callvis): Visualize call graph of a Go program using Graphviz
