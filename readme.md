@@ -505,6 +505,7 @@
 
 ## Python
 
+*   [collabora/WhisperLive](https://github.com/collabora/WhisperLive): A nearly-live implementation of OpenAI's Whisper.
 *   [khoj-ai/flint](https://github.com/khoj-ai/flint): Journal with Khoj on WhatsApp. Supports multi-lingual audio messages, references previous conversations for context aware responses
 *   [deepset-ai/haystack](https://github.com/deepset-ai/haystack): AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.
 *   [khoj-ai/khoj](https://github.com/khoj-ai/khoj): Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
