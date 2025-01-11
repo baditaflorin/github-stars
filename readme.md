@@ -540,7 +540,7 @@
 *   [mapillary/mapillary_tools](https://github.com/mapillary/mapillary_tools): Command line tools for processing and uploading Mapillary imagery
 *   [microsoft/GlobalMLBuildingFootprints](https://github.com/microsoft/GlobalMLBuildingFootprints): Worldwide building footprints derived from satellite imagery
 *   [OpenTreeMap/otm-core](https://github.com/OpenTreeMap/otm-core): OpenTreeMap is a collaborative platform for crowdsourced tree inventory, ecosystem services calculations, urban forestry analysis, and community engagement.
-*   [run-llama/llama_index](https://github.com/run-llama/llama_index): LlamaIndex is a data framework for your LLM applications
+*   [run-llama/llama_index](https://github.com/run-llama/llama_index): LlamaIndex is the leading framework for building LLM-powered agents over your data
 *   [gimlet-ai/tddGPT](https://github.com/gimlet-ai/tddGPT): AutoGPT for Web App Development
 *   [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot): The first real AI developer
 *   [apple/ml-ferret](https://github.com/apple/ml-ferret)
