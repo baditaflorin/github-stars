@@ -505,6 +505,7 @@
 
 ## Python
 
+*   [disler/always-on-ai-assistant](https://github.com/disler/always-on-ai-assistant): A pattern for an always on AI Assistant powered by Deepseek-V3, RealtimeSTT, and Typer for engineering
 *   [KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT): A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription.
 *   [snakers4/silero-vad](https://github.com/snakers4/silero-vad): Silero VAD: pre-trained enterprise-grade Voice Activity Detector
 *   [collabora/WhisperLive](https://github.com/collabora/WhisperLive): A nearly-live implementation of OpenAI's Whisper.
