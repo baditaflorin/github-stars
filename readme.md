@@ -505,6 +505,7 @@
 
 ## Python
 
+*   [KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT): A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription.
 *   [snakers4/silero-vad](https://github.com/snakers4/silero-vad): Silero VAD: pre-trained enterprise-grade Voice Activity Detector
 *   [collabora/WhisperLive](https://github.com/collabora/WhisperLive): A nearly-live implementation of OpenAI's Whisper.
 *   [khoj-ai/flint](https://github.com/khoj-ai/flint): Journal with Khoj on WhatsApp. Supports multi-lingual audio messages, references previous conversations for context aware responses
