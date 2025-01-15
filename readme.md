@@ -519,7 +519,7 @@
 *   [fdalvi/NeuroX](https://github.com/fdalvi/NeuroX): A Python library that encapsulates various methods for neuron interpretation and analysis in Deep NLP models.
 *   [simonw/sqlite-utils](https://github.com/simonw/sqlite-utils): Python CLI utility and library for manipulating SQLite databases
 *   [simonw/llm-cluster](https://github.com/simonw/llm-cluster): LLM plugin for clustering embeddings
-*   [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory): Unified Efficient Fine-Tuning of 100+ LLMs (ACL 2024)
+*   [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory): Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 *   [unslothai/unsloth](https://github.com/unslothai/unsloth): Finetune Llama 3.3, Mistral, Phi-4, Qwen 2.5 & Gemma LLMs 2-5x faster with 70% less memory
 *   [opendatalab/PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit): A Comprehensive Toolkit for High-Quality PDF Content Extraction
 *   [exo-explore/exo](https://github.com/exo-explore/exo): Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
