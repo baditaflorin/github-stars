@@ -324,6 +324,7 @@
 
 ## Jupyter Notebook
 
+*   [facebookresearch/seamless_communication](https://github.com/facebookresearch/seamless_communication): Foundational Models for State-of-the-Art Speech and Text Translation
 *   [topoteretes/cognee](https://github.com/topoteretes/cognee): Reliable LLM Memory for AI Applications and AI Agents
 *   [huggingface/smol-course](https://github.com/huggingface/smol-course): A course on aligning smol models.
 *   [run-llama/llama-hub](https://github.com/run-llama/llama-hub): A library of data loaders for LLMs made by the community -- to be used with LlamaIndex and/or LangChain
