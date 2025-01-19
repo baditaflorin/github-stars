@@ -501,7 +501,7 @@
 
 ## Perl
 
-*   [ddclient/ddclient](https://github.com/ddclient/ddclient): Ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.
+*   [ddclient/ddclient](https://github.com/ddclient/ddclient): ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.
 *   [samyk/samytools](https://github.com/samyk/samytools): Simple tools to make reverse engineering and console cowboying easier, primarily by data translation and manipulation + file handle piping. Mostly *nix tools with an emphasis on macOS.
 
 ## PowerShell
