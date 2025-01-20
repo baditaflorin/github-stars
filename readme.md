@@ -802,6 +802,7 @@
 
 ## TypeScript
 
+*   [dash0hq/otelbin](https://github.com/dash0hq/otelbin): Web-based tool to facilitate OpenTelemetry collector configuration editing and verification
 *   [ctk-hq/ctk](https://github.com/ctk-hq/ctk): Visual composer for container based workloads
 *   [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy): Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
 *   [scrapoxy/scrapoxy](https://github.com/scrapoxy/scrapoxy): Scrapoxy is a super proxies manager that orchestrates all your proxies into one place, rather than spreading management across multiple scrapers. It manages IP rotation and fingerprinting, and smartly routes traffic to avoid bans.
