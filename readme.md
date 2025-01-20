@@ -54,6 +54,7 @@
 
 ## C
 
+*   [xiph/speexdsp](https://github.com/xiph/speexdsp): Speex audio processing library - THIS IS A MIRROR, DEVELOPMENT HAPPENS AT https://gitlab.xiph.org/xiph/speexdsp
 *   [xiph/rnnoise](https://github.com/xiph/rnnoise): Recurrent neural network for audio noise reduction
 *   [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec): A vector search SQLite extension that runs anywhere!
 *   [brendan-rius/c-jwt-cracker](https://github.com/brendan-rius/c-jwt-cracker): JWT brute force cracker written in C
