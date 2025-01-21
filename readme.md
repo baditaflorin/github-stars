@@ -121,6 +121,7 @@
 
 ## Go
 
+*   [golang/example](https://github.com/golang/example): Go example projects
 *   [cloudflare/cfssl](https://github.com/cloudflare/cfssl): CFSSL: Cloudflare's PKI and TLS toolkit
 *   [distribution/distribution](https://github.com/distribution/distribution): The toolkit to pack, ship, store, and deliver container content
 *   [c3sr/onnxruntime](https://github.com/c3sr/onnxruntime)
