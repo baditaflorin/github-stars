@@ -7,6 +7,7 @@
 *   [C++](#c-2)
 *   [CSS](#css)
 *   [Clojure](#clojure)
+*   [Crystal](#crystal)
 *   [Dockerfile](#dockerfile)
 *   [Go](#go)
 *   [HCL](#hcl)
@@ -107,6 +108,10 @@
 ## Clojure
 
 *   [overtone/overtone](https://github.com/overtone/overtone): Collaborative Programmable Music
+
+## Crystal
+
+*   [coverallsapp/coverage-reporter](https://github.com/coverallsapp/coverage-reporter): Self-contained, universal coverage uploader binary. Under development.
 
 ## Dockerfile
 
