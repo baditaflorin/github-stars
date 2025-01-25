@@ -812,7 +812,7 @@
 *   [ctk-hq/ctk](https://github.com/ctk-hq/ctk): Visual composer for container based workloads
 *   [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy): Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
 *   [scrapoxy/scrapoxy](https://github.com/scrapoxy/scrapoxy): Scrapoxy is a super proxies manager that orchestrates all your proxies into one place, rather than spreading management across multiple scrapers. It manages IP rotation and fingerprinting, and smartly routes traffic to avoid bans.
-*   [vitabaks/autobase](https://github.com/vitabaks/autobase): Automated database platform for PostgreSQL® — your own self-hosted DBaaS
+*   [vitabaks/autobase](https://github.com/vitabaks/autobase): Automated database platform for PostgreSQL® - Your self-hosted DBaaS
 *   [jina-ai/reader](https://github.com/jina-ai/reader): Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
 *   [xenova/whisper-web](https://github.com/xenova/whisper-web): ML-powered speech recognition directly in your browser
 *   [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti): Open Cyber Threat Intelligence Platform
