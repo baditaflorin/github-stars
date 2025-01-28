@@ -811,6 +811,7 @@
 
 ## TypeScript
 
+*   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid): Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 *   [dash0hq/otelbin](https://github.com/dash0hq/otelbin): Web-based tool to facilitate OpenTelemetry collector configuration editing and verification
 *   [ctk-hq/ctk](https://github.com/ctk-hq/ctk): Visual composer for container based workloads
 *   [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy): Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
