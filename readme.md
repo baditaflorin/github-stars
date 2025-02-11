@@ -725,6 +725,7 @@
 
 ## Rust
 
+*   [rust-lang/mdBook](https://github.com/rust-lang/mdBook): Create book from markdown files. Like Gitbook but implemented in Rust
 *   [yago-naga/yago4](https://github.com/yago-naga/yago4): Yago 4 - the next version of Yago
 *   [Canop/broot](https://github.com/Canop/broot): A new way to see and navigate directory trees : https://dystroy.org/broot
 *   [autumnai/leaf](https://github.com/autumnai/leaf): Open Machine Intelligence Framework for Hackers. (GPU/CPU)
