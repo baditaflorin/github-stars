@@ -452,7 +452,7 @@
 *   [notable/notable](https://github.com/notable/notable): The Markdown-based note-taking app that doesn't suck.
 *   [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line): Use your macOS terminal shell to do awesome things.
 *   [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line): Master the command line, in one page
-*   [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS): A book series on JavaScript. @YDKJS on twitter.
+*   [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS): A book series (2 published editions) on the JS language.
 *   [KranzSysdig/StreamDeckButtons](https://github.com/KranzSysdig/StreamDeckButtons): Buttons I used for my Stream Deck, along with any customisations
 *   [smashew/NameDatabases](https://github.com/smashew/NameDatabases): Text databases of last names from various countries
 *   [teamclairvoyant/NameDatabases](https://github.com/teamclairvoyant/NameDatabases): List of public, open source Name Databases
