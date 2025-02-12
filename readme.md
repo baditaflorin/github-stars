@@ -819,6 +819,7 @@
 
 ## TypeScript
 
+*   [outline/outline](https://github.com/outline/outline): The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 *   [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor): Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 *   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid): Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 *   [dash0hq/otelbin](https://github.com/dash0hq/otelbin): Web-based tool to facilitate OpenTelemetry collector configuration editing and verification
