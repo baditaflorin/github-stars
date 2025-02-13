@@ -2,6 +2,7 @@
 
 *   [Astro](#astro)
 *   [AutoHotkey](#autohotkey)
+*   [Bikeshed](#bikeshed)
 *   [C](#c)
 *   [C#](#c-1)
 *   [C++](#c-2)
@@ -53,6 +54,10 @@
 ## AutoHotkey
 
 *   [TaranVH/2nd-keyboard](https://github.com/TaranVH/2nd-keyboard): ALL of Taran's scripts - not just for the 2nd keyboard.
+
+## Bikeshed
+
+*   [w3c/webextensions](https://github.com/w3c/webextensions): Charter and administrivia for the WebExtensions Community Group (WECG)
 
 ## C
 
@@ -194,7 +199,6 @@
 *   [Podcastindex-org/podcast-namespace](https://github.com/Podcastindex-org/podcast-namespace): A wholistic rss namespace for podcasting
 *   [realpython/materials](https://github.com/realpython/materials): Bonus materials, exercises, and example projects for our Python tutorials
 *   [docker/awesome-compose](https://github.com/docker/awesome-compose): Awesome Docker Compose samples
-*   [w3c/webextensions](https://github.com/w3c/webextensions): Charter and administrivia for the WebExtensions Community Group (WECG)
 *   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books): :books: Freely available programming books
 *   [EqualStreetNames/equalstreetnames-template](https://github.com/EqualStreetNames/equalstreetnames-template): Template for city sub-module
 *   [CitizensFoundation/your-priorities-app](https://github.com/CitizensFoundation/your-priorities-app): Your Priorities is a citizen engagement platform, a progressive web app, and a participatory social network that empowers groups of any size to speak with one voice and organize around ideas.
