@@ -146,7 +146,7 @@
 *   [eriklupander/dvizz](https://github.com/eriklupander/dvizz): Docker Swarm visualization including live updates using D3 Force layout
 *   [vektra/mockery](https://github.com/vektra/mockery): A mock code autogenerator for Go
 *   [timohirt/terraform-provider-hetznerdns](https://github.com/timohirt/terraform-provider-hetznerdns): Terraform provider for Hetzner DNS
-*   [pufferffish/wireproxy](https://github.com/pufferffish/wireproxy): Wireguard client that exposes itself as a socks5 proxy
+*   [whyvl/wireproxy](https://github.com/whyvl/wireproxy): Wireguard client that exposes itself as a socks5 proxy
 *   [go-gitea/gitea](https://github.com/go-gitea/gitea): Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 *   [greatfire/freebrowser](https://github.com/greatfire/freebrowser)
 *   [baditaflorin/commonuseragent](https://github.com/baditaflorin/commonuseragent): Common User Agent: A practical Go module streamlined for developers needing reliable desktop and mobile user agents. This module simplifies access to a diverse range of user agents, allowing developers to efficiently test and simulate different browsing environments in their applications.
