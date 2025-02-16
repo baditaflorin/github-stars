@@ -807,6 +807,7 @@
 
 ## Svelte
 
+*   [reid41/QA-Pilot](https://github.com/reid41/QA-Pilot): QA-Pilot is an interactive chat project that leverages online/local LLM for rapid understanding and navigation of GitHub code repository.
 *   [ekafyi/johnnydecimal-index-generator](https://github.com/ekafyi/johnnydecimal-index-generator): Code for the Johnny Decimal Index Generator web app
 
 ## Swift
