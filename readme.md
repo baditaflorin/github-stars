@@ -188,6 +188,7 @@
 
 ## HTML
 
+*   [mixmark-io/turndown](https://github.com/mixmark-io/turndown): 🛏 An HTML to Markdown converter written in JavaScript
 *   [mlip-cmu/s2025](https://github.com/mlip-cmu/s2025)
 *   [valiantlynx/ollama-docker](https://github.com/valiantlynx/ollama-docker): Welcome to the Ollama Docker Compose Setup! This project simplifies the deployment of Ollama using Docker Compose, making it easy to run Ollama with all its dependencies in a containerized environment
 *   [tyrasd/osm-node-density](https://github.com/tyrasd/osm-node-density): :city_sunrise: a visualization of OpenStreetMaps node density
