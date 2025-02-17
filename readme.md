@@ -188,6 +188,7 @@
 
 ## HTML
 
+*   [shuangq/OutlineJS](https://github.com/shuangq/OutlineJS): A plugin for generating outline automatically.
 *   [mixmark-io/turndown](https://github.com/mixmark-io/turndown): 🛏 An HTML to Markdown converter written in JavaScript
 *   [mlip-cmu/s2025](https://github.com/mlip-cmu/s2025)
 *   [valiantlynx/ollama-docker](https://github.com/valiantlynx/ollama-docker): Welcome to the Ollama Docker Compose Setup! This project simplifies the deployment of Ollama using Docker Compose, making it easy to run Ollama with all its dependencies in a containerized environment
@@ -370,6 +371,7 @@
 
 ## Lua
 
+*   [JockeKv/OutlineWiki.nvim](https://github.com/JockeKv/OutlineWiki.nvim): Neovim plugin for Outline
 *   [jcjohnson/torch-rnn](https://github.com/jcjohnson/torch-rnn): Efficient, reusable RNNs and LSTMs for torch
 *   [karpathy/char-rnn](https://github.com/karpathy/char-rnn): Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch
 
@@ -739,6 +741,7 @@
 
 ## Shell
 
+*   [chsasank/outline-wiki-docker-compose](https://github.com/chsasank/outline-wiki-docker-compose): Installation and docker compose to self host outline wiki: https://www.getoutline.com/
 *   [FWDekker/mommy](https://github.com/FWDekker/mommy): mommy's here to support you, in any shell, on any system~ ❤️
 *   [madalin-dogaru/operating_systems_automation](https://github.com/madalin-dogaru/operating_systems_automation): Operating Systems Automations.
 *   [scop/bash-completion](https://github.com/scop/bash-completion): Programmable completion functions for bash
