@@ -250,6 +250,7 @@
 
 ## JavaScript
 
+*   [quartzy/prosemirror-suggestions](https://github.com/quartzy/prosemirror-suggestions): Plugin for handling suggestions in Prosemirror (e.g. autocomplete on mentions, tags, etc.)
 *   [mermaidjs/mermaid-live-editor](https://github.com/mermaidjs/mermaid-live-editor): Location has moved to https://github.com/mermaid-js/mermaid-live-editor
 *   [lowlighter/metrics](https://github.com/lowlighter/metrics): 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 *   [angus-c/just](https://github.com/angus-c/just): A library of dependency-free JavaScript utilities that do just one thing.
@@ -831,6 +832,7 @@
 
 ## TypeScript
 
+*   [paperbits/paperbits-core](https://github.com/paperbits/paperbits-core): This repository contains core Paperbits components
 *   [outline/outline](https://github.com/outline/outline): The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 *   [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor): Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 *   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid): Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
