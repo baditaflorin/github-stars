@@ -131,6 +131,7 @@
 
 ## Go
 
+*   [minio/mc](https://github.com/minio/mc): Unix like utilities for object store
 *   [Lujeni/mattermost-plugin-outline](https://github.com/Lujeni/mattermost-plugin-outline): Mattermost outline plugin allows you to search your teams documents.
 *   [golang/example](https://github.com/golang/example): Go example projects
 *   [cloudflare/cfssl](https://github.com/cloudflare/cfssl): CFSSL: Cloudflare's PKI and TLS toolkit
