@@ -538,6 +538,7 @@
 
 ## Python
 
+*   [hyunjun/bookmarks](https://github.com/hyunjun/bookmarks)
 *   [mistralai/mistral-finetune](https://github.com/mistralai/mistral-finetune)
 *   [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder): DeepSeek Coder: Let the Code Write Itself
 *   [theroyallab/tabbyAPI](https://github.com/theroyallab/tabbyAPI): An OAI compatible exllamav2 API that's both lightweight and fast
