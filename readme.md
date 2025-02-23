@@ -131,6 +131,7 @@
 
 ## Go
 
+*   [robertkrimen/otto](https://github.com/robertkrimen/otto): A JavaScript interpreter in Go (golang)
 *   [blevesearch/bleve](https://github.com/blevesearch/bleve): A modern text/numeric/geo-spatial/vector indexing library for go
 *   [minio/mc](https://github.com/minio/mc): Unix like utilities for object store
 *   [Lujeni/mattermost-plugin-outline](https://github.com/Lujeni/mattermost-plugin-outline): Mattermost outline plugin allows you to search your teams documents.
