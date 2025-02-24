@@ -542,6 +542,7 @@
 
 ## Python
 
+*   [gyptazy/ProxLB](https://github.com/gyptazy/ProxLB): ProxLB - (Re)Balance VM Workloads Across Nodes in Proxmox Clusters. A Load Balancer for Proxmox - and more!
 *   [hyunjun/bookmarks](https://github.com/hyunjun/bookmarks)
 *   [mistralai/mistral-finetune](https://github.com/mistralai/mistral-finetune)
 *   [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder): DeepSeek Coder: Let the Code Write Itself
