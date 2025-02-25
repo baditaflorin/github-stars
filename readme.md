@@ -839,6 +839,7 @@
 
 ## TypeScript
 
+*   [markmap/markmap](https://github.com/markmap/markmap): Build mindmaps with plain text
 *   [paperbits/paperbits-core](https://github.com/paperbits/paperbits-core): This repository contains core Paperbits components
 *   [outline/outline](https://github.com/outline/outline): The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 *   [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor): Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
