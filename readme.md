@@ -80,6 +80,7 @@
 
 ## C#
 
+*   [HaveIBeenPwned/EmailAddressExtractor](https://github.com/HaveIBeenPwned/EmailAddressExtractor): A project to rapidly extract all email addresses from any files in a given path
 *   [microsoft/CodeXGLUE](https://github.com/microsoft/CodeXGLUE): CodeXGLUE
 *   [jgosar/mine-city-2000](https://github.com/jgosar/mine-city-2000): A program that converts SimCity 2000 cities into Minecraft worlds
 *   [ShareX/ShareX](https://github.com/ShareX/ShareX): ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
