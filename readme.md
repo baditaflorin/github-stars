@@ -356,6 +356,7 @@
 
 ## Jupyter Notebook
 
+*   [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace): 🛠 All-in-one web-based IDE specialized for machine learning and data science.
 *   [facebookresearch/seamless_communication](https://github.com/facebookresearch/seamless_communication): Foundational Models for State-of-the-Art Speech and Text Translation
 *   [topoteretes/cognee](https://github.com/topoteretes/cognee): Reliable LLM Memory for AI Applications and AI Agents
 *   [huggingface/smol-course](https://github.com/huggingface/smol-course): A course on aligning smol models.
@@ -543,6 +544,7 @@
 
 ## Python
 
+*   [FlagOpen/FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding): Retrieval and Retrieval-augmented LLMs
 *   [gyptazy/ProxLB](https://github.com/gyptazy/ProxLB): ProxLB - (Re)Balance VM Workloads Across Nodes in Proxmox Clusters. A Load Balancer for Proxmox - and more!
 *   [hyunjun/bookmarks](https://github.com/hyunjun/bookmarks)
 *   [mistralai/mistral-finetune](https://github.com/mistralai/mistral-finetune)
