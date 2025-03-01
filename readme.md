@@ -88,6 +88,7 @@
 
 ## C++
 
+*   [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS): A high-performance distributed file system designed to address the challenges of AI training and inference workloads.
 *   [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime): ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 *   [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp): Run GGUF models easily with a KoboldAI UI. One File. Zero Install.
 *   [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM): TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.
@@ -544,6 +545,7 @@
 
 ## Python
 
+*   [authed-dev/authed](https://github.com/authed-dev/authed): OAuth for AI Agents. Open-source authentication protocol for agentic interactions. Secure agents across different companies with Authed.
 *   [FlagOpen/FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding): Retrieval and Retrieval-augmented LLMs
 *   [gyptazy/ProxLB](https://github.com/gyptazy/ProxLB): ProxLB - (Re)Balance VM Workloads Across Nodes in Proxmox Clusters. A Load Balancer for Proxmox - and more!
 *   [hyunjun/bookmarks](https://github.com/hyunjun/bookmarks)
