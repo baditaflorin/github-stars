@@ -547,6 +547,8 @@
 
 ## Python
 
+*   [HKUDS/AutoAgent](https://github.com/HKUDS/AutoAgent): "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"
+*   [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps): Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 *   [authed-dev/authed](https://github.com/authed-dev/authed): OAuth for AI Agents. Open-source authentication protocol for agentic interactions. Secure agents across different companies with Authed.
 *   [FlagOpen/FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding): Retrieval and Retrieval-augmented LLMs
 *   [gyptazy/ProxLB](https://github.com/gyptazy/ProxLB): ProxLB - (Re)Balance VM Workloads Across Nodes in Proxmox Clusters. A Load Balancer for Proxmox - and more!
@@ -846,6 +848,8 @@
 
 ## TypeScript
 
+*   [browserbase/stagehand](https://github.com/browserbase/stagehand): An AI web browsing framework focused on simplicity and extensibility.
+*   [mendableai/firecrawl](https://github.com/mendableai/firecrawl): 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 *   [markmap/markmap](https://github.com/markmap/markmap): Build mindmaps with plain text
 *   [paperbits/paperbits-core](https://github.com/paperbits/paperbits-core): This repository contains core Paperbits components
 *   [outline/outline](https://github.com/outline/outline): The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
