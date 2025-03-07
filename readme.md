@@ -226,6 +226,7 @@
 *   [mjfoster83/web-map-workshop](https://github.com/mjfoster83/web-map-workshop): Workshop on web mapping using Leaflet and CartoDB.
 *   [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line): Data Science at the Command Line
 *   [wtak23/snippets](https://github.com/wtak23/snippets)
+*   [codelucas/newspaper](https://github.com/codelucas/newspaper): newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
 *   [nycdatasci/bootcamp007_project](https://github.com/nycdatasci/bootcamp007_project): Bootcamp 7 Student Project Presentation
 *   [analyticsbot/Python-Code---Part-8](https://github.com/analyticsbot/Python-Code---Part-8): 8th part of python projects
 *   [durongxuan/github](https://github.com/durongxuan/github)
@@ -667,7 +668,6 @@
 *   [darryllane/Bluto](https://github.com/darryllane/Bluto): DNS Recon | Brute Forcer | DNS Zone Transfer | DNS Wild Card Checks | DNS Wild Card Brute Forcer | Email Enumeration | Staff Enumeration | Compromised Account Checking
 *   [Hoog3059/pentest_cheatsheet_finder](https://github.com/Hoog3059/pentest_cheatsheet_finder): Search a bunch of Pentesting cheat sheets.
 *   [Saymmic/cleaner](https://github.com/Saymmic/cleaner): Work and make mess, this will clean up for you after you done.
-*   [codelucas/newspaper](https://github.com/codelucas/newspaper): newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
 *   [openai/gpt-2](https://github.com/openai/gpt-2): Code for the paper "Language Models are Unsupervised Multitask Learners"
 *   [vladimarius/pyap](https://github.com/vladimarius/pyap): Python address detector and parser
 *   [drorgarti/DataHarvester](https://github.com/drorgarti/DataHarvester)
