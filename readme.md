@@ -134,6 +134,7 @@
 
 ## Go
 
+*   [oramasearch/onnx-go](https://github.com/oramasearch/onnx-go): onnx-go gives the ability to import a pre-trained neural network within Go without being linked to a framework or library.
 *   [aldinokemal/go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice): API for Whatsapp Web Multi Device Version, Support UI & Webhook
 *   [gocolly/colly](https://github.com/gocolly/colly): Elegant Scraper and Crawler Framework for Golang
 *   [gost-dom/browser](https://github.com/gost-dom/browser): Headless browser for Go for TDD workflows
@@ -360,6 +361,7 @@
 
 ## Jupyter Notebook
 
+*   [onnx/models](https://github.com/onnx/models): A collection of pre-trained, state-of-the-art models in the ONNX format
 *   [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace): 🛠 All-in-one web-based IDE specialized for machine learning and data science.
 *   [facebookresearch/seamless_communication](https://github.com/facebookresearch/seamless_communication): Foundational Models for State-of-the-Art Speech and Text Translation
 *   [topoteretes/cognee](https://github.com/topoteretes/cognee): Reliable LLM Memory for AI Applications and AI Agents
