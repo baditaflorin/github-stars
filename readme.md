@@ -551,6 +551,7 @@
 
 ## Python
 
+*   [ahmedaabouzied/rag-systems](https://github.com/ahmedaabouzied/rag-systems): A collection of RAG system implementations.
 *   [OpenSource-For-Freedom/HARDN](https://github.com/OpenSource-For-Freedom/HARDN): A single Debian tool to fully secure an OS using  automation, monitoring, heuristics and keeping availability high.
 *   [TIGER-AI-Lab/LongRAG](https://github.com/TIGER-AI-Lab/LongRAG): Official repo for "LongRAG: Enhancing Retrieval-Augmented Generation with Long-context LLMs".
 *   [HKUDS/AutoAgent](https://github.com/HKUDS/AutoAgent): "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"
