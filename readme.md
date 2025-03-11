@@ -556,7 +556,7 @@
 *   [TIGER-AI-Lab/LongRAG](https://github.com/TIGER-AI-Lab/LongRAG): Official repo for "LongRAG: Enhancing Retrieval-Augmented Generation with Long-context LLMs".
 *   [HKUDS/AutoAgent](https://github.com/HKUDS/AutoAgent): "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"
 *   [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps): Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-*   [authed-dev/authed](https://github.com/authed-dev/authed): Open-source authentication protocol for agentic interactions. Secure agents across different companies with Authed.
+*   [authed-dev/authed](https://github.com/authed-dev/authed): Open-source authentication protocol for agentic interactions. Let agents collaborate with Authed
 *   [FlagOpen/FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding): Retrieval and Retrieval-augmented LLMs
 *   [gyptazy/ProxLB](https://github.com/gyptazy/ProxLB): ProxLB - (Re)Balance VM Workloads Across Nodes in Proxmox Clusters. A Load Balancer for Proxmox - and more!
 *   [hyunjun/bookmarks](https://github.com/hyunjun/bookmarks)
