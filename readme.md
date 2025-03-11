@@ -551,6 +551,7 @@
 
 ## Python
 
+*   [camel-ai/camel](https://github.com/camel-ai/camel): 🐫 CAMEL: Finding the Scaling Law of Agents. The first and the best multi-agent framework. https://www.camel-ai.org
 *   [ahmedaabouzied/rag-systems](https://github.com/ahmedaabouzied/rag-systems): A collection of RAG system implementations.
 *   [OpenSource-For-Freedom/HARDN](https://github.com/OpenSource-For-Freedom/HARDN): A single Debian tool to fully secure an OS using  automation, monitoring, heuristics and keeping availability high.
 *   [TIGER-AI-Lab/LongRAG](https://github.com/TIGER-AI-Lab/LongRAG): Official repo for "LongRAG: Enhancing Retrieval-Augmented Generation with Long-context LLMs".
