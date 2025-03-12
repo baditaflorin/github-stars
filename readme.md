@@ -855,6 +855,7 @@
 
 ## TypeScript
 
+*   [nanbingxyz/5ire](https://github.com/nanbingxyz/5ire): 5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers,  supports local knowledge base and  tools via model context protocol servers .
 *   [browserbase/stagehand](https://github.com/browserbase/stagehand): An AI web browsing framework focused on simplicity and extensibility.
 *   [mendableai/firecrawl](https://github.com/mendableai/firecrawl): 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 *   [markmap/markmap](https://github.com/markmap/markmap): Build mindmaps with plain text
