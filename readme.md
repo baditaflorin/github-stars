@@ -134,6 +134,7 @@
 
 ## Go
 
+*   [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang): Write Model Context Protocol servers in few lines of go code. Docs at https://mcpgolang.com
 *   [oramasearch/onnx-go](https://github.com/oramasearch/onnx-go): onnx-go gives the ability to import a pre-trained neural network within Go without being linked to a framework or library.
 *   [aldinokemal/go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice): API for Whatsapp Web Multi Device Version, Support UI & Webhook
 *   [gocolly/colly](https://github.com/gocolly/colly): Elegant Scraper and Crawler Framework for Golang
@@ -261,6 +262,7 @@
 
 ## JavaScript
 
+*   [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers): Model Context Protocol Servers
 *   [maoxiaoke/mcp-media-processor](https://github.com/maoxiaoke/mcp-media-processor): A Node.js server implementing Model Context Protocol (MCP) for media processing operations, providing powerful video and image manipulation capabilities.
 *   [quartzy/prosemirror-suggestions](https://github.com/quartzy/prosemirror-suggestions): Plugin for handling suggestions in Prosemirror (e.g. autocomplete on mentions, tags, etc.)
 *   [mermaidjs/mermaid-live-editor](https://github.com/mermaidjs/mermaid-live-editor): Location has moved to https://github.com/mermaid-js/mermaid-live-editor
