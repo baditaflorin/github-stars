@@ -385,6 +385,7 @@
 *   [KonradIT/CamControl](https://github.com/KonradIT/CamControl): Open source app to connect with popular action cameras, replacing your vendor's closed source app system.
 *   [fi3te/NotificationCron](https://github.com/fi3te/NotificationCron): Notification Cron is a straightforward tool to schedule recurring notifications on your phone without adding calendar entries
 *   [trynoice/android-app](https://github.com/trynoice/android-app): The Android app for Noice.
+*   [doyensec/inql](https://github.com/doyensec/inql): InQL is a robust, open-source Burp Suite extension for advanced GraphQL testing, offering intuitive vulnerability detection, customizable scans, and seamless Burp integration.
 
 ## Lua
 
@@ -673,7 +674,6 @@
 *   [philipperemy/name-dataset](https://github.com/philipperemy/name-dataset): The Python library for names.
 *   [kislyuk/yq](https://github.com/kislyuk/yq): Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
 *   [MagicStack/asyncpg](https://github.com/MagicStack/asyncpg): A fast PostgreSQL Database Client Library for Python/asyncio.
-*   [doyensec/inql](https://github.com/doyensec/inql): InQL is a robust, open-source Burp Suite extension for advanced GraphQL testing, offering intuitive vulnerability detection, customizable scans, and seamless Burp integration.
 *   [hartleybrody/public-amazon-crawler](https://github.com/hartleybrody/public-amazon-crawler)
 *   [darryllane/Bluto](https://github.com/darryllane/Bluto): DNS Recon | Brute Forcer | DNS Zone Transfer | DNS Wild Card Checks | DNS Wild Card Brute Forcer | Email Enumeration | Staff Enumeration | Compromised Account Checking
 *   [Hoog3059/pentest_cheatsheet_finder](https://github.com/Hoog3059/pentest_cheatsheet_finder): Search a bunch of Pentesting cheat sheets.
