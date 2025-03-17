@@ -365,6 +365,8 @@
 
 ## Jupyter Notebook
 
+*   [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques): This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.
+*   [nicoloboschi/awesome-rag](https://github.com/nicoloboschi/awesome-rag)
 *   [onnx/models](https://github.com/onnx/models): A collection of pre-trained, state-of-the-art models in the ONNX format
 *   [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace): 🛠 All-in-one web-based IDE specialized for machine learning and data science.
 *   [facebookresearch/seamless_communication](https://github.com/facebookresearch/seamless_communication): Foundational Models for State-of-the-Art Speech and Text Translation
@@ -555,6 +557,7 @@
 
 ## Python
 
+*   [D-Star-AI/dsRAG](https://github.com/D-Star-AI/dsRAG): High-performance retrieval engine for unstructured data
 *   [camel-ai/camel](https://github.com/camel-ai/camel): 🐫 CAMEL: Finding the Scaling Law of Agents. The first and the best multi-agent framework. https://www.camel-ai.org
 *   [ahmedaabouzied/rag-systems](https://github.com/ahmedaabouzied/rag-systems): A collection of RAG system implementations.
 *   [OpenSource-For-Freedom/HARDN](https://github.com/OpenSource-For-Freedom/HARDN): A single Debian tool to fully secure an OS using  automation, monitoring, heuristics and keeping availability high.
