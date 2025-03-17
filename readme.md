@@ -134,6 +134,7 @@
 
 ## Go
 
+*   [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go): A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
 *   [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang): Write Model Context Protocol servers in few lines of go code. Docs at https://mcpgolang.com
 *   [oramasearch/onnx-go](https://github.com/oramasearch/onnx-go): onnx-go gives the ability to import a pre-trained neural network within Go without being linked to a framework or library.
 *   [aldinokemal/go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice): API for Whatsapp Web Multi Device Version, Support UI & Webhook
