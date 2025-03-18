@@ -414,6 +414,7 @@
 
 ## Miscellaneous
 
+*   [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients): A collection of MCP clients.
 *   [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers): A collection of MCP servers.
 *   [NirDiamant/stargazerz](https://github.com/NirDiamant/stargazerz): Instantly Retrieve Email Addresses and Usernames of Stargazers from Designated Repositories, Achieving Unparalleled Speed and Efficiency - All Without the Need for an API Key.
 *   [PierBover/prosemirror-cookbook](https://github.com/PierBover/prosemirror-cookbook): A series of examples for understanding ProseMirror
@@ -561,6 +562,7 @@
 
 ## Python
 
+*   [MarkusPfundstein/mcp-gsuite](https://github.com/MarkusPfundstein/mcp-gsuite): MCP Server to interact with Google Gsuite prodcuts
 *   [D-Star-AI/dsRAG](https://github.com/D-Star-AI/dsRAG): High-performance retrieval engine for unstructured data
 *   [camel-ai/camel](https://github.com/camel-ai/camel): 🐫 CAMEL: Finding the Scaling Law of Agents. The first and the best multi-agent framework. https://www.camel-ai.org
 *   [ahmedaabouzied/rag-systems](https://github.com/ahmedaabouzied/rag-systems): A collection of RAG system implementations.
