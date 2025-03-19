@@ -248,7 +248,6 @@
 *   [dtinit/data-transfer-project](https://github.com/dtinit/data-transfer-project): The Data Transfer Project makes it easy for platforms to build interoperable user data portability features. We are establishing a common framework, including data models and protocols, to enable direct transfer of data both into and out of participating online service providers.
 *   [exomiser/Exomiser](https://github.com/exomiser/Exomiser): A Tool to Annotate and Prioritize Exome Variants
 *   [JozefJarosciak/UsenetUTZOOArchiveDBConversionTool](https://github.com/JozefJarosciak/UsenetUTZOOArchiveDBConversionTool): Flat file to MySQL converter for the collection USENET data from UTZOO Archive
-*   [GoogleCloudPlatform/bigquery-utils](https://github.com/GoogleCloudPlatform/bigquery-utils): Useful scripts, udfs, views, and other utilities for migration and data warehouse operations in BigQuery.
 *   [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator): OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 *   [bilde2910/Hauk](https://github.com/bilde2910/Hauk): Open-source realtime location sharing
 *   [scify/JedAIToolkit](https://github.com/scify/JedAIToolkit): An open source, high scalability toolkit in Java for Entity Resolution.
@@ -380,6 +379,7 @@
 *   [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps): Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 *   [joaotinti75/Pygame](https://github.com/joaotinti75/Pygame): Games that i did using pygame library
 *   [JerBouma/FinanceDatabase](https://github.com/JerBouma/FinanceDatabase): This is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets.
+*   [GoogleCloudPlatform/bigquery-utils](https://github.com/GoogleCloudPlatform/bigquery-utils): Useful scripts, udfs, views, and other utilities for migration and data warehouse operations in BigQuery.
 *   [deepklarity/jupyter-text2code](https://github.com/deepklarity/jupyter-text2code): A proof-of-concept jupyter extension which converts english queries into relevant python code
 *   [GoogleCloudPlatform/python-docs-samples](https://github.com/GoogleCloudPlatform/python-docs-samples): Code samples used on cloud.google.com
 *   [minimaxir/reddit-graph](https://github.com/minimaxir/reddit-graph): Jupyter notebook + Code for reproducing Reddit Subreddit graphs
