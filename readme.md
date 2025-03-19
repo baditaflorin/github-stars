@@ -913,7 +913,7 @@
 *   [apache/superset](https://github.com/apache/superset): Apache Superset is a Data Visualization and Data Exploration Platform
 *   [LasCC/HackTools](https://github.com/LasCC/HackTools): The all-in-one browser extension for offensive security professionals 🛠
 *   [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js): MapLibre GL JS - Interactive vector tile maps in the browser
-*   [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation): Routing and navigation for your React Native apps
+*   [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation): Routing and navigation for React Native and Web apps
 *   [openapistack/openapi-backend](https://github.com/openapistack/openapi-backend): Build, Validate, Route, Authenticate and Mock using OpenAPI
 *   [graphql/graphiql](https://github.com/graphql/graphiql): GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 *   [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp): freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
