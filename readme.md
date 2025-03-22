@@ -564,7 +564,7 @@
 
 *   [MarkusPfundstein/mcp-gsuite](https://github.com/MarkusPfundstein/mcp-gsuite): MCP Server to interact with Google Gsuite prodcuts
 *   [D-Star-AI/dsRAG](https://github.com/D-Star-AI/dsRAG): High-performance retrieval engine for unstructured data
-*   [camel-ai/camel](https://github.com/camel-ai/camel): 🐫 CAMEL: Finding the Scaling Law of Agents. The first and the best multi-agent framework. https://www.camel-ai.org
+*   [camel-ai/camel](https://github.com/camel-ai/camel): 🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org
 *   [ahmedaabouzied/rag-systems](https://github.com/ahmedaabouzied/rag-systems): A collection of RAG system implementations.
 *   [OpenSource-For-Freedom/HARDN](https://github.com/OpenSource-For-Freedom/HARDN): A single Debian tool to fully secure an OS using  automation, monitoring, heuristics and keeping availability high.
 *   [TIGER-AI-Lab/LongRAG](https://github.com/TIGER-AI-Lab/LongRAG): Official repo for "LongRAG: Enhancing Retrieval-Augmented Generation with Long-context LLMs".
