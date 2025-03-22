@@ -213,6 +213,7 @@
 *   [Podcastindex-org/podcast-namespace](https://github.com/Podcastindex-org/podcast-namespace): A wholistic rss namespace for podcasting
 *   [realpython/materials](https://github.com/realpython/materials): Bonus materials, exercises, and example projects for our Python tutorials
 *   [docker/awesome-compose](https://github.com/docker/awesome-compose): Awesome Docker Compose samples
+*   [ossu/computer-science](https://github.com/ossu/computer-science): 🎓 Path to a free self-taught education in Computer Science!
 *   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books): :books: Freely available programming books
 *   [EqualStreetNames/equalstreetnames-template](https://github.com/EqualStreetNames/equalstreetnames-template): Template for city sub-module
 *   [CitizensFoundation/your-priorities-app](https://github.com/CitizensFoundation/your-priorities-app): Your Priorities is a citizen engagement platform, a progressive web app, and a participatory social network that empowers groups of any size to speak with one voice and organize around ideas.
@@ -476,7 +477,6 @@
 *   [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers): Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 *   [pawelborkar/awesome-repos](https://github.com/pawelborkar/awesome-repos): A curated list of GitHub Repositories full of FREE Resources.
 *   [karan/Projects](https://github.com/karan/Projects): :page_with_curl: A list of practical projects that anyone can solve in any programming language.
-*   [ossu/computer-science](https://github.com/ossu/computer-science): 🎓 Path to a free self-taught education in Computer Science!
 *   [CherryKitten/CharjaBox](https://github.com/CherryKitten/CharjaBox): Ansible based Homeserver setup using Docker
 *   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted): A list of Free Software network services and web applications which can be hosted on your own servers
 *   [EqualStreetNames/equalstreetnames](https://github.com/EqualStreetNames/equalstreetnames): Map visualizing the streetnames by gender : 63 cities in 21 countries
