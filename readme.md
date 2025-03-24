@@ -869,6 +869,7 @@
 
 ## TypeScript
 
+*   [modelcontextprotocol/quickstart-resources](https://github.com/modelcontextprotocol/quickstart-resources): A repository of servers and clients from the Model Context Protocol tutorials
 *   [opentoolsteam/cli](https://github.com/opentoolsteam/cli)
 *   [michaellatman/mcp-get](https://github.com/michaellatman/mcp-get)
 *   [jae-jae/fetcher-mcp](https://github.com/jae-jae/fetcher-mcp): MCP server for fetch web page content using Playwright headless browser.
