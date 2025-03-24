@@ -869,6 +869,7 @@
 
 ## TypeScript
 
+*   [opentoolsteam/cli](https://github.com/opentoolsteam/cli)
 *   [michaellatman/mcp-get](https://github.com/michaellatman/mcp-get)
 *   [jae-jae/fetcher-mcp](https://github.com/jae-jae/fetcher-mcp): MCP server for fetch web page content using Playwright headless browser.
 *   [nerding-io/n8n-nodes-mcp](https://github.com/nerding-io/n8n-nodes-mcp): n8n custom node for MCP
