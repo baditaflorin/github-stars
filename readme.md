@@ -262,6 +262,7 @@
 
 ## JavaScript
 
+*   [chabad360/cockpit-docker](https://github.com/chabad360/cockpit-docker): Cockpit UI for docker containers (ported from cockpit-podman)
 *   [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers): Model Context Protocol Servers
 *   [maoxiaoke/mcp-media-processor](https://github.com/maoxiaoke/mcp-media-processor): A Node.js server implementing Model Context Protocol (MCP) for media processing operations, providing powerful video and image manipulation capabilities.
 *   [quartzy/prosemirror-suggestions](https://github.com/quartzy/prosemirror-suggestions): Plugin for handling suggestions in Prosemirror (e.g. autocomplete on mentions, tags, etc.)
