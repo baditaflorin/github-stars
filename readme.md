@@ -773,6 +773,7 @@
 
 ## Rust
 
+*   [moghtech/komodo](https://github.com/moghtech/komodo): 🦎 a tool to build and deploy software on many servers 🦎
 *   [block/goose](https://github.com/block/goose): an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 *   [rust-lang/mdBook](https://github.com/rust-lang/mdBook): Create book from markdown files. Like Gitbook but implemented in Rust
 *   [yago-naga/yago4](https://github.com/yago-naga/yago4): Yago 4 - the next version of Yago
