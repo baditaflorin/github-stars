@@ -871,6 +871,7 @@
 
 ## TypeScript
 
+*   [msgbyte/tianji](https://github.com/msgbyte/tianji): Tianji: Insight into everything, Website Analytics + Uptime Monitor + Server Status. not only another GA alternatives
 *   [modelcontextprotocol/quickstart-resources](https://github.com/modelcontextprotocol/quickstart-resources): A repository of servers and clients from the Model Context Protocol tutorials
 *   [opentoolsteam/cli](https://github.com/opentoolsteam/cli)
 *   [michaellatman/mcp-get](https://github.com/michaellatman/mcp-get)
