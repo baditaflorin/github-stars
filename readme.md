@@ -563,6 +563,7 @@
 
 ## Python
 
+*   [ansible/awx](https://github.com/ansible/awx): AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 *   [MarkusPfundstein/mcp-gsuite](https://github.com/MarkusPfundstein/mcp-gsuite): MCP Server to interact with Google Gsuite prodcuts
 *   [D-Star-AI/dsRAG](https://github.com/D-Star-AI/dsRAG): High-performance retrieval engine for unstructured data
 *   [camel-ai/camel](https://github.com/camel-ai/camel): 🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org
