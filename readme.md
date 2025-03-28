@@ -38,6 +38,7 @@
 *   [Roff](#roff)
 *   [Ruby](#ruby)
 *   [Rust](#rust)
+*   [SCSS](#scss)
 *   [Shell](#shell)
 *   [Starlark](#starlark)
 *   [Svelte](#svelte)
@@ -134,6 +135,7 @@
 
 ## Dockerfile
 
+*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook): 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 *   [greatfire/freebrowser-backend](https://github.com/greatfire/freebrowser-backend)
 *   [m3rryqold/headless-chrome-nodejs-docker](https://github.com/m3rryqold/headless-chrome-nodejs-docker): A dockerized nodejs application to use google chrome with puppeteer headless.
 *   [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices): :white_check_mark:  The Node.js best practices list (July 2024)
@@ -247,6 +249,10 @@
 
 ## HTML
 
+*   [lepture/github-cards](https://github.com/lepture/github-cards): The unofficial GitHub Cards. Card for your GitHub profile, card for your GitHub repositories.
+*   [Metroxe/one-html-page-challenge](https://github.com/Metroxe/one-html-page-challenge): Can you create something cool without modern tools?
+*   [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio): vCard is a fully responsive personal portfolio website, responsive for all devices.
+*   [github/opensource.guide](https://github.com/github/opensource.guide): 📚 Community guides for open source creators
 *   [hunar4321/particle-life](https://github.com/hunar4321/particle-life): A simple program to simulate artificial life using attraction/reuplsion forces between many particles
 *   [Flomp/wanderer](https://github.com/Flomp/wanderer): wanderer is a self-hosted trail database. Save your adventures!
 *   [shuangq/OutlineJS](https://github.com/shuangq/OutlineJS): A plugin for generating outline automatically.
@@ -293,6 +299,7 @@
 
 ## Java
 
+*   [Xunzhuo/Algorithm-Guide](https://github.com/Xunzhuo/Algorithm-Guide): Xunzhuo`s Tutorials of Algorithm and Data Structure  🚀🚀🚀
 *   [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy): The ZAP by Checkmarx Core project
 *   [yago-naga/yago3](https://github.com/yago-naga/yago3): YAGO is a large semantic knowledge base, derived from Wikipedia, WordNet, WikiData, GeoNames, and other data sources
 *   [dtinit/data-transfer-project](https://github.com/dtinit/data-transfer-project): The Data Transfer Project makes it easy for platforms to build interoperable user data portability features. We are establishing a common framework, including data models and protocols, to enable direct transfer of data both into and out of participating online service providers.
@@ -311,6 +318,12 @@
 
 ## JavaScript
 
+*   [zhaoolee/OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook): 🍭在线工具秘籍,为在线工具写一本优质说明书,让在线工具造福人类~ Online tool cheats, write a quality manual for online tools, make online tools benefit humanity~
+*   [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching): An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
+*   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats): :zap: Dynamically generated stats for your github readmes
+*   [pomber/git-history](https://github.com/pomber/git-history): Quickly browse the history of a file from any git repository
+*   [tobspr-games/shapez.io](https://github.com/tobspr-games/shapez.io): shapez is an open source base building game on Steam inspired by factorio!
+*   [overleaf/overleaf](https://github.com/overleaf/overleaf): A web-based collaborative LaTeX editor
 *   [maebert/themostdangerouswritingapp](https://github.com/maebert/themostdangerouswritingapp): If you stop typing for more than five seconds, all progress will be lost.
 *   [Alanrk/LazyCat-Bookmark-Cleaner](https://github.com/Alanrk/LazyCat-Bookmark-Cleaner): 让书签管理变得轻松愉快！一只可爱的懒猫助手，帮你智能清理和整理浏览器书签。
 *   [lutzroeder/netron](https://github.com/lutzroeder/netron): Visualizer for neural network, deep learning and machine learning models
@@ -418,6 +431,7 @@
 
 ## Jupyter Notebook
 
+*   [MrMimic/data-scientist-roadmap](https://github.com/MrMimic/data-scientist-roadmap): Toturials coming with the "data science roadmap" picture.
 *   [WTFAcademy/WTF-zk](https://github.com/WTFAcademy/WTF-zk): 零知识证明入门教程。Comprehensive Zero-Knowledge Proofs Tutorial. #zk #WIP
 *   [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles): Solve puzzles. Learn CUDA.
 *   [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything): The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
@@ -472,10 +486,19 @@
 
 ## Markdown
 
+*   [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm): 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 *   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x): Master programming by recreating your favorite technologies from scratch.
 
 ## Miscellaneous
 
+*   [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview): Questions to ask the company during your interview
+*   [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools): A list of command-line tools for manipulating structured text data
+*   [Experience-Monks/math-as-code](https://github.com/Experience-Monks/math-as-code): a cheat-sheet for mathematical notation in code form
+*   [datastacktv/data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap): Roadmap to becoming a data engineer in 2021
+*   [alex/what-happens-when](https://github.com/alex/what-happens-when): An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
+*   [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners): A list of awesome beginners-friendly projects.
+*   [arslanbilal/git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet): :octocat: git and git flow cheat sheet
+*   [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans): An ultra-simplified explanation to design patterns
 *   [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon): Jargon from the functional programming world in simple terms!
 *   [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design): Learn how to design systems at scale and prepare for system design interviews
 *   [payloadbox/sql-injection-payload-list](https://github.com/payloadbox/sql-injection-payload-list): 🎯 SQL Injection Payload List
@@ -626,7 +649,6 @@
 ## Perl
 
 *   [ddclient/ddclient](https://github.com/ddclient/ddclient): ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.
-*   [samyk/samytools](https://github.com/samyk/samytools): Simple tools to make reverse engineering and console cowboying easier, primarily by data translation and manipulation + file handle piping. Mostly *nix tools with an emphasis on macOS.
 *   [samyk/samytools](https://github.com/samyk/samytools): Simple tools to make reverse engineering and console cowboying easier, primarily by data translation and manipulation + file handle piping. Mostly *nix tools with an emphasis on macOS.
 
 ## PowerShell
@@ -871,8 +893,13 @@
 *   [Canop/broot](https://github.com/Canop/broot): A new way to see and navigate directory trees : https://dystroy.org/broot
 *   [autumnai/leaf](https://github.com/autumnai/leaf): Open Machine Intelligence Framework for Hackers. (GPU/CPU)
 
+## SCSS
+
+*   [prakhar1989/docker-curriculum](https://github.com/prakhar1989/docker-curriculum): :dolphin: A comprehensive tutorial on getting started with Docker!
+
 ## Shell
 
+*   [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats): ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 *   [gpakosz/.tmux](https://github.com/gpakosz/.tmux): Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 *   [binpash/try](https://github.com/binpash/try): Inspect a command's effects before modifying your live system
 *   [bitnami/containers](https://github.com/bitnami/containers): Bitnami container images
@@ -906,7 +933,6 @@
 *   [CISOfy/lynis](https://github.com/CISOfy/lynis): Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 *   [macvk/dnsleaktest](https://github.com/macvk/dnsleaktest): An open source script tests VPN connection for DNS Leak.
 *   [andrewjfreyer/monitor](https://github.com/andrewjfreyer/monitor): Distributed advertisement-based BTLE presence detection reported via mqtt
-*   [shawndumas/dotfiles](https://github.com/shawndumas/dotfiles): Yeah, those... (GNU stow'ed)
 *   [shawndumas/dotfiles](https://github.com/shawndumas/dotfiles): Yeah, those... (GNU stow'ed)
 *   [vossenjp/bashcookbook-examples](https://github.com/vossenjp/bashcookbook-examples): Example code from O'Reilly's bash Cookbook
 *   [torokmark/assert.sh](https://github.com/torokmark/assert.sh): :exclamation: Assertion lib for shell script users
@@ -967,6 +993,8 @@
 
 ## TypeScript
 
+*   [wei/socialify](https://github.com/wei/socialify): 💞 Socialify your project. 🌐 Share with the world!
+*   [Yqnn/svg-path-editor](https://github.com/Yqnn/svg-path-editor): Online editor to create and manipulate SVG paths
 *   [dukeluo/wai](https://github.com/dukeluo/wai): 一款可以预防颈椎病的新标签页扩展。
 *   [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist): 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 *   [immich-app/immich](https://github.com/immich-app/immich): High performance self-hosted photo and video management solution.
