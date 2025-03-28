@@ -46,6 +46,7 @@
 *   [Twig](#twig)
 *   [TypeScript](#typescript)
 *   [Vue](#vue)
+*   [Zig](#zig)
 
 ## Astro
 
@@ -61,6 +62,7 @@
 
 ## C
 
+*   [ading2210/linuxpdf](https://github.com/ading2210/linuxpdf): Linux running inside a PDF file via a RISC-V emulator
 *   [xiph/speexdsp](https://github.com/xiph/speexdsp): Speex audio processing library - THIS IS A MIRROR, DEVELOPMENT HAPPENS AT https://gitlab.xiph.org/xiph/speexdsp
 *   [xiph/rnnoise](https://github.com/xiph/rnnoise): Recurrent neural network for audio noise reduction
 *   [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec): A vector search SQLite extension that runs anywhere!
@@ -88,6 +90,9 @@
 
 ## C++
 
+*   [ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design): Learn Low Level Design (LLD) and prepare for interviews using free resources.
+*   [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino): OpenVINO™ is an open source toolkit for optimizing and deploying AI inference
+*   [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes): A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon)
 *   [facebookresearch/faiss](https://github.com/facebookresearch/faiss): A library for efficient similarity search and clustering of dense vectors.
 *   [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS): A high-performance distributed file system designed to address the challenges of AI training and inference workloads.
 *   [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime): ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
@@ -124,6 +129,7 @@
 
 ## Dart
 
+*   [localsend/localsend](https://github.com/localsend/localsend): An open-source cross-platform alternative to AirDrop
 *   [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy): Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 
 ## Dockerfile
@@ -134,6 +140,47 @@
 
 ## Go
 
+*   [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt): Giving Kubernetes Superpowers to everyone
+*   [jinzhu/now](https://github.com/jinzhu/now): Now is a time toolkit for golang
+*   [hwholiday/learning_tools](https://github.com/hwholiday/learning_tools): Go 学习、Go 进阶、Go 实用工具类、Go DDD 项目落地、Go-kit 、Go-Micro 、Go 推送平台、微服务实践
+*   [darjun/go-daily-lib](https://github.com/darjun/go-daily-lib): Go 每日一库
+*   [go-pay/gopay](https://github.com/go-pay/gopay): 微信、支付宝、通联支付、拉卡拉、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】
+*   [chenjiandongx/sniffer](https://github.com/chenjiandongx/sniffer): 🤒   A modern alternative network traffic sniffer.
+*   [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh): The most customisable and low-latency cross platform/shell prompt renderer
+*   [apache/answer](https://github.com/apache/answer): A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
+*   [YaoApp/yao](https://github.com/YaoApp/yao): ✨ Yao is an all-in-one application engine that enables developers to create web apps, REST APIs, business applications, and more, with AI as a development partner.
+*   [securego/gosec](https://github.com/securego/gosec): Go security checker
+*   [charmbracelet/pop](https://github.com/charmbracelet/pop): Send emails from your terminal 📬
+*   [pingc0y/URLFinder](https://github.com/pingc0y/URLFinder): 一款快速、全面、易用的页面信息提取工具，可快速发现和提取页面中的JS、URL和敏感信息。
+*   [klauspost/compress](https://github.com/klauspost/compress): Optimized Go Compression Packages
+*   [webp-sh/webp_server_go](https://github.com/webp-sh/webp_server_go): Go version of WebP Server. A tool that will serve your JPG/PNG/BMP/SVGs as WebP/AVIF format with compression, on-the-fly.
+*   [senghoo/golang-design-pattern](https://github.com/senghoo/golang-design-pattern): 设计模式 Golang实现－《研磨设计模式》读书笔记
+*   [nezhahq/nezha](https://github.com/nezhahq/nezha): :trollface: Self-hosted, lightweight server and website monitoring and O&M tool
+*   [hibiken/asynq](https://github.com/hibiken/asynq): Simple, reliable, and efficient distributed task queue in Go
+*   [kopia/kopia](https://github.com/kopia/kopia): Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
+*   [openfaas/faas](https://github.com/openfaas/faas): OpenFaaS - Serverless Functions Made Simple
+*   [cheat/cheat](https://github.com/cheat/cheat): cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
+*   [raviqqe/muffet](https://github.com/raviqqe/muffet): Fast website link checker in Go
+*   [axllent/mailpit](https://github.com/axllent/mailpit): An email and SMTP testing tool with API for developers
+*   [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser): Release engineering, simplified
+*   [mat/besticon](https://github.com/mat/besticon): Favicon service written in Go
+*   [gravitational/teleport](https://github.com/gravitational/teleport): The easiest, and most secure way to access and protect all of your infrastructure.
+*   [nalgeon/codapi](https://github.com/nalgeon/codapi): Interactive code examples for documentation, education and fun
+*   [thomiceli/opengist](https://github.com/thomiceli/opengist): Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
+*   [dustin/go-humanize](https://github.com/dustin/go-humanize): Go Humans! (formatters for units to human friendly sizes)
+*   [shadow1ng/fscan](https://github.com/shadow1ng/fscan): 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
+*   [riverqueue/river](https://github.com/riverqueue/river): Fast and reliable background jobs in Go
+*   [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer): A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats.
+*   [ktock/buildg](https://github.com/ktock/buildg): Interactive debugger for Dockerfile, with support for IDEs (VS Code, Emacs, Neovim, etc.)
+*   [quackduck/devzat](https://github.com/quackduck/devzat): The devs are over here at devzat, chat over SSH!
+*   [containrrr/watchtower](https://github.com/containrrr/watchtower): A process for automating Docker container base image updates.
+*   [duke-git/lancet](https://github.com/duke-git/lancet): A comprehensive, efficient, and reusable util function library of Go.
+*   [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc): Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
+*   [opentofu/opentofu](https://github.com/opentofu/opentofu): OpenTofu lets you declaratively manage your cloud infrastructure.
+*   [gophish/gophish](https://github.com/gophish/gophish): Open-Source Phishing Toolkit
+*   [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint): Go-blueprint allows users to spin up a quick Go project using a popular framework
+*   [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit): Random fake data generator written in go
+*   [schachmat/wego](https://github.com/schachmat/wego): weather app for the terminal
 *   [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go): A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
 *   [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang): Write Model Context Protocol servers in few lines of go code. Docs at https://mcpgolang.com
 *   [oramasearch/onnx-go](https://github.com/oramasearch/onnx-go): onnx-go gives the ability to import a pre-trained neural network within Go without being linked to a framework or library.
@@ -200,6 +247,8 @@
 
 ## HTML
 
+*   [hunar4321/particle-life](https://github.com/hunar4321/particle-life): A simple program to simulate artificial life using attraction/reuplsion forces between many particles
+*   [Flomp/wanderer](https://github.com/Flomp/wanderer): wanderer is a self-hosted trail database. Save your adventures!
 *   [shuangq/OutlineJS](https://github.com/shuangq/OutlineJS): A plugin for generating outline automatically.
 *   [mixmark-io/turndown](https://github.com/mixmark-io/turndown): 🛏 An HTML to Markdown converter written in JavaScript
 *   [mlip-cmu/s2025](https://github.com/mlip-cmu/s2025)
@@ -262,6 +311,9 @@
 
 ## JavaScript
 
+*   [maebert/themostdangerouswritingapp](https://github.com/maebert/themostdangerouswritingapp): If you stop typing for more than five seconds, all progress will be lost.
+*   [Alanrk/LazyCat-Bookmark-Cleaner](https://github.com/Alanrk/LazyCat-Bookmark-Cleaner): 让书签管理变得轻松愉快！一只可爱的懒猫助手，帮你智能清理和整理浏览器书签。
+*   [lutzroeder/netron](https://github.com/lutzroeder/netron): Visualizer for neural network, deep learning and machine learning models
 *   [chabad360/cockpit-docker](https://github.com/chabad360/cockpit-docker): Cockpit UI for docker containers (ported from cockpit-podman)
 *   [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers): Model Context Protocol Servers
 *   [maoxiaoke/mcp-media-processor](https://github.com/maoxiaoke/mcp-media-processor): A Node.js server implementing Model Context Protocol (MCP) for media processing operations, providing powerful video and image manipulation capabilities.
@@ -366,6 +418,13 @@
 
 ## Jupyter Notebook
 
+*   [WTFAcademy/WTF-zk](https://github.com/WTFAcademy/WTF-zk): 零知识证明入门教程。Comprehensive Zero-Knowledge Proofs Tutorial. #zk #WIP
+*   [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles): Solve puzzles. Learn CUDA.
+*   [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything): The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
+*   [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners): 12 Weeks, 24 Lessons, AI for All!
+*   [guidance-ai/guidance](https://github.com/guidance-ai/guidance): A guidance language for controlling large language models.
+*   [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero): Neural Networks: Zero to Hero
+*   [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch): llama3 implementation one matrix multiplication at a time
 *   [NirDiamant/Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering): This repository offers a comprehensive collection of tutorials and implementations for Prompt Engineering techniques, ranging from fundamental concepts to advanced strategies. It serves as an essential resource for mastering the art of effectively communicating with and leveraging large language models in AI applications.
 *   [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents): This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
 *   [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques): This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.
@@ -396,6 +455,7 @@
 
 ## Lua
 
+*   [leandromoreira/cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running): CDN Up and Running - Building a CDN from Scratch to Learn about CDN, Nginx, Lua, Prometheus, Grafana, Load balancing, and Containers.
 *   [JockeKv/OutlineWiki.nvim](https://github.com/JockeKv/OutlineWiki.nvim): Neovim plugin for Outline
 *   [jcjohnson/torch-rnn](https://github.com/jcjohnson/torch-rnn): Efficient, reusable RNNs and LSTMs for torch
 *   [karpathy/char-rnn](https://github.com/karpathy/char-rnn): Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch
@@ -416,6 +476,16 @@
 
 ## Miscellaneous
 
+*   [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon): Jargon from the functional programming world in simple terms!
+*   [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design): Learn how to design systems at scale and prepare for system design interviews
+*   [payloadbox/sql-injection-payload-list](https://github.com/payloadbox/sql-injection-payload-list): 🎯 SQL Injection Payload List
+*   [ljinkai/weekly](https://github.com/ljinkai/weekly): 独立开发产品变现周刊，每周五发布。
+*   [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server): An evolving how-to guide for securing a Linux server.
+*   [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization): 健康学习到150岁 - 人体系统调优不完全指南
+*   [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load): 🧠 Cognitive Load is what matters
+*   [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook): A playbook for systematically maximizing the performance of deep learning models.
+*   [mrdbourke/machine-learning-roadmap](https://github.com/mrdbourke/machine-learning-roadmap): A roadmap connecting many of the most important concepts in machine learning, how to learn them and what tools to use to perform them.
+*   [ImagineAILab/ai-by-hand-excel](https://github.com/ImagineAILab/ai-by-hand-excel)
 *   [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients): A collection of MCP clients.
 *   [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers): A collection of MCP servers.
 *   [NirDiamant/stargazerz](https://github.com/NirDiamant/stargazerz): Instantly Retrieve Email Addresses and Usernames of Stargazers from Designated Repositories, Achieving Unparalleled Speed and Efficiency - All Without the Need for an API Key.
@@ -535,6 +605,7 @@
 
 ## PHP
 
+*   [collabnix/dockerlabs](https://github.com/collabnix/dockerlabs): Docker  - Beginners | Intermediate | Advanced
 *   [monicahq/monica](https://github.com/monicahq/monica): Personal CRM. Remember everything about your friends, family and business relationships.
 *   [silvanmelchior/RPi_Cam_Web_Interface](https://github.com/silvanmelchior/RPi_Cam_Web_Interface): A web interface for the RPi Cam
 *   [causefx/Organizr](https://github.com/causefx/Organizr): HTPC/Homelab Services Organizer - Written in PHP
@@ -556,6 +627,7 @@
 
 *   [ddclient/ddclient](https://github.com/ddclient/ddclient): ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.
 *   [samyk/samytools](https://github.com/samyk/samytools): Simple tools to make reverse engineering and console cowboying easier, primarily by data translation and manipulation + file handle piping. Mostly *nix tools with an emphasis on macOS.
+*   [samyk/samytools](https://github.com/samyk/samytools): Simple tools to make reverse engineering and console cowboying easier, primarily by data translation and manipulation + file handle piping. Mostly *nix tools with an emphasis on macOS.
 
 ## PowerShell
 
@@ -563,6 +635,24 @@
 
 ## Python
 
+*   [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard): Modular visual interface for GDB in Python
+*   [InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU): 16-bit CPU for Excel, and related files
+*   [budtmo/docker-android](https://github.com/budtmo/docker-android): Android in docker solution with noVNC supported and video recording
+*   [x0rzavi/github-readme-terminal](https://github.com/x0rzavi/github-readme-terminal): ✨ Elevate your GitHub Profile ReadMe with Minimalistic Retro Terminal GIFs 🚀
+*   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui): Stable Diffusion web UI
+*   [replicate/cog](https://github.com/replicate/cog): Containers for machine learning
+*   [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN): Official Code for DragGAN (SIGGRAPH 2023)
+*   [QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger): 🥂 Gracefully face hCaptcha challenge with MoE(ONNX) embedded solution.
+*   [iterative/dvc](https://github.com/iterative/dvc): 🦉 Data Versioning and ML Experiments
+*   [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter): A natural language interface for computers
+*   [roboflow/supervision](https://github.com/roboflow/supervision): We write your reusable computer vision tools. 💜
+*   [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI): The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+*   [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai): Python scraper based on AI
+*   [lllyasviel/Omost](https://github.com/lllyasviel/Omost): Your image is almost there!
+*   [NVIDIA/garak](https://github.com/NVIDIA/garak): the LLM vulnerability scanner
+*   [jingyaogong/minimind](https://github.com/jingyaogong/minimind): 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
+*   [letta-ai/letta](https://github.com/letta-ai/letta): Letta (formerly MemGPT) is the stateful agents framework with memory, reasoning, and context management.
+*   [darrenburns/posting](https://github.com/darrenburns/posting): The modern API client that lives in your terminal.
 *   [ansible/awx](https://github.com/ansible/awx): AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 *   [MarkusPfundstein/mcp-gsuite](https://github.com/MarkusPfundstein/mcp-gsuite): MCP Server to interact with Google Gsuite prodcuts
 *   [D-Star-AI/dsRAG](https://github.com/D-Star-AI/dsRAG): High-performance retrieval engine for unstructured data
@@ -783,6 +873,10 @@
 
 ## Shell
 
+*   [gpakosz/.tmux](https://github.com/gpakosz/.tmux): Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
+*   [binpash/try](https://github.com/binpash/try): Inspect a command's effects before modifying your live system
+*   [bitnami/containers](https://github.com/bitnami/containers): Bitnami container images
+*   [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps): This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.
 *   [chsasank/outline-wiki-docker-compose](https://github.com/chsasank/outline-wiki-docker-compose): Installation and docker compose to self host outline wiki: https://www.getoutline.com/
 *   [FWDekker/mommy](https://github.com/FWDekker/mommy): mommy's here to support you, in any shell, on any system~ ❤️
 *   [madalin-dogaru/operating_systems_automation](https://github.com/madalin-dogaru/operating_systems_automation): Operating Systems Automations.
@@ -812,6 +906,7 @@
 *   [CISOfy/lynis](https://github.com/CISOfy/lynis): Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 *   [macvk/dnsleaktest](https://github.com/macvk/dnsleaktest): An open source script tests VPN connection for DNS Leak.
 *   [andrewjfreyer/monitor](https://github.com/andrewjfreyer/monitor): Distributed advertisement-based BTLE presence detection reported via mqtt
+*   [shawndumas/dotfiles](https://github.com/shawndumas/dotfiles): Yeah, those... (GNU stow'ed)
 *   [shawndumas/dotfiles](https://github.com/shawndumas/dotfiles): Yeah, those... (GNU stow'ed)
 *   [vossenjp/bashcookbook-examples](https://github.com/vossenjp/bashcookbook-examples): Example code from O'Reilly's bash Cookbook
 *   [torokmark/assert.sh](https://github.com/torokmark/assert.sh): :exclamation: Assertion lib for shell script users
@@ -872,6 +967,20 @@
 
 ## TypeScript
 
+*   [dukeluo/wai](https://github.com/dukeluo/wai): 一款可以预防颈椎病的新标签页扩展。
+*   [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist): 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
+*   [immich-app/immich](https://github.com/immich-app/immich): High performance self-hosted photo and video management solution.
+*   [Get-Tech-Stack/TechStack](https://github.com/Get-Tech-Stack/TechStack): The extension will display the tech stack of the Repo when the user visits a GitHub Public Repo. The user can easily get more info about the repo. 当用户访问 GitHub 公共存储库时，该扩展将显示存储库的技术栈。 用户可以更轻松地获取有关存储库的更多信息。
+*   [Pintree-io/pintree](https://github.com/Pintree-io/pintree): Pintree: Easily turn your browser bookmarks into a directory website and start monetizing in minutes.
+*   [pavlobu/deskreen](https://github.com/pavlobu/deskreen): Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
+*   [thkruz/keeptrack.space](https://github.com/thkruz/keeptrack.space): 🌎📡 TypeScript Astrodynamics Software for Non-Engineers. 3D Visualization of satellite data and the sensors that track them.
+*   [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon): Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
+*   [bbycroft/llm-viz](https://github.com/bbycroft/llm-viz): 3D Visualization of an GPT-style LLM
+*   [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway): A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
+*   [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica): Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
+*   [getomni-ai/zerox](https://github.com/getomni-ai/zerox): OCR & Document Extraction using vision models
+*   [idootop/MagicMirror](https://github.com/idootop/MagicMirror): 🪞 Instant AI Face Swap, Hairstyles & Outfits — One click to a brand new you! 一键 AI 换脸、发型、穿搭，发现更美的你
+*   [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard): Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 *   [msgbyte/tianji](https://github.com/msgbyte/tianji): Tianji: Insight into everything, Website Analytics + Uptime Monitor + Server Status. not only another GA alternatives
 *   [modelcontextprotocol/quickstart-resources](https://github.com/modelcontextprotocol/quickstart-resources): A repository of servers and clients from the Model Context Protocol tutorials
 *   [opentoolsteam/cli](https://github.com/opentoolsteam/cli)
@@ -929,5 +1038,10 @@
 
 ## Vue
 
+*   [Stigmatoz/web-activity-time-tracker](https://github.com/Stigmatoz/web-activity-time-tracker): Chrome Extension that tracks and limits time you spent on sites
 *   [baato/before-after](https://github.com/baato/before-after): Generate before-after maps for OpenStreetMap with ease.
 *   [checkly/theheadless.dev](https://github.com/checkly/theheadless.dev): 🪖 Learn Puppeteer and Playwright - Tips, tricks and in-depth guides from the trenches.
+
+## Zig
+
+*   [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc): container image to single executable compiler
