@@ -110,6 +110,7 @@
 
 ## CSS
 
+*   [Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words): 程序员工作中常见的英语词汇
 *   [progit/progit2](https://github.com/progit/progit2): Pro Git 2nd Edition
 *   [mvexel/openstreetmap-vintage-tile-server](https://github.com/mvexel/openstreetmap-vintage-tile-server): A Bash script to create a vintage OpenStreetMap tile server
 *   [tinoschroeter/bash_on_steroids](https://github.com/tinoschroeter/bash_on_steroids): Use bash scrpts for writing beautiful web apps. :globe_with_meridians:
@@ -249,6 +250,7 @@
 
 ## HTML
 
+*   [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws): 🧠 Laws, Theories, Principles and Patterns for developers and technologists.
 *   [lepture/github-cards](https://github.com/lepture/github-cards): The unofficial GitHub Cards. Card for your GitHub profile, card for your GitHub repositories.
 *   [Metroxe/one-html-page-challenge](https://github.com/Metroxe/one-html-page-challenge): Can you create something cool without modern tools?
 *   [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio): vCard is a fully responsive personal portfolio website, responsive for all devices.
@@ -318,6 +320,7 @@
 
 ## JavaScript
 
+*   [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer): :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 *   [zhaoolee/OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook): 🍭在线工具秘籍,为在线工具写一本优质说明书,让在线工具造福人类~ Online tool cheats, write a quality manual for online tools, make online tools benefit humanity~
 *   [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching): An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
 *   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats): :zap: Dynamically generated stats for your github readmes
@@ -491,6 +494,10 @@
 
 ## Miscellaneous
 
+*   [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit): :link: Some useful websites for programmers.
+*   [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability): The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+*   [RomuloOliveira/commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide): A guide to understand the importance of commit messages and how to write them well
+*   [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips): :trollface:Git的奇技淫巧
 *   [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview): Questions to ask the company during your interview
 *   [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools): A list of command-line tools for manipulating structured text data
 *   [Experience-Monks/math-as-code](https://github.com/Experience-Monks/math-as-code): a cheat-sheet for mathematical notation in code form
@@ -993,6 +1000,7 @@
 
 ## TypeScript
 
+*   [devhubapp/devhub](https://github.com/devhubapp/devhub): TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 *   [wei/socialify](https://github.com/wei/socialify): 💞 Socialify your project. 🌐 Share with the world!
 *   [Yqnn/svg-path-editor](https://github.com/Yqnn/svg-path-editor): Online editor to create and manipulate SVG paths
 *   [dukeluo/wai](https://github.com/dukeluo/wai): 一款可以预防颈椎病的新标签页扩展。
