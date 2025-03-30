@@ -671,7 +671,7 @@
 *   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui): Stable Diffusion web UI
 *   [replicate/cog](https://github.com/replicate/cog): Containers for machine learning
 *   [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN): Official Code for DragGAN (SIGGRAPH 2023)
-*   [QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger): 🥂 Gracefully face hCaptcha challenge with MoE(ONNX) embedded solution.
+*   [QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger): 🥂 Gracefully face hCaptcha challenge with multimodal large language model.
 *   [iterative/dvc](https://github.com/iterative/dvc): 🦉 Data Versioning and ML Experiments
 *   [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter): A natural language interface for computers
 *   [roboflow/supervision](https://github.com/roboflow/supervision): We write your reusable computer vision tools. 💜
