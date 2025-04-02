@@ -494,6 +494,7 @@
 
 ## Miscellaneous
 
+*   [junfanz1/MCP-AI-Infra-Real-Time-Agent](https://github.com/junfanz1/MCP-AI-Infra-Real-Time-Agent): Developed an MCP-based AI infrastructure enabling real-time tool execution, structured knowledge retrieval, and dynamic agentic interactions for AI clients like Claude and Cursor.
 *   [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit): :link: Some useful websites for programmers.
 *   [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability): The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 *   [RomuloOliveira/commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide): A guide to understand the importance of commit messages and how to write them well
@@ -664,6 +665,7 @@
 
 ## Python
 
+*   [wbfoss/mcp-poisoning-poc](https://github.com/wbfoss/mcp-poisoning-poc): This repository demonstrates a variety of **MCP Poisoning Attacks** affecting real-world AI agent workflows.
 *   [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard): Modular visual interface for GDB in Python
 *   [InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU): 16-bit CPU for Excel, and related files
 *   [budtmo/docker-android](https://github.com/budtmo/docker-android): Android in docker solution with noVNC supported and video recording
@@ -1000,6 +1002,10 @@
 
 ## TypeScript
 
+*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio): 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1
+*   [bsmi021/mcp-memory-bank](https://github.com/bsmi021/mcp-memory-bank): A powerful, production-ready context management system for Large Language Models (LLMs). Built with ChromaDB and modern embedding technologies, it provides persistent, project-specific memory capabilities that enhance your AI's understanding and response quality.
+*   [bsmi021/mcp-thought-server](https://github.com/bsmi021/mcp-thought-server): A powerful server providing advanced thinking tools via the Model Context Protocol (MCP) to enhance the reasoning, planning, and iterative refinement capabilities of AI agents like Cline.
+*   [Cyreslab-AI/wayback-mcp-server](https://github.com/Cyreslab-AI/wayback-mcp-server)
 *   [devhubapp/devhub](https://github.com/devhubapp/devhub): TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 *   [wei/socialify](https://github.com/wei/socialify): 💞 Socialify your project. 🌐 Share with the world!
 *   [Yqnn/svg-path-editor](https://github.com/Yqnn/svg-path-editor): Online editor to create and manipulate SVG paths
