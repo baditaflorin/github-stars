@@ -667,6 +667,8 @@
 
 ## Python
 
+*   [binarybana/easyrag](https://github.com/binarybana/easyrag): Easy RAG scripts for a local, embedded, MCP-enabled knowledge store.
+*   [jagan-shanmugam/mattermost-mcp-host](https://github.com/jagan-shanmugam/mattermost-mcp-host): A Mattermost integration that connects to Model Context Protocol (MCP) servers, leveraging a LangGraph-based Agent.
 *   [wbfoss/mcp-poisoning-poc](https://github.com/wbfoss/mcp-poisoning-poc): This repository demonstrates a variety of **MCP Poisoning Attacks** affecting real-world AI agent workflows.
 *   [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard): Modular visual interface for GDB in Python
 *   [InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU): 16-bit CPU for Excel, and related files
@@ -1004,6 +1006,7 @@
 
 ## TypeScript
 
+*   [ateeyak/n8n-nodes-mcp](https://github.com/ateeyak/n8n-nodes-mcp)
 *   [RegiByte/mcp-client-app](https://github.com/RegiByte/mcp-client-app): A mcp client chat application built for learning purposes
 *   [EvalsOne/MCP-connect](https://github.com/EvalsOne/MCP-connect): Enables cloud-based AI services to access local Stdio based MCP servers via HTTP requests
 *   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio): 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1
