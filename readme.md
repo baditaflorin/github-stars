@@ -496,7 +496,6 @@
 
 ## Miscellaneous
 
-*   [junfanz1/MCP-AI-Infra-Real-Time-Agent](https://github.com/junfanz1/MCP-AI-Infra-Real-Time-Agent): Developed an MCP-based AI infrastructure enabling real-time tool execution, structured knowledge retrieval, and dynamic agentic interactions for AI clients like Claude and Cursor.
 *   [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit): :link: Some useful websites for programmers.
 *   [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability): The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 *   [RomuloOliveira/commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide): A guide to understand the importance of commit messages and how to write them well
@@ -669,6 +668,7 @@
 
 *   [binarybana/easyrag](https://github.com/binarybana/easyrag): Easy RAG scripts for a local, embedded, MCP-enabled knowledge store.
 *   [jagan-shanmugam/mattermost-mcp-host](https://github.com/jagan-shanmugam/mattermost-mcp-host): A Mattermost integration that connects to Model Context Protocol (MCP) servers, leveraging a LangGraph-based Agent.
+*   [junfanz1/MCP-AI-Infra-Real-Time-Agent](https://github.com/junfanz1/MCP-AI-Infra-Real-Time-Agent): Developed an MCP-based AI infrastructure enabling real-time tool execution, structured knowledge retrieval, and dynamic agentic interactions for AI clients like Claude and Cursor.
 *   [wbfoss/mcp-poisoning-poc](https://github.com/wbfoss/mcp-poisoning-poc): This repository demonstrates a variety of **MCP Poisoning Attacks** affecting real-world AI agent workflows.
 *   [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard): Modular visual interface for GDB in Python
 *   [InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU): 16-bit CPU for Excel, and related files
