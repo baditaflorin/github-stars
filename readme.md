@@ -666,6 +666,7 @@
 
 ## Python
 
+*   [Modern-Prometheus-AI/FullyUnifiedModel](https://github.com/Modern-Prometheus-AI/FullyUnifiedModel): This is a technical writeup of the next evolution in the Adaptive Modular Network. It aims to unify the components of the AMN and fill gaps and weak points in the model.
 *   [binarybana/easyrag](https://github.com/binarybana/easyrag): Easy RAG scripts for a local, embedded, MCP-enabled knowledge store.
 *   [jagan-shanmugam/mattermost-mcp-host](https://github.com/jagan-shanmugam/mattermost-mcp-host): A Mattermost integration that connects to Model Context Protocol (MCP) servers, leveraging a LangGraph-based Agent.
 *   [junfanz1/MCP-AI-Infra-Real-Time-Agent](https://github.com/junfanz1/MCP-AI-Infra-Real-Time-Agent): Developed an MCP-based AI infrastructure enabling real-time tool execution, structured knowledge retrieval, and dynamic agentic interactions for AI clients like Claude and Cursor.
