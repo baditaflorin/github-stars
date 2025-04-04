@@ -78,7 +78,6 @@
 *   [postgres/postgres](https://github.com/postgres/postgres): Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch
 *   [taviso/ctypes.sh](https://github.com/taviso/ctypes.sh): A foreign function interface for bash.
 *   [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher): A code-searching tool similar to ack, but faster.
-*   [shihyu/Linux_Programming](https://github.com/shihyu/Linux_Programming)
 *   [axiak/pybloomfiltermmap](https://github.com/axiak/pybloomfiltermmap): Fast Python Bloom Filter using Mmap
 
 ## C#
@@ -563,7 +562,6 @@
 *   [warpnet/awesome-prometheus](https://github.com/warpnet/awesome-prometheus): A curated list of awesome Prometheus resources, projects and tools.
 *   [lucrae/django-cheat-sheet](https://github.com/lucrae/django-cheat-sheet): A cheat sheet for creating web apps with the Django framework.
 *   [jbwolfe/awesome-django](https://github.com/jbwolfe/awesome-django): A curated list of awesome Django apps and projects.
-*   [samokosik/COMB](https://github.com/samokosik/COMB): Compilation of many breaches
 *   [peterblazejewicz/raspberry-pi-setup](https://github.com/peterblazejewicz/raspberry-pi-setup): Setting up a Raspberry PI (mostly relevant to macOS/linux)
 *   [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix): A collection of modern/faster/saner alternatives to common unix commands.
 *   [robertdebock/ansible-role-diskspace](https://github.com/robertdebock/ansible-role-diskspace): Check diskspace (or inodes) available, fail if too low.
