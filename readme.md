@@ -457,7 +457,6 @@
 *   [Sentdex/TermGPT](https://github.com/Sentdex/TermGPT): Giving LLMs like GPT-4 the ability to plan and execute terminal commands
 *   [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps): Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 *   [joaotinti75/Pygame](https://github.com/joaotinti75/Pygame): Games that i did using pygame library
-*   [JerBouma/FinanceDatabase](https://github.com/JerBouma/FinanceDatabase): This is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets.
 *   [GoogleCloudPlatform/bigquery-utils](https://github.com/GoogleCloudPlatform/bigquery-utils): Useful scripts, udfs, views, and other utilities for migration and data warehouse operations in BigQuery.
 *   [deepklarity/jupyter-text2code](https://github.com/deepklarity/jupyter-text2code): A proof-of-concept jupyter extension which converts english queries into relevant python code
 *   [GoogleCloudPlatform/python-docs-samples](https://github.com/GoogleCloudPlatform/python-docs-samples): Code samples used on cloud.google.com
@@ -795,6 +794,7 @@
 *   [doccano/doccano](https://github.com/doccano/doccano): Open source annotation tool for machine learning practitioners.
 *   [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops): Ansible for DevOps examples.
 *   [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries): The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
+*   [JerBouma/FinanceDatabase](https://github.com/JerBouma/FinanceDatabase): This is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets.
 *   [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python): 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
 *   [3b1b/manim](https://github.com/3b1b/manim): Animation engine for explanatory math videos
 *   [huggingface/datasets](https://github.com/huggingface/datasets): 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
