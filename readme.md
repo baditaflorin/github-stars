@@ -100,7 +100,7 @@
 *   [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM): TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.
 *   [microsoft/BitNet](https://github.com/microsoft/BitNet): Official inference framework for 1-bit LLMs
 *   [google/libphonenumber](https://github.com/google/libphonenumber): Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
-*   [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp): Port of OpenAI's Whisper model in C/C++
+*   [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp): Port of OpenAI's Whisper model in C/C++
 *   [google/re2](https://github.com/google/re2): RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
 *   [plv8/plv8](https://github.com/plv8/plv8): V8 Engine Javascript Procedural Language add-on for PostgreSQL
 *   [openvenues/node-postal](https://github.com/openvenues/node-postal): NodeJS bindings to libpostal for fast international address parsing/normalization
