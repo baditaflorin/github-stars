@@ -321,6 +321,7 @@
 ## JavaScript
 
 *   [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys): Lightweight full-featured typescript/javascript WhatsApp Web API
+*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio): 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1
 *   [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer): :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 *   [zhaoolee/OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook): 🍭在线工具秘籍,为在线工具写一本优质说明书,让在线工具造福人类~ Online tool cheats, write a quality manual for online tools, make online tools benefit humanity~
 *   [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching): An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
@@ -1009,7 +1010,6 @@
 *   [ateeyak/n8n-nodes-mcp](https://github.com/ateeyak/n8n-nodes-mcp)
 *   [RegiByte/mcp-client-app](https://github.com/RegiByte/mcp-client-app): A mcp client chat application built for learning purposes
 *   [EvalsOne/MCP-connect](https://github.com/EvalsOne/MCP-connect): Enables cloud-based AI services to access local Stdio based MCP servers via HTTP requests
-*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio): 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1
 *   [bsmi021/mcp-memory-bank](https://github.com/bsmi021/mcp-memory-bank): A powerful, production-ready context management system for Large Language Models (LLMs). Built with ChromaDB and modern embedding technologies, it provides persistent, project-specific memory capabilities that enhance your AI's understanding and response quality.
 *   [bsmi021/mcp-thought-server](https://github.com/bsmi021/mcp-thought-server): A powerful server providing advanced thinking tools via the Model Context Protocol (MCP) to enhance the reasoning, planning, and iterative refinement capabilities of AI agents like Cline.
 *   [Cyreslab-AI/wayback-mcp-server](https://github.com/Cyreslab-AI/wayback-mcp-server)
