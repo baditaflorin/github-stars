@@ -450,6 +450,7 @@
 *   [nicoloboschi/awesome-rag](https://github.com/nicoloboschi/awesome-rag)
 *   [onnx/models](https://github.com/onnx/models): A collection of pre-trained, state-of-the-art models in the ONNX format
 *   [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace): 🛠 All-in-one web-based IDE specialized for machine learning and data science.
+*   [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace): 🛠 All-in-one web-based IDE specialized for machine learning and data science.
 *   [facebookresearch/seamless_communication](https://github.com/facebookresearch/seamless_communication): Foundational Models for State-of-the-Art Speech and Text Translation
 *   [topoteretes/cognee](https://github.com/topoteretes/cognee): Reliable LLM Memory for AI Applications and AI Agents
 *   [huggingface/smol-course](https://github.com/huggingface/smol-course): A course on aligning smol models.
@@ -495,6 +496,7 @@
 
 ## Miscellaneous
 
+*   [davidberenstein1957/whisper-jax-asr-webservice](https://github.com/davidberenstein1957/whisper-jax-asr-webservice): OpenAI Whisper-JAX ASR Webservice API
 *   [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit): :link: Some useful websites for programmers.
 *   [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability): The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 *   [RomuloOliveira/commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide): A guide to understand the importance of commit messages and how to write them well
