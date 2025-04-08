@@ -450,7 +450,6 @@
 *   [nicoloboschi/awesome-rag](https://github.com/nicoloboschi/awesome-rag)
 *   [onnx/models](https://github.com/onnx/models): A collection of pre-trained, state-of-the-art models in the ONNX format
 *   [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace): 🛠 All-in-one web-based IDE specialized for machine learning and data science.
-*   [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace): 🛠 All-in-one web-based IDE specialized for machine learning and data science.
 *   [facebookresearch/seamless_communication](https://github.com/facebookresearch/seamless_communication): Foundational Models for State-of-the-Art Speech and Text Translation
 *   [topoteretes/cognee](https://github.com/topoteretes/cognee): Reliable LLM Memory for AI Applications and AI Agents
 *   [huggingface/smol-course](https://github.com/huggingface/smol-course): A course on aligning smol models.
@@ -666,6 +665,7 @@
 
 ## Python
 
+*   [ahmetoner/whisper-asr-webservice](https://github.com/ahmetoner/whisper-asr-webservice): OpenAI Whisper ASR Webservice API
 *   [Modern-Prometheus-AI/FullyUnifiedModel](https://github.com/Modern-Prometheus-AI/FullyUnifiedModel): This is a technical writeup of the next evolution in the Adaptive Modular Network. It aims to unify the components of the AMN and fill gaps and weak points in the model.
 *   [binarybana/easyrag](https://github.com/binarybana/easyrag): Easy RAG scripts for a local, embedded, MCP-enabled knowledge store.
 *   [jagan-shanmugam/mattermost-mcp-host](https://github.com/jagan-shanmugam/mattermost-mcp-host): A Mattermost integration that connects to Model Context Protocol (MCP) servers, leveraging a LangGraph-based Agent.
