@@ -666,6 +666,7 @@
 
 ## Python
 
+*   [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit): Real-time, Fully Local Speech-to-Text and Speaker Diarization. FastAPI Server & Web Interface
 *   [ahmetoner/whisper-asr-webservice](https://github.com/ahmetoner/whisper-asr-webservice): OpenAI Whisper ASR Webservice API
 *   [Modern-Prometheus-AI/FullyUnifiedModel](https://github.com/Modern-Prometheus-AI/FullyUnifiedModel): This is a technical writeup of the next evolution in the Adaptive Modular Network. It aims to unify the components of the AMN and fill gaps and weak points in the model.
 *   [binarybana/easyrag](https://github.com/binarybana/easyrag): Easy RAG scripts for a local, embedded, MCP-enabled knowledge store.
