@@ -135,6 +135,7 @@
 
 ## Dockerfile
 
+*   [ahoylabs/ahoylabs-docker-images](https://github.com/ahoylabs/ahoylabs-docker-images): Builds of llama.cpp, whisper.cpp, and others with some convenience tweaks
 *   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook): 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 *   [greatfire/freebrowser-backend](https://github.com/greatfire/freebrowser-backend)
 *   [m3rryqold/headless-chrome-nodejs-docker](https://github.com/m3rryqold/headless-chrome-nodejs-docker): A dockerized nodejs application to use google chrome with puppeteer headless.
@@ -666,6 +667,7 @@
 
 ## Python
 
+*   [ufal/whisper_streaming](https://github.com/ufal/whisper_streaming): Whisper realtime streaming for long speech-to-text transcription and translation
 *   [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit): Real-time, Fully Local Speech-to-Text and Speaker Diarization. FastAPI Server & Web Interface
 *   [ahmetoner/whisper-asr-webservice](https://github.com/ahmetoner/whisper-asr-webservice): OpenAI Whisper ASR Webservice API
 *   [Modern-Prometheus-AI/FullyUnifiedModel](https://github.com/Modern-Prometheus-AI/FullyUnifiedModel): This is a technical writeup of the next evolution in the Adaptive Modular Network. It aims to unify the components of the AMN and fill gaps and weak points in the model.
