@@ -142,6 +142,7 @@
 
 ## Go
 
+*   [godbus/dbus](https://github.com/godbus/dbus): Native Go bindings for D-Bus
 *   [OmChillure/mcpui](https://github.com/OmChillure/mcpui)
 *   [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt): Giving Kubernetes Superpowers to everyone
 *   [jinzhu/now](https://github.com/jinzhu/now): Now is a time toolkit for golang
