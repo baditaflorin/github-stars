@@ -667,6 +667,7 @@
 
 ## Python
 
+*   [collabora/WhisperFusion](https://github.com/collabora/WhisperFusion): WhisperFusion builds upon the capabilities of WhisperLive and WhisperSpeech to provide a seamless conversations with an AI.
 *   [ufal/whisper_streaming](https://github.com/ufal/whisper_streaming): Whisper realtime streaming for long speech-to-text transcription and translation
 *   [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit): Real-time, Fully Local Speech-to-Text and Speaker Diarization. FastAPI Server & Web Interface
 *   [ahmetoner/whisper-asr-webservice](https://github.com/ahmetoner/whisper-asr-webservice): OpenAI Whisper ASR Webservice API
