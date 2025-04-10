@@ -645,7 +645,7 @@
 *   [ZoneMinder/zoneminder](https://github.com/ZoneMinder/zoneminder): ZoneMinder is a free, open source Closed-circuit television software application developed for Linux which supports IP, USB and Analog cameras.
 *   [LibreHealthIO/lh-ehr](https://github.com/LibreHealthIO/lh-ehr): LibreHealth EHR - Free Open Source Electronic Health Records
 *   [snipe/snipe-it](https://github.com/snipe/snipe-it): A free open source IT asset/license management system
-*   [facebookarchive/open-graph-protocol](https://github.com/facebookarchive/open-graph-protocol)
+*   [facebook/open-graph-protocol](https://github.com/facebook/open-graph-protocol)
 *   [slifty/truth-goggles](https://github.com/slifty/truth-goggles): Find out what is true and false with the click of a button
 
 ## PLpgSQL
