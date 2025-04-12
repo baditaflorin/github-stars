@@ -453,7 +453,7 @@
 *   [onnx/models](https://github.com/onnx/models): A collection of pre-trained, state-of-the-art models in the ONNX format
 *   [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace): 🛠 All-in-one web-based IDE specialized for machine learning and data science.
 *   [facebookresearch/seamless_communication](https://github.com/facebookresearch/seamless_communication): Foundational Models for State-of-the-Art Speech and Text Translation
-*   [topoteretes/cognee](https://github.com/topoteretes/cognee): Reliable LLM Memory for AI Applications and AI Agents
+*   [topoteretes/cognee](https://github.com/topoteretes/cognee): Memory for AI Agents in 5 lines of code
 *   [huggingface/smol-course](https://github.com/huggingface/smol-course): A course on aligning smol models.
 *   [run-llama/llama-hub](https://github.com/run-llama/llama-hub): A library of data loaders for LLMs made by the community -- to be used with LlamaIndex and/or LangChain
 *   [sanchit-gandhi/whisper-jax](https://github.com/sanchit-gandhi/whisper-jax): JAX implementation of OpenAI's Whisper model for up to 70x speed-up on TPU.
