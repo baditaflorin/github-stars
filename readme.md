@@ -704,7 +704,7 @@
 *   [HKUDS/AutoAgent](https://github.com/HKUDS/AutoAgent): "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"
 *   [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps): Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 *   [SesameAILabs/csm](https://github.com/SesameAILabs/csm): A Conversational Speech Generation Model
-*   [authed-dev/authed](https://github.com/authed-dev/authed): Open-source authentication protocol for agentic interactions. Let agents collaborate with Authed
+*   [authed-dev/authed](https://github.com/authed-dev/authed): Fine-grained access control for AI agents
 *   [FlagOpen/FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding): Retrieval and Retrieval-augmented LLMs
 *   [gyptazy/ProxLB](https://github.com/gyptazy/ProxLB): ProxLB - (Re)Balance VM Workloads Across Nodes in Proxmox Clusters. A Load Balancer for Proxmox - and more!
 *   [hyunjun/bookmarks](https://github.com/hyunjun/bookmarks)
