@@ -92,7 +92,7 @@
 
 *   [ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design): Learn Low Level Design (LLD) and prepare for interviews using free resources.
 *   [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino): OpenVINO™ is an open source toolkit for optimizing and deploying AI inference
-*   [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes): A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon)
+*   [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes): A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/
 *   [facebookresearch/faiss](https://github.com/facebookresearch/faiss): A library for efficient similarity search and clustering of dense vectors.
 *   [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS): A high-performance distributed file system designed to address the challenges of AI training and inference workloads.
 *   [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime): ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
