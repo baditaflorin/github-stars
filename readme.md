@@ -143,6 +143,7 @@
 
 ## Go
 
+*   [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth): The simplest way to protect your apps with a login screen.
 *   [godbus/dbus](https://github.com/godbus/dbus): Native Go bindings for D-Bus
 *   [OmChillure/mcpui](https://github.com/OmChillure/mcpui)
 *   [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt): Giving Kubernetes Superpowers to everyone
