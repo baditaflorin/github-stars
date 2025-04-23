@@ -1015,6 +1015,7 @@
 
 ## TypeScript
 
+*   [kortix-ai/suna](https://github.com/kortix-ai/suna): Suna - Open Source Generalist AI Agent
 *   [fonoster/fonoster](https://github.com/fonoster/fonoster): 🚀 The open-source alternative to Twilio.
 *   [ateeyak/n8n-nodes-mcp](https://github.com/ateeyak/n8n-nodes-mcp)
 *   [RegiByte/mcp-client-app](https://github.com/RegiByte/mcp-client-app): A mcp client chat application built for learning purposes
