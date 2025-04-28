@@ -668,6 +668,7 @@
 
 ## Python
 
+*   [MinishLab/model2vec](https://github.com/MinishLab/model2vec): Fast State-of-the-Art Static Embeddings
 *   [microsoft/markitdown](https://github.com/microsoft/markitdown): Python tool for converting files and office documents to Markdown.
 *   [collabora/WhisperFusion](https://github.com/collabora/WhisperFusion): WhisperFusion builds upon the capabilities of WhisperLive and WhisperSpeech to provide a seamless conversations with an AI.
 *   [ufal/whisper_streaming](https://github.com/ufal/whisper_streaming): Whisper realtime streaming for long speech-to-text transcription and translation
