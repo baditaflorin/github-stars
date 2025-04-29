@@ -728,7 +728,7 @@
 *   [simonw/sqlite-utils](https://github.com/simonw/sqlite-utils): Python CLI utility and library for manipulating SQLite databases
 *   [simonw/llm-cluster](https://github.com/simonw/llm-cluster): LLM plugin for clustering embeddings
 *   [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory): Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
-*   [unslothai/unsloth](https://github.com/unslothai/unsloth): Finetune Llama 4, Qwen3, TTS, DeepSeek-R1, Gemma 3 & Reasoning LLMs 2x faster with 70% less memory! 🦥
+*   [unslothai/unsloth](https://github.com/unslothai/unsloth): Finetune Qwen3, Llama 4, TTS, DeepSeek-R1 & Gemma 3 LLMs 2x faster with 70% less memory! 🦥
 *   [opendatalab/PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit): A Comprehensive Toolkit for High-Quality PDF Content Extraction
 *   [exo-explore/exo](https://github.com/exo-explore/exo): Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 *   [openai/swarm](https://github.com/openai/swarm): Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
