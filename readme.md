@@ -146,6 +146,7 @@
 *   [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth): The simplest way to protect your apps with a login screen.
 *   [godbus/dbus](https://github.com/godbus/dbus): Native Go bindings for D-Bus
 *   [OmChillure/mcpui](https://github.com/OmChillure/mcpui)
+*   [replicate/cog](https://github.com/replicate/cog): Containers for machine learning
 *   [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt): Giving Kubernetes Superpowers to everyone
 *   [jinzhu/now](https://github.com/jinzhu/now): Now is a time toolkit for golang
 *   [hwholiday/learning_tools](https://github.com/hwholiday/learning_tools): Go 学习、Go 进阶、Go 实用工具类、Go DDD 项目落地、Go-kit 、Go-Micro 、Go 推送平台、微服务实践
@@ -684,7 +685,6 @@
 *   [budtmo/docker-android](https://github.com/budtmo/docker-android): Android in docker solution with noVNC supported and video recording
 *   [x0rzavi/github-readme-terminal](https://github.com/x0rzavi/github-readme-terminal): ✨ Elevate your GitHub Profile ReadMe with Minimalistic Retro Terminal GIFs 🚀
 *   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui): Stable Diffusion web UI
-*   [replicate/cog](https://github.com/replicate/cog): Containers for machine learning
 *   [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN): Official Code for DragGAN (SIGGRAPH 2023)
 *   [QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger): 🥂 Gracefully face hCaptcha challenge with multimodal large language model.
 *   [iterative/dvc](https://github.com/iterative/dvc): 🦉 Data Versioning and ML Experiments
