@@ -171,7 +171,7 @@
 *   [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser): Release engineering, simplified
 *   [mat/besticon](https://github.com/mat/besticon): Favicon service written in Go
 *   [gravitational/teleport](https://github.com/gravitational/teleport): The easiest, and most secure way to access and protect all of your infrastructure.
-*   [nalgeon/codapi](https://github.com/nalgeon/codapi): Interactive code examples for documentation, education and fun
+*   [nalgeon/codapi](https://github.com/nalgeon/codapi): Interactive code examples
 *   [thomiceli/opengist](https://github.com/thomiceli/opengist): Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 *   [dustin/go-humanize](https://github.com/dustin/go-humanize): Go Humans! (formatters for units to human friendly sizes)
 *   [shadow1ng/fscan](https://github.com/shadow1ng/fscan): 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
