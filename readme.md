@@ -324,6 +324,7 @@
 
 ## JavaScript
 
+*   [pinojs/pino](https://github.com/pinojs/pino): 🌲 super fast, all natural json logger
 *   [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys): Lightweight full-featured typescript/javascript WhatsApp Web API
 *   [zhaoolee/OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook): 🍭在线工具秘籍,为在线工具写一本优质说明书,让在线工具造福人类~ Online tool cheats, write a quality manual for online tools, make online tools benefit humanity~
 *   [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching): An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
@@ -907,6 +908,7 @@
 
 ## Rust
 
+*   [openobserve/openobserve](https://github.com/openobserve/openobserve): 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
 *   [moghtech/komodo](https://github.com/moghtech/komodo): 🦎 a tool to build and deploy software on many servers 🦎
 *   [block/goose](https://github.com/block/goose): an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 *   [rust-lang/mdBook](https://github.com/rust-lang/mdBook): Create book from markdown files. Like Gitbook but implemented in Rust
