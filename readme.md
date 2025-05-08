@@ -143,6 +143,7 @@
 
 ## Go
 
+*   [lpar/hugoutil](https://github.com/lpar/hugoutil): Utility for category and tag management of Hugo posts, with optional AI metadata extraction via IBM Watson
 *   [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth): The simplest way to protect your apps with a login screen.
 *   [godbus/dbus](https://github.com/godbus/dbus): Native Go bindings for D-Bus
 *   [OmChillure/mcpui](https://github.com/OmChillure/mcpui)
