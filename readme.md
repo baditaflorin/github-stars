@@ -1026,7 +1026,6 @@
 *   [EvalsOne/MCP-connect](https://github.com/EvalsOne/MCP-connect): Enables cloud-based AI services to access local Stdio based MCP servers via HTTP requests
 *   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio): 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 *   [bsmi021/mcp-memory-bank](https://github.com/bsmi021/mcp-memory-bank): A powerful, production-ready context management system for Large Language Models (LLMs). Built with ChromaDB and modern embedding technologies, it provides persistent, project-specific memory capabilities that enhance your AI's understanding and response quality.
-*   [bsmi021/mcp-thought-server](https://github.com/bsmi021/mcp-thought-server): A powerful server providing advanced thinking tools via the Model Context Protocol (MCP) to enhance the reasoning, planning, and iterative refinement capabilities of AI agents like Cline.
 *   [Cyreslab-AI/wayback-mcp-server](https://github.com/Cyreslab-AI/wayback-mcp-server)
 *   [devhubapp/devhub](https://github.com/devhubapp/devhub): TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 *   [wei/socialify](https://github.com/wei/socialify): 💞 Socialify your project. 🌐 Share with the world!
