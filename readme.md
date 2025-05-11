@@ -713,7 +713,7 @@
 *   [hyunjun/bookmarks](https://github.com/hyunjun/bookmarks)
 *   [mistralai/mistral-finetune](https://github.com/mistralai/mistral-finetune)
 *   [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder): DeepSeek Coder: Let the Code Write Itself
-*   [theroyallab/tabbyAPI](https://github.com/theroyallab/tabbyAPI): An OAI compatible exllamav2 API that's both lightweight and fast
+*   [theroyallab/tabbyAPI](https://github.com/theroyallab/tabbyAPI): The offical API server for Exllama. OAI compatible, lightweight, and fast.
 *   [remsky/Kokoro-FastAPI](https://github.com/remsky/Kokoro-FastAPI): Dockerized FastAPI wrapper for Kokoro-82M text-to-speech model w/CPU ONNX and NVIDIA GPU PyTorch support, handling, and auto-stitching
 *   [disler/always-on-ai-assistant](https://github.com/disler/always-on-ai-assistant): A pattern for an always on AI Assistant powered by Deepseek-V3, RealtimeSTT, and Typer for engineering
 *   [KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT): A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription.
