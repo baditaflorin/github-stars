@@ -429,7 +429,7 @@
 
 ## Jinja
 
-*   [jcalazan/ansible-django-stack](https://github.com/jcalazan/ansible-django-stack): Ansible Playbook for setting up a Django app with Nginx, Gunicorn, PostgreSQL, Celery, RabbitMQ, Supervisor, Virtualenv, and Memcached. A Vagrantfile for provisioning a VirtualBox virtual machine is included as well.
+*   [YPCrumble/ansible-django-stack](https://github.com/YPCrumble/ansible-django-stack): Ansible Playbook for setting up a Django app with Nginx, Gunicorn, PostgreSQL, Celery, RabbitMQ, Supervisor, Virtualenv, and Memcached. A Vagrantfile for provisioning a VirtualBox virtual machine is included as well.
 *   [spurin/diveintoansible](https://github.com/spurin/diveintoansible): Content for DiveInto.com's 'Dive Into Ansible' Course
 *   [lgaggini/ansible-arch](https://github.com/lgaggini/ansible-arch): ansible-arch is an Ansible playbook to provision and to recreate from scratch my archlinux workstation environment.
 *   [davestephens/ansible-nas](https://github.com/davestephens/ansible-nas): Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook.
