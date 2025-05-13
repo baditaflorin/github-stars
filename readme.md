@@ -255,6 +255,7 @@
 
 ## HTML
 
+*   [baditaflorin/0deepresearch](https://github.com/baditaflorin/0deepresearch)
 *   [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws): 🧠 Laws, Theories, Principles and Patterns for developers and technologists.
 *   [lepture/github-cards](https://github.com/lepture/github-cards): The unofficial GitHub Cards. Card for your GitHub profile, card for your GitHub repositories.
 *   [Metroxe/one-html-page-challenge](https://github.com/Metroxe/one-html-page-challenge): Can you create something cool without modern tools?
