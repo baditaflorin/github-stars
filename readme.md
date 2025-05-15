@@ -1097,7 +1097,7 @@
 *   [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation): Routing and navigation for React Native and Web apps
 *   [openapistack/openapi-backend](https://github.com/openapistack/openapi-backend): Build, Validate, Route, Authenticate and Mock using OpenAPI
 *   [graphql/graphiql](https://github.com/graphql/graphiql): GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
-*   [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp): freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+*   [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp): freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 *   [Turfjs/turf](https://github.com/Turfjs/turf): A modular geospatial engine written in JavaScript and TypeScript
 
 ## Vue
