@@ -723,7 +723,6 @@
 *   [khoj-ai/flint](https://github.com/khoj-ai/flint): Journal with Khoj on WhatsApp. Supports multi-lingual audio messages, references previous conversations for context aware responses
 *   [deepset-ai/haystack](https://github.com/deepset-ai/haystack): AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.
 *   [khoj-ai/khoj](https://github.com/khoj-ai/khoj): Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
-*   [triton-inference-server/tensorrtllm_backend](https://github.com/triton-inference-server/tensorrtllm_backend): The Triton TensorRT-LLM Backend
 *   [Sanaelotfi/sublora-bounds-for-llms](https://github.com/Sanaelotfi/sublora-bounds-for-llms): Computing compression-based generalization bounds for LLMs using SubLoRA
 *   [autodistill/autodistill](https://github.com/autodistill/autodistill): Images to inference with no labeling (use foundation models to train supervised models).
 *   [fdalvi/NeuroX](https://github.com/fdalvi/NeuroX): A Python library that encapsulates various methods for neuron interpretation and analysis in Deep NLP models.
@@ -932,6 +931,7 @@
 *   [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps): This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.
 *   [OpenSource-For-Freedom/HARDN](https://github.com/OpenSource-For-Freedom/HARDN): A single Debian Package to fully secure the OS using automation, monitoring, heuristics and availability.
 *   [chsasank/outline-wiki-docker-compose](https://github.com/chsasank/outline-wiki-docker-compose): Installation and docker compose to self host outline wiki: https://www.getoutline.com/
+*   [triton-inference-server/tensorrtllm_backend](https://github.com/triton-inference-server/tensorrtllm_backend): The Triton TensorRT-LLM Backend
 *   [FWDekker/mommy](https://github.com/FWDekker/mommy): mommy's here to support you, in any shell, on any system~ ❤️
 *   [madalin-dogaru/operating_systems_automation](https://github.com/madalin-dogaru/operating_systems_automation): Operating Systems Automations.
 *   [scop/bash-completion](https://github.com/scop/bash-completion): Programmable completion functions for bash
