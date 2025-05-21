@@ -1044,7 +1044,7 @@
 *   [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway): A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
 *   [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica): Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
 *   [getomni-ai/zerox](https://github.com/getomni-ai/zerox): OCR & Document Extraction using vision models
-*   [idootop/MagicMirror](https://github.com/idootop/MagicMirror): 🪞 Instant AI Face Swap, Hairstyles & Outfits — One click to a brand new you! 一键 AI 换脸、发型、穿搭，发现更美的你
+*   [idootop/MagicMirror](https://github.com/idootop/MagicMirror): 🪞 Instant AI Face Swap — One click to a brand new you! 一键 AI 换脸，发现更美的你
 *   [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard): Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 *   [msgbyte/tianji](https://github.com/msgbyte/tianji): Tianji: Insight into everything, Website Analytics + Uptime Monitor + Server Status. not only another GA alternatives
 *   [modelcontextprotocol/quickstart-resources](https://github.com/modelcontextprotocol/quickstart-resources): A repository of servers and clients from the Model Context Protocol tutorials
