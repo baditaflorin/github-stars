@@ -254,6 +254,7 @@
 
 ## HTML
 
+*   [ngxson/smolvlm-realtime-webcam](https://github.com/ngxson/smolvlm-realtime-webcam): Real-time webcam demo with SmolVLM and llama.cpp server
 *   [baditaflorin/0deepresearch](https://github.com/baditaflorin/0deepresearch)
 *   [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws): 🧠 Laws, Theories, Principles and Patterns for developers and technologists.
 *   [lepture/github-cards](https://github.com/lepture/github-cards): The unofficial GitHub Cards. Card for your GitHub profile, card for your GitHub repositories.
