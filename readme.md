@@ -63,6 +63,7 @@
 
 ## C
 
+*   [OISF/suricata](https://github.com/OISF/suricata): Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine developed by the OISF and the Suricata community.
 *   [ading2210/linuxpdf](https://github.com/ading2210/linuxpdf): Linux running inside a PDF file via a RISC-V emulator
 *   [xiph/speexdsp](https://github.com/xiph/speexdsp): Speex audio processing library - THIS IS A MIRROR, DEVELOPMENT HAPPENS AT https://gitlab.xiph.org/xiph/speexdsp
 *   [xiph/rnnoise](https://github.com/xiph/rnnoise): Recurrent neural network for audio noise reduction
@@ -90,6 +91,7 @@
 
 ## C++
 
+*   [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird): Truly independent web browser
 *   [ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design): Learn Low Level Design (LLD) and prepare for interviews using free resources.
 *   [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino): OpenVINO™ is an open source toolkit for optimizing and deploying AI inference
 *   [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes): A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/
@@ -142,6 +144,11 @@
 
 ## Go
 
+*   [ayoisaiah/f2](https://github.com/ayoisaiah/f2): F2 is a cross-platform command-line tool for batch renaming files and directories quickly and safely. Written in Go!
+*   [knadh/listmonk](https://github.com/knadh/listmonk): High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
+*   [ibnaleem/gosearch](https://github.com/ibnaleem/gosearch): 🔍 Search anyone's digital footprint across 300+ websites
+*   [gohugoio/hugo](https://github.com/gohugoio/hugo): The world’s fastest framework for building websites.
+*   [plandex-ai/plandex](https://github.com/plandex-ai/plandex): Open source AI coding agent. Designed for large projects and real world tasks.
 *   [lpar/hugoutil](https://github.com/lpar/hugoutil): Utility for category and tag management of Hugo posts, with optional AI metadata extraction via IBM Watson
 *   [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth): The simplest way to protect your apps with a login screen.
 *   [godbus/dbus](https://github.com/godbus/dbus): Native Go bindings for D-Bus
@@ -254,6 +261,7 @@
 
 ## HTML
 
+*   [hotheadhacker/awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker): 🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software.
 *   [ngxson/smolvlm-realtime-webcam](https://github.com/ngxson/smolvlm-realtime-webcam): Real-time webcam demo with SmolVLM and llama.cpp server
 *   [baditaflorin/0deepresearch](https://github.com/baditaflorin/0deepresearch)
 *   [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws): 🧠 Laws, Theories, Principles and Patterns for developers and technologists.
@@ -327,6 +335,8 @@
 
 ## JavaScript
 
+*   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma): A fancy self-hosted monitoring tool
+*   [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac):  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 *   [BaldissaraMatheus/Tasks.md](https://github.com/BaldissaraMatheus/Tasks.md): A self-hosted, Markdown file based task management board
 *   [pinojs/pino](https://github.com/pinojs/pino): 🌲 super fast, all natural json logger
 *   [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys): Lightweight full-featured typescript/javascript WhatsApp Web API
@@ -443,6 +453,7 @@
 
 ## Jupyter Notebook
 
+*   [mlabonne/llm-course](https://github.com/mlabonne/llm-course): Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 *   [MrMimic/data-scientist-roadmap](https://github.com/MrMimic/data-scientist-roadmap): Toturials coming with the "data science roadmap" picture.
 *   [WTFAcademy/WTF-zk](https://github.com/WTFAcademy/WTF-zk): 零知识证明入门教程。Comprehensive Zero-Knowledge Proofs Tutorial. #zk #WIP
 *   [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles): Solve puzzles. Learn CUDA.
@@ -503,6 +514,17 @@
 
 ## Miscellaneous
 
+*   [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker): :whale: A curated list of Docker resources and projects
+*   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge): A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+*   [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts): Collection of leaked system prompts
+*   [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules): 📄 A curated list of awesome .cursorrules files
+*   [keon/awesome-nlp](https://github.com/keon/awesome-nlp): :book: A curated list of resources dedicated to Natural Language Processing (NLP)
+*   [academic/awesome-datascience](https://github.com/academic/awesome-datascience): :memo: An awesome Data Science repository to learn and apply for real world problems.
+*   [hackstoic/golang-open-source-projects](https://github.com/hackstoic/golang-open-source-projects): 为互联网IT人打造的中文版awesome-go
+*   [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets): A topic-centric list of HQ open datasets.
+*   [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses): :books: List of awesome university courses for learning Computer Science!
+*   [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest): A collection of awesome penetration testing resources, tools and other shiny things
+*   [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking): A collection of various awesome lists for hackers, pentesters and security researchers
 *   [davidberenstein1957/whisper-jax-asr-webservice](https://github.com/davidberenstein1957/whisper-jax-asr-webservice): OpenAI Whisper-JAX ASR Webservice API
 *   [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit): :link: Some useful websites for programmers.
 *   [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability): The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
@@ -673,6 +695,14 @@
 
 ## Python
 
+*   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub): :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
+*   [commaai/openpilot](https://github.com/commaai/openpilot): openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
+*   [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek): Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
+*   [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund): An AI Hedge Fund Team
+*   [mem0ai/mem0](https://github.com/mem0ai/mem0): Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
+*   [awesomelistsio/awesome-open-source-space-data-apis](https://github.com/awesomelistsio/awesome-open-source-space-data-apis): A curated list of open source APIs, tools, and resources for accessing and analyzing space-related data.
+*   [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet): :beers: awesome cheatsheet
+*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io): The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification
 *   [baditaflorin/0emb](https://github.com/baditaflorin/0emb)
 *   [MinishLab/model2vec](https://github.com/MinishLab/model2vec): Fast State-of-the-Art Static Embeddings
 *   [microsoft/markitdown](https://github.com/microsoft/markitdown): Python tool for converting files and office documents to Markdown.
@@ -902,6 +932,7 @@
 
 ## Ruby
 
+*   [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness): A curated list of awesome awesomeness
 *   [countries/countries](https://github.com/countries/countries): All sorts of useful information about every country packaged as convenient little country objects. It includes data from ISO 3166 (countries and states/subdivisions ), ISO 4217 (currency), and E.164 (phone numbers).
 *   [dbreunig/git-scraper-extractor](https://github.com/dbreunig/git-scraper-extractor): Pull out versions of specific files from a gitscraping repo into individual files.
 *   [community/community](https://github.com/community/community): Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
@@ -927,6 +958,7 @@
 
 ## Shell
 
+*   [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps): 🚀 Awesome (free) web apps that work without login
 *   [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats): ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 *   [gpakosz/.tmux](https://github.com/gpakosz/.tmux): Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 *   [binpash/try](https://github.com/binpash/try): Inspect a command's effects before modifying your live system
@@ -1023,6 +1055,11 @@
 
 ## TypeScript
 
+*   [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai): FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
+*   [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat): AI-powered multi-agent builder
+*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat): 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
+*   [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep): A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
+*   [SigNoz/signoz](https://github.com/SigNoz/signoz): SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
 *   [benhansen-io/pinging](https://github.com/benhansen-io/pinging): Pinging.net - Monitor Your Internet Connection
 *   [kortix-ai/suna](https://github.com/kortix-ai/suna): Suna - Open Source Generalist AI Agent
 *   [fonoster/fonoster](https://github.com/fonoster/fonoster): 🚀 The open-source alternative to Twilio.
@@ -1105,6 +1142,7 @@
 
 ## Vue
 
+*   [Lissy93/dashy](https://github.com/Lissy93/dashy): 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 *   [Stigmatoz/web-activity-time-tracker](https://github.com/Stigmatoz/web-activity-time-tracker): Chrome Extension that tracks and limits time you spent on sites
 *   [baato/before-after](https://github.com/baato/before-after): Generate before-after maps for OpenStreetMap with ease.
 *   [checkly/theheadless.dev](https://github.com/checkly/theheadless.dev): 🪖 Learn Puppeteer and Playwright - Tips, tricks and in-depth guides from the trenches.
