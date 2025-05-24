@@ -307,6 +307,7 @@
 
 ## Java
 
+*   [kassner/whattocook](https://github.com/kassner/whattocook): Get a recipe to cook today, based on the ingredients you have at home.
 *   [Xunzhuo/Algorithm-Guide](https://github.com/Xunzhuo/Algorithm-Guide): Xunzhuo`s Tutorials of Algorithm and Data Structure  🚀🚀🚀
 *   [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy): The ZAP by Checkmarx Core project
 *   [yago-naga/yago3](https://github.com/yago-naga/yago3): YAGO is a large semantic knowledge base, derived from Wikipedia, WordNet, WikiData, GeoNames, and other data sources
@@ -326,6 +327,7 @@
 
 ## JavaScript
 
+*   [BaldissaraMatheus/Tasks.md](https://github.com/BaldissaraMatheus/Tasks.md): A self-hosted, Markdown file based task management board
 *   [pinojs/pino](https://github.com/pinojs/pino): 🌲 super fast, all natural json logger
 *   [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys): Lightweight full-featured typescript/javascript WhatsApp Web API
 *   [zhaoolee/OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook): 🍭在线工具秘籍,为在线工具写一本优质说明书,让在线工具造福人类~ Online tool cheats, write a quality manual for online tools, make online tools benefit humanity~
