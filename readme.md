@@ -144,6 +144,7 @@
 
 ## Go
 
+*   [Receipt-Wrangler/receipt-wrangler-api](https://github.com/Receipt-Wrangler/receipt-wrangler-api): Server for Receipt Wrangler
 *   [go-shiori/shiori](https://github.com/go-shiori/shiori): Simple bookmark manager built with Go
 *   [emersion/go-imap](https://github.com/emersion/go-imap): 📥 An IMAP library for clients and servers
 *   [ayoisaiah/f2](https://github.com/ayoisaiah/f2): F2 is a cross-platform command-line tool for batch renaming files and directories quickly and safely. Written in Go!
@@ -336,6 +337,7 @@
 
 ## JavaScript
 
+*   [LukeGus/Termix](https://github.com/LukeGus/Termix): Clientless web-based SSH terminal emulator that stores and manages your connection details
 *   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma): A fancy self-hosted monitoring tool
 *   [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac):  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 *   [BaldissaraMatheus/Tasks.md](https://github.com/BaldissaraMatheus/Tasks.md): A self-hosted, Markdown file based task management board
