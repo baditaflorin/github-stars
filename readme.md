@@ -136,6 +136,7 @@
 
 ## Dockerfile
 
+*   [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop): Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
 *   [ahoylabs/ahoylabs-docker-images](https://github.com/ahoylabs/ahoylabs-docker-images): Builds of llama.cpp, whisper.cpp, and others with some convenience tweaks
 *   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook): 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 *   [greatfire/freebrowser-backend](https://github.com/greatfire/freebrowser-backend)
@@ -144,6 +145,7 @@
 
 ## Go
 
+*   [Trugamr/wol](https://github.com/Trugamr/wol): 🦭 Wake up your devices with a single command or click. A Wake-On-LAN tool that works via CLI and web interface.
 *   [Receipt-Wrangler/receipt-wrangler-api](https://github.com/Receipt-Wrangler/receipt-wrangler-api): Server for Receipt Wrangler
 *   [go-shiori/shiori](https://github.com/go-shiori/shiori): Simple bookmark manager built with Go
 *   [emersion/go-imap](https://github.com/emersion/go-imap): 📥 An IMAP library for clients and servers
@@ -337,6 +339,7 @@
 
 ## JavaScript
 
+*   [plankanban/planka](https://github.com/plankanban/planka): PLANKA is the kanban-style project mastering tool for everyone.
 *   [LukeGus/Termix](https://github.com/LukeGus/Termix): Clientless web-based SSH terminal emulator that stores and manages your connection details
 *   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma): A fancy self-hosted monitoring tool
 *   [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac):  Now we have become very big, Different from the original idea. Collect premium software in various categories.
@@ -1043,6 +1046,7 @@
 
 ## Svelte
 
+*   [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap): A simple wake on lan web app written with SvelteKit, Go and PocketBase.
 *   [reid41/QA-Pilot](https://github.com/reid41/QA-Pilot): QA-Pilot is an interactive chat project that leverages online/local LLM for rapid understanding and navigation of GitHub code repository.
 *   [ekafyi/johnnydecimal-index-generator](https://github.com/ekafyi/johnnydecimal-index-generator): Code for the Johnny Decimal Index Generator web app
 
@@ -1061,6 +1065,8 @@
 
 ## TypeScript
 
+*   [astuto/astuto](https://github.com/astuto/astuto): A free, open source, self-hosted customer feedback tool 🦊
+*   [calcom/cal.com](https://github.com/calcom/cal.com): Scheduling infrastructure for absolutely everyone.
 *   [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai): FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
 *   [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat): AI-powered multi-agent builder
 *   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat): 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 4 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
