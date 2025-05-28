@@ -144,6 +144,7 @@
 
 ## Go
 
+*   [emersion/go-imap](https://github.com/emersion/go-imap): 📥 An IMAP library for clients and servers
 *   [ayoisaiah/f2](https://github.com/ayoisaiah/f2): F2 is a cross-platform command-line tool for batch renaming files and directories quickly and safely. Written in Go!
 *   [knadh/listmonk](https://github.com/knadh/listmonk): High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 *   [ibnaleem/gosearch](https://github.com/ibnaleem/gosearch): 🔍 Search anyone's digital footprint across 300+ websites
