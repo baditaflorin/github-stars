@@ -287,7 +287,6 @@
 *   [realpython/materials](https://github.com/realpython/materials): Bonus materials, exercises, and example projects for our Python tutorials
 *   [docker/awesome-compose](https://github.com/docker/awesome-compose): Awesome Docker Compose samples
 *   [ossu/computer-science](https://github.com/ossu/computer-science): 🎓 Path to a free self-taught education in Computer Science!
-*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books): :books: Freely available programming books
 *   [EqualStreetNames/equalstreetnames-template](https://github.com/EqualStreetNames/equalstreetnames-template): Template for city sub-module
 *   [CitizensFoundation/your-priorities-app](https://github.com/CitizensFoundation/your-priorities-app): Your Priorities is a citizen engagement platform, a progressive web app, and a participatory social network that empowers groups of any size to speak with one voice and organize around ideas.
 *   [sovereign/sovereign](https://github.com/sovereign/sovereign): A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
@@ -836,6 +835,7 @@
 *   [EleutherAI/gpt-neo](https://github.com/EleutherAI/gpt-neo): An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library.
 *   [public-apis/public-apis](https://github.com/public-apis/public-apis): A collective list of free APIs
 *   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books): :books: Freely available programming books
 *   [mxrch/GHunt](https://github.com/mxrch/GHunt): 🕵️‍♂️ Offensive Google framework.
 *   [idank/explainshell](https://github.com/idank/explainshell): match command-line arguments to their help text
 *   [lee212/sh2ansible](https://github.com/lee212/sh2ansible): Convert shell scripts to Ansible scripts with limiations
