@@ -145,6 +145,8 @@
 
 ## Go
 
+*   [writefreely/writefreely](https://github.com/writefreely/writefreely): A clean, Markdown-based publishing platform made for writers. Write together and build a community.
+*   [adnanh/webhook](https://github.com/adnanh/webhook): webhook is a lightweight incoming webhook server to run shell commands
 *   [Trugamr/wol](https://github.com/Trugamr/wol): 🦭 Wake up your devices with a single command or click. A Wake-On-LAN tool that works via CLI and web interface.
 *   [Receipt-Wrangler/receipt-wrangler-api](https://github.com/Receipt-Wrangler/receipt-wrangler-api): Server for Receipt Wrangler
 *   [go-shiori/shiori](https://github.com/go-shiori/shiori): Simple bookmark manager built with Go
@@ -339,6 +341,7 @@
 
 ## JavaScript
 
+*   [automatisch/automatisch](https://github.com/automatisch/automatisch): The open source Zapier alternative. Build workflow automation without spending time and money.
 *   [plankanban/planka](https://github.com/plankanban/planka): PLANKA is the kanban-style project mastering tool for everyone.
 *   [LukeGus/Termix](https://github.com/LukeGus/Termix): Clientless web-based SSH terminal emulator that stores and manages your connection details
 *   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma): A fancy self-hosted monitoring tool
@@ -702,6 +705,7 @@
 
 ## Python
 
+*   [odoo/odoo](https://github.com/odoo/odoo): Odoo. Open Source Apps To Grow Your Business.
 *   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub): :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 *   [commaai/openpilot](https://github.com/commaai/openpilot): openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
 *   [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek): Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
@@ -940,6 +944,7 @@
 
 ## Ruby
 
+*   [huginn/huginn](https://github.com/huginn/huginn): Create agents that monitor and act on your behalf.  Your agents are standing by!
 *   [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness): A curated list of awesome awesomeness
 *   [countries/countries](https://github.com/countries/countries): All sorts of useful information about every country packaged as convenient little country objects. It includes data from ISO 3166 (countries and states/subdivisions ), ISO 4217 (currency), and E.164 (phone numbers).
 *   [dbreunig/git-scraper-extractor](https://github.com/dbreunig/git-scraper-extractor): Pull out versions of specific files from a gitscraping repo into individual files.
@@ -952,6 +957,7 @@
 
 ## Rust
 
+*   [hook0/hook0](https://github.com/hook0/hook0): Open-source webhook server that helps you provide webhooks to your users. It handles for you a great amount of features that are usually tedious to (re)implement.
 *   [openobserve/openobserve](https://github.com/openobserve/openobserve): 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
 *   [moghtech/komodo](https://github.com/moghtech/komodo): 🦎 a tool to build and deploy software on many servers 🦎
 *   [block/goose](https://github.com/block/goose): an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
@@ -1065,6 +1071,10 @@
 
 ## TypeScript
 
+*   [remvze/moodist](https://github.com/remvze/moodist): 🌲 Ambient sounds for focus and calm.
+*   [activepieces/activepieces](https://github.com/activepieces/activepieces): AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
+*   [cmintey/wishlist](https://github.com/cmintey/wishlist): Wishlist is a self-hosted wishlist application that you can share with your friends and family. You no longer have to wonder what to get your family for the holidays, simply check their wishlist and claim any available item!
+*   [pad-ws/pad.ws](https://github.com/pad-ws/pad.ws): Whiteboard as an IDE, draw and code in your browser
 *   [astuto/astuto](https://github.com/astuto/astuto): A free, open source, self-hosted customer feedback tool 🦊
 *   [calcom/cal.com](https://github.com/calcom/cal.com): Scheduling infrastructure for absolutely everyone.
 *   [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai): FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
