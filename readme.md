@@ -144,6 +144,7 @@
 
 ## Go
 
+*   [go-shiori/shiori](https://github.com/go-shiori/shiori): Simple bookmark manager built with Go
 *   [emersion/go-imap](https://github.com/emersion/go-imap): 📥 An IMAP library for clients and servers
 *   [ayoisaiah/f2](https://github.com/ayoisaiah/f2): F2 is a cross-platform command-line tool for batch renaming files and directories quickly and safely. Written in Go!
 *   [knadh/listmonk](https://github.com/knadh/listmonk): High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
@@ -667,6 +668,7 @@
 
 ## PHP
 
+*   [wallabag/wallabag](https://github.com/wallabag/wallabag): wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 *   [collabnix/dockerlabs](https://github.com/collabnix/dockerlabs): Docker  - Beginners | Intermediate | Advanced
 *   [monicahq/monica](https://github.com/monicahq/monica): Personal CRM. Remember everything about your friends, family and business relationships.
 *   [silvanmelchior/RPi_Cam_Web_Interface](https://github.com/silvanmelchior/RPi_Cam_Web_Interface): A web interface for the RPi Cam
@@ -959,6 +961,7 @@
 
 ## Shell
 
+*   [wallabag/docker](https://github.com/wallabag/docker): Official docker-composer for wallabag.
 *   [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps): 🚀 Awesome (free) web apps that work without login
 *   [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats): ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
 *   [gpakosz/.tmux](https://github.com/gpakosz/.tmux): Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
