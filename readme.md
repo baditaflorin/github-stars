@@ -145,6 +145,9 @@
 
 ## Go
 
+*   [eduardolat/pgbackweb](https://github.com/eduardolat/pgbackweb): 🐘 Effortless PostgreSQL backups with a user-friendly web interface! 🌐💾
+*   [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup): Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox or SSH compatible storage
+*   [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase): Open Source realtime backend in 1 file
 *   [writefreely/writefreely](https://github.com/writefreely/writefreely): A clean, Markdown-based publishing platform made for writers. Write together and build a community.
 *   [adnanh/webhook](https://github.com/adnanh/webhook): webhook is a lightweight incoming webhook server to run shell commands
 *   [Trugamr/wol](https://github.com/Trugamr/wol): 🦭 Wake up your devices with a single command or click. A Wake-On-LAN tool that works via CLI and web interface.
@@ -341,6 +344,7 @@
 
 ## JavaScript
 
+*   [lowercasename/gathio](https://github.com/lowercasename/gathio): Self-destructing, shareable, no-registration event pages
 *   [automatisch/automatisch](https://github.com/automatisch/automatisch): The open source Zapier alternative. Build workflow automation without spending time and money.
 *   [plankanban/planka](https://github.com/plankanban/planka): PLANKA is the kanban-style project mastering tool for everyone.
 *   [LukeGus/Termix](https://github.com/LukeGus/Termix): Clientless web-based SSH terminal emulator that stores and manages your connection details
@@ -675,6 +679,7 @@
 
 ## PHP
 
+*   [HiEventsDev/Hi.Events](https://github.com/HiEventsDev/Hi.Events): Open-source event management and ticket selling platform — perfect for concerts, conferences, and everything in between 🎟️  If you find this project helpful, please consider giving us a star ⭐️
 *   [wallabag/wallabag](https://github.com/wallabag/wallabag): wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 *   [collabnix/dockerlabs](https://github.com/collabnix/dockerlabs): Docker  - Beginners | Intermediate | Advanced
 *   [monicahq/monica](https://github.com/monicahq/monica): Personal CRM. Remember everything about your friends, family and business relationships.
@@ -705,6 +710,7 @@
 
 ## Python
 
+*   [Sathvik-Rao/ClipCascade](https://github.com/Sathvik-Rao/ClipCascade): ClipCascade is a lightweight utility that automatically syncs the clipboard across devices, no key press required.
 *   [odoo/odoo](https://github.com/odoo/odoo): Odoo. Open Source Apps To Grow Your Business.
 *   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub): :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 *   [commaai/openpilot](https://github.com/commaai/openpilot): openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
@@ -944,6 +950,7 @@
 
 ## Ruby
 
+*   [maybe-finance/maybe](https://github.com/maybe-finance/maybe): The personal finance app for everyone
 *   [huginn/huginn](https://github.com/huginn/huginn): Create agents that monitor and act on your behalf.  Your agents are standing by!
 *   [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness): A curated list of awesome awesomeness
 *   [countries/countries](https://github.com/countries/countries): All sorts of useful information about every country packaged as convenient little country objects. It includes data from ISO 3166 (countries and states/subdivisions ), ISO 4217 (currency), and E.164 (phone numbers).
@@ -1071,6 +1078,10 @@
 
 ## TypeScript
 
+*   [teableio/teable](https://github.com/teableio/teable): ✨ The Next Gen Airtable Alternative: No-Code Postgres
+*   [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io): 💬 Typebot is a powerful chatbot builder that you can self-host.
+*   [stefanpejcic/OpenPanel](https://github.com/stefanpejcic/OpenPanel): A highly customizable web hosting control panel built around containers 📦
+*   [pocketbase/js-sdk](https://github.com/pocketbase/js-sdk): PocketBase JavaScript SDK
 *   [remvze/moodist](https://github.com/remvze/moodist): 🌲 Ambient sounds for focus and calm.
 *   [activepieces/activepieces](https://github.com/activepieces/activepieces): AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 *   [cmintey/wishlist](https://github.com/cmintey/wishlist): Wishlist is a self-hosted wishlist application that you can share with your friends and family. You no longer have to wonder what to get your family for the holidays, simply check their wishlist and claim any available item!
@@ -1164,6 +1175,7 @@
 
 ## Vue
 
+*   [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools): Collection of handy online tools for developers, with great UX.
 *   [Lissy93/dashy](https://github.com/Lissy93/dashy): 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 *   [Stigmatoz/web-activity-time-tracker](https://github.com/Stigmatoz/web-activity-time-tracker): Chrome Extension that tracks and limits time you spent on sites
 *   [baato/before-after](https://github.com/baato/before-after): Generate before-after maps for OpenStreetMap with ease.
