@@ -845,6 +845,7 @@
 *   [yadm-dev/yadm](https://github.com/yadm-dev/yadm): Yet Another Dotfiles Manager
 *   [httpie/cli](https://github.com/httpie/cli): 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 *   [enzet/map-machine](https://github.com/enzet/map-machine): Python renderer for OpenStreetMap with custom icons intended to display as many map features as possible
+*   [enzet/map-machine](https://github.com/enzet/map-machine): Python renderer for OpenStreetMap with custom icons intended to display as many map features as possible
 *   [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises): Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 *   [harelba/q](https://github.com/harelba/q): q - Run SQL directly on delimited files and multi-file sqlite databases
 *   [Manisso/fsociety](https://github.com/Manisso/fsociety): fsociety Hacking Tools Pack – A Penetration Testing Framework
