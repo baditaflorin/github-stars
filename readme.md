@@ -714,6 +714,7 @@
 
 ## Python
 
+*   [elliott-diy/Weather2Geo](https://github.com/elliott-diy/Weather2Geo): OSINT tool that geolocates screenshots using leaked weather widget data (time, temperature, condition). Uses the same API as the Windows weather widget.
 *   [MedAziz11/Uptime-Kuma-Web-API](https://github.com/MedAziz11/Uptime-Kuma-Web-API): Uptime Kuma REST API
 *   [Sathvik-Rao/ClipCascade](https://github.com/Sathvik-Rao/ClipCascade): ClipCascade is a lightweight utility that automatically syncs the clipboard across devices, no key press required.
 *   [odoo/odoo](https://github.com/odoo/odoo): Odoo. Open Source Apps To Grow Your Business.
@@ -1084,6 +1085,7 @@
 
 ## TypeScript
 
+*   [puckeditor/puck](https://github.com/puckeditor/puck): The visual editor for React
 *   [getumbrel/umbrel](https://github.com/getumbrel/umbrel): A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system.
 *   [teableio/teable](https://github.com/teableio/teable): ✨ The Next Gen Airtable Alternative: No-Code Postgres
 *   [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io): 💬 Typebot is a powerful chatbot builder that you can self-host.
