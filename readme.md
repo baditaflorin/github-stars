@@ -145,6 +145,7 @@
 
 ## Go
 
+*   [zishang520/socket.io](https://github.com/zishang520/socket.io): socket.io for golang, Start your pleasant journey! Support Socket.IO v4+😀
 *   [mxpv/podsync](https://github.com/mxpv/podsync): Turn YouTube or Vimeo channels, users, or playlists into podcast feeds
 *   [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy): Send push notifications to your phone or desktop using PUT/POST
 *   [eduardolat/pgbackweb](https://github.com/eduardolat/pgbackweb): 🐘 Effortless PostgreSQL backups with a user-friendly web interface! 🌐💾
@@ -844,7 +845,6 @@
 *   [vintasoftware/django-react-boilerplate](https://github.com/vintasoftware/django-react-boilerplate): Django 5, React, Bootstrap 5 with Python 3 and Webpack project boilerplate
 *   [yadm-dev/yadm](https://github.com/yadm-dev/yadm): Yet Another Dotfiles Manager
 *   [httpie/cli](https://github.com/httpie/cli): 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
-*   [enzet/map-machine](https://github.com/enzet/map-machine): Python renderer for OpenStreetMap with custom icons intended to display as many map features as possible
 *   [enzet/map-machine](https://github.com/enzet/map-machine): Python renderer for OpenStreetMap with custom icons intended to display as many map features as possible
 *   [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises): Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 *   [harelba/q](https://github.com/harelba/q): q - Run SQL directly on delimited files and multi-file sqlite databases
