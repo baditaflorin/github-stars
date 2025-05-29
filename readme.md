@@ -713,6 +713,7 @@
 
 ## Python
 
+*   [MedAziz11/Uptime-Kuma-Web-API](https://github.com/MedAziz11/Uptime-Kuma-Web-API): Uptime Kuma REST API
 *   [Sathvik-Rao/ClipCascade](https://github.com/Sathvik-Rao/ClipCascade): ClipCascade is a lightweight utility that automatically syncs the clipboard across devices, no key press required.
 *   [odoo/odoo](https://github.com/odoo/odoo): Odoo. Open Source Apps To Grow Your Business.
 *   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub): :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
