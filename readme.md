@@ -63,6 +63,7 @@
 
 ## C
 
+*   [BasedHardware/omi](https://github.com/BasedHardware/omi): AI wearables. Put it on, speak, transcribe, automatically
 *   [OISF/suricata](https://github.com/OISF/suricata): Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine developed by the OISF and the Suricata community.
 *   [ading2210/linuxpdf](https://github.com/ading2210/linuxpdf): Linux running inside a PDF file via a RISC-V emulator
 *   [xiph/speexdsp](https://github.com/xiph/speexdsp): Speex audio processing library - THIS IS A MIRROR, DEVELOPMENT HAPPENS AT https://gitlab.xiph.org/xiph/speexdsp
@@ -91,10 +92,10 @@
 
 ## C++
 
+*   [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes): A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/
 *   [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird): Truly independent web browser
 *   [ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design): Learn Low Level Design (LLD) and prepare for interviews using free resources.
 *   [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino): OpenVINO™ is an open source toolkit for optimizing and deploying AI inference
-*   [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes): A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/
 *   [facebookresearch/faiss](https://github.com/facebookresearch/faiss): A library for efficient similarity search and clustering of dense vectors.
 *   [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS): A high-performance distributed file system designed to address the challenges of AI training and inference workloads.
 *   [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime): ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
@@ -714,6 +715,7 @@
 
 ## Python
 
+*   [mustbeperfect/definitive-opensource](https://github.com/mustbeperfect/definitive-opensource): The definitive list of open source.
 *   [elliott-diy/Weather2Geo](https://github.com/elliott-diy/Weather2Geo): OSINT tool that geolocates screenshots using leaked weather widget data (time, temperature, condition). Uses the same API as the Windows weather widget.
 *   [MedAziz11/Uptime-Kuma-Web-API](https://github.com/MedAziz11/Uptime-Kuma-Web-API): Uptime Kuma REST API
 *   [Sathvik-Rao/ClipCascade](https://github.com/Sathvik-Rao/ClipCascade): ClipCascade is a lightweight utility that automatically syncs the clipboard across devices, no key press required.
@@ -971,6 +973,7 @@
 
 ## Rust
 
+*   [sigoden/aichat](https://github.com/sigoden/aichat): All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 *   [hook0/hook0](https://github.com/hook0/hook0): Open-source webhook server that helps you provide webhooks to your users. It handles for you a great amount of features that are usually tedious to (re)implement.
 *   [openobserve/openobserve](https://github.com/openobserve/openobserve): 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
 *   [moghtech/komodo](https://github.com/moghtech/komodo): 🦎 a tool to build and deploy software on many servers 🦎
@@ -986,6 +989,7 @@
 
 ## Shell
 
+*   [sigoden/llm-functions](https://github.com/sigoden/llm-functions): Easily create LLM tools and agents using plain Bash/JavaScript/Python functions.
 *   [wallabag/docker](https://github.com/wallabag/docker): Official docker-composer for wallabag.
 *   [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps): 🚀 Awesome (free) web apps that work without login
 *   [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats): ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
@@ -1085,6 +1089,12 @@
 
 ## TypeScript
 
+*   [infiniflow/ragflow](https://github.com/infiniflow/ragflow): RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+*   [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat): ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
+*   [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler): Crawl a site to generate knowledge files to create your own custom GPT from a URL
+*   [chatboxai/chatbox](https://github.com/chatboxai/chatbox): User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
+*   [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe): AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
+*   [leon-ai/leon](https://github.com/leon-ai/leon): 🧠 Leon is your open-source personal assistant.
 *   [puckeditor/puck](https://github.com/puckeditor/puck): The visual editor for React
 *   [getumbrel/umbrel](https://github.com/getumbrel/umbrel): A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system.
 *   [teableio/teable](https://github.com/teableio/teable): ✨ The Next Gen Airtable Alternative: No-Code Postgres
