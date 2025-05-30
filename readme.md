@@ -534,6 +534,7 @@
 
 ## Miscellaneous
 
+*   [ishanvyas22/awesome-open-source-systems](https://github.com/ishanvyas22/awesome-open-source-systems): :sunglasses: A curated list of awesome Free Open Source Softwares(FOSS).
 *   [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker): :whale: A curated list of Docker resources and projects
 *   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge): A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 *   [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts): Collection of leaked system prompts
@@ -1095,6 +1096,7 @@
 
 ## TypeScript
 
+*   [nocodb/nocodb](https://github.com/nocodb/nocodb): 🔥 🔥 🔥 Open Source Airtable Alternative
 *   [hcengineering/platform](https://github.com/hcengineering/platform): Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 *   [labring/FastGPT](https://github.com/labring/FastGPT): FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.
 *   [netless-io/flat](https://github.com/netless-io/flat): Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
