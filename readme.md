@@ -147,6 +147,7 @@
 
 ## Go
 
+*   [noandrea/geo2tz](https://github.com/noandrea/geo2tz): A self-hostable REST-like API to get the time zone from geo coordinates
 *   [glanceapp/glance](https://github.com/glanceapp/glance): A self-hosted dashboard that puts all your feeds in one place
 *   [zishang520/socket.io](https://github.com/zishang520/socket.io): socket.io for golang, Start your pleasant journey! Support Socket.IO v4+😀
 *   [mxpv/podsync](https://github.com/mxpv/podsync): Turn YouTube or Vimeo channels, users, or playlists into podcast feeds
@@ -687,6 +688,8 @@
 
 ## PHP
 
+*   [francoisjacquet/rosariosis](https://github.com/francoisjacquet/rosariosis): RosarioSIS Student Information System for school management.
+*   [cachethq/cachet](https://github.com/cachethq/cachet): 🚦 Cachet, the open-source, self-hosted status page system.
 *   [Leantime/leantime](https://github.com/Leantime/leantime): Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
 *   [HiEventsDev/Hi.Events](https://github.com/HiEventsDev/Hi.Events): Open-source event management and ticket selling platform — perfect for concerts, conferences, and everything in between 🎟️  If you find this project helpful, please consider giving us a star ⭐️
 *   [wallabag/wallabag](https://github.com/wallabag/wallabag): wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
@@ -1096,6 +1099,7 @@
 
 ## TypeScript
 
+*   [gristlabs/grist-core](https://github.com/gristlabs/grist-core): Grist is the evolution of spreadsheets.
 *   [nocodb/nocodb](https://github.com/nocodb/nocodb): 🔥 🔥 🔥 Open Source Airtable Alternative
 *   [hcengineering/platform](https://github.com/hcengineering/platform): Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 *   [labring/FastGPT](https://github.com/labring/FastGPT): FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.
