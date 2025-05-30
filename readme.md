@@ -92,6 +92,7 @@
 
 ## C++
 
+*   [SerenityOS/serenity](https://github.com/SerenityOS/serenity): The Serenity Operating System 🐞
 *   [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes): A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/
 *   [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird): Truly independent web browser
 *   [ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design): Learn Low Level Design (LLD) and prepare for interviews using free resources.
@@ -684,6 +685,7 @@
 
 ## PHP
 
+*   [Leantime/leantime](https://github.com/Leantime/leantime): Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
 *   [HiEventsDev/Hi.Events](https://github.com/HiEventsDev/Hi.Events): Open-source event management and ticket selling platform — perfect for concerts, conferences, and everything in between 🎟️  If you find this project helpful, please consider giving us a star ⭐️
 *   [wallabag/wallabag](https://github.com/wallabag/wallabag): wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 *   [collabnix/dockerlabs](https://github.com/collabnix/dockerlabs): Docker  - Beginners | Intermediate | Advanced
@@ -1092,6 +1094,9 @@
 
 ## TypeScript
 
+*   [hcengineering/platform](https://github.com/hcengineering/platform): Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
+*   [labring/FastGPT](https://github.com/labring/FastGPT): FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.
+*   [netless-io/flat](https://github.com/netless-io/flat): Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
 *   [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist): Use your locally running AI models to assist you in your web browsing
 *   [infiniflow/ragflow](https://github.com/infiniflow/ragflow): RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 *   [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat): ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
