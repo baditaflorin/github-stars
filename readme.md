@@ -147,6 +147,7 @@
 
 ## Go
 
+*   [glanceapp/glance](https://github.com/glanceapp/glance): A self-hosted dashboard that puts all your feeds in one place
 *   [zishang520/socket.io](https://github.com/zishang520/socket.io): socket.io for golang, Start your pleasant journey! Support Socket.IO v4+😀
 *   [mxpv/podsync](https://github.com/mxpv/podsync): Turn YouTube or Vimeo channels, users, or playlists into podcast feeds
 *   [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy): Send push notifications to your phone or desktop using PUT/POST
