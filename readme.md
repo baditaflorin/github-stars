@@ -1157,7 +1157,7 @@
 *   [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat): Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active project.
 *   [nanbingxyz/mcpsvr](https://github.com/nanbingxyz/mcpsvr): Discover Exceptional MCP Servers
 *   [nanbingxyz/5ire](https://github.com/nanbingxyz/5ire): 5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers,  supports local knowledge base and  tools via model context protocol servers .
-*   [browserbase/stagehand](https://github.com/browserbase/stagehand): The TypeScript framework for automating browsers with AI
+*   [browserbase/stagehand](https://github.com/browserbase/stagehand): The AI Browser Automation Framework
 *   [mendableai/firecrawl](https://github.com/mendableai/firecrawl): 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 *   [markmap/markmap](https://github.com/markmap/markmap): Build mindmaps with plain text
 *   [paperbits/paperbits-core](https://github.com/paperbits/paperbits-core): This repository contains core Paperbits components
