@@ -722,6 +722,7 @@
 
 ## Python
 
+*   [confident-ai/deepeval](https://github.com/confident-ai/deepeval): The LLM Evaluation Framework
 *   [weaviate/Verba](https://github.com/weaviate/Verba): Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
 *   [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher): Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python.
 *   [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher): LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.
