@@ -147,6 +147,7 @@
 
 ## Go
 
+*   [syncthing/syncthing](https://github.com/syncthing/syncthing): Open Source Continuous File Synchronization
 *   [noandrea/geo2tz](https://github.com/noandrea/geo2tz): A self-hostable REST-like API to get the time zone from geo coordinates
 *   [glanceapp/glance](https://github.com/glanceapp/glance): A self-hosted dashboard that puts all your feeds in one place
 *   [zishang520/socket.io](https://github.com/zishang520/socket.io): socket.io for golang, Start your pleasant journey! Support Socket.IO v4+😀
