@@ -723,6 +723,7 @@
 
 ## Python
 
+*   [openai/openai-agents-python](https://github.com/openai/openai-agents-python): A lightweight, powerful framework for multi-agent workflows
 *   [confident-ai/deepeval](https://github.com/confident-ai/deepeval): The LLM Evaluation Framework
 *   [weaviate/Verba](https://github.com/weaviate/Verba): Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
 *   [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher): Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python.
