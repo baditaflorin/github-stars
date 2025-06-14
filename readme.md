@@ -753,7 +753,7 @@
 *   [binarybana/easyrag](https://github.com/binarybana/easyrag): Easy RAG scripts for a local, embedded, MCP-enabled knowledge store.
 *   [jagan-shanmugam/mattermost-mcp-host](https://github.com/jagan-shanmugam/mattermost-mcp-host): A Mattermost integration that connects to Model Context Protocol (MCP) servers, leveraging a LangGraph-based Agent.
 *   [junfanz1/MCP-MultiServer-Interoperable-Agent2Agent-LangGraph-AI-System](https://github.com/junfanz1/MCP-MultiServer-Interoperable-Agent2Agent-LangGraph-AI-System): This project demonstrates a decoupled real-time agent architecture that connects LangGraph agents to remote tools served by custom MCP (Modular Command Protocol) servers. The architecture enables a flexible and scalable multi-agent system where each tool can be hosted independently (via SSE or STDIO), offering modularity and cloud-deployable execut
-*   [wbfoss/mcp-poisoning-poc](https://github.com/wbfoss/mcp-poisoning-poc): This repository demonstrates a variety of **MCP Poisoning Attacks** affecting real-world AI agent workflows.
+*   [gensecaihq/mcp-poisoning-poc](https://github.com/gensecaihq/mcp-poisoning-poc): This repository demonstrates a variety of **MCP Poisoning Attacks** affecting real-world AI agent workflows.
 *   [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard): Modular visual interface for GDB in Python
 *   [InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU): 16-bit CPU for Excel, and related files
 *   [budtmo/docker-android](https://github.com/budtmo/docker-android): Android in docker solution with noVNC supported and video recording
