@@ -92,6 +92,7 @@
 
 ## C++
 
+*   [drolbr/Overpass-API](https://github.com/drolbr/Overpass-API): A database engine to query the OpenStreetMap data.
 *   [SerenityOS/serenity](https://github.com/SerenityOS/serenity): The Serenity Operating System 🐞
 *   [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes): A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/
 *   [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird): Truly independent web browser
@@ -724,6 +725,7 @@
 
 ## Python
 
+*   [KoljaB/RealtimeTTS](https://github.com/KoljaB/RealtimeTTS): Converts text to speech in realtime
 *   [openai/openai-agents-python](https://github.com/openai/openai-agents-python): A lightweight, powerful framework for multi-agent workflows
 *   [confident-ai/deepeval](https://github.com/confident-ai/deepeval): The LLM Evaluation Framework
 *   [weaviate/Verba](https://github.com/weaviate/Verba): Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
