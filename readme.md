@@ -299,7 +299,6 @@
 *   [vladmandic/human](https://github.com/vladmandic/human): Human: AI-powered 3D Face Detection & Rotation Tracking, Face Description & Recognition, Body Pose Tracking, 3D Hand & Finger Tracking, Iris Analysis, Age & Gender & Emotion Prediction, Gaze Tracking, Gesture Recognition
 *   [baditaflorin/scrape_hub](https://github.com/baditaflorin/scrape_hub)
 *   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev): A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 *   [payloadartist/offensive-chatgpt](https://github.com/payloadartist/offensive-chatgpt): Offensive security use cases of ChatGPT
 *   [Podcastindex-org/podcast-namespace](https://github.com/Podcastindex-org/podcast-namespace): A wholistic rss namespace for podcasting
 *   [realpython/materials](https://github.com/realpython/materials): Bonus materials, exercises, and example projects for our Python tutorials
@@ -399,6 +398,7 @@
 *   [varunshenoy/GraphGPT](https://github.com/varunshenoy/GraphGPT): Extrapolating knowledge graphs from unstructured text using GPT-3 🕵️‍♂️
 *   [mrdoob/three.js](https://github.com/mrdoob/three.js): JavaScript 3D Library.
 *   [clmnin/summarize.site](https://github.com/clmnin/summarize.site): Summarize web pages using OpenAI ChatGPT
+*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 *   [liady/ChatGPT-pdf](https://github.com/liady/ChatGPT-pdf): A Chrome extension for downloading your ChatGPT history to PNG, PDF or a sharable link
 *   [baditaflorin/parse-address](https://github.com/baditaflorin/parse-address): US Street Address Parser
 *   [eugene-belkovich/react-map-with-leaflet](https://github.com/eugene-belkovich/react-map-with-leaflet): 🌱Leaflet examples of react maps for medium.com articles
