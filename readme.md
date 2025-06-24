@@ -1108,7 +1108,7 @@
 
 ## TypeScript
 
-*   [mendableai/fire-enrich](https://github.com/mendableai/fire-enrich)
+*   [mendableai/fire-enrich](https://github.com/mendableai/fire-enrich): 🔥 AI-powered data enrichment tool that transforms emails into rich datasets with company profiles, funding data, tech stacks, and more using Firecrawl and multi-agent AI
 *   [gristlabs/grist-core](https://github.com/gristlabs/grist-core): Grist is the evolution of spreadsheets.
 *   [nocodb/nocodb](https://github.com/nocodb/nocodb): 🔥 🔥 🔥 Open Source Airtable Alternative
 *   [hcengineering/platform](https://github.com/hcengineering/platform): Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
