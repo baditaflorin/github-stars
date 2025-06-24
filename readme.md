@@ -858,6 +858,7 @@
 *   [cookiecutter/cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django): Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
 *   [jarun/ddgr](https://github.com/jarun/ddgr): :duck: DuckDuckGo from the terminal
 *   [SmileyChris/django-countries](https://github.com/SmileyChris/django-countries): A Django application that provides country choices for use with forms, flag icons static files, and a country field for models.
+*   [gothinkster/realworld](https://github.com/gothinkster/realworld): "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 *   [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django): A curated list of awesome things related to Django
 *   [ramiroaznar/geocode-with-python-using-geopy](https://github.com/ramiroaznar/geocode-with-python-using-geopy): A Python program to geocode a csv file using Geopy
 *   [pyppeteer/pyppeteer](https://github.com/pyppeteer/pyppeteer): Headless chrome/chromium automation library (unofficial port of puppeteer)
@@ -1198,7 +1199,6 @@
 *   [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic): AI agent stdlib that works with any LLM and TypeScript AI SDK.
 *   [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced): WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
 *   [baditaflorin/mapbond](https://github.com/baditaflorin/mapbond)
-*   [gothinkster/realworld](https://github.com/gothinkster/realworld): "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 *   [coder/code-server](https://github.com/coder/code-server): VS Code in the browser
 *   [cyrildiagne/ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste): Cut and paste your surroundings using AR
 *   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Interactive roadmaps, guides and other educational content to help developers grow in their careers.
