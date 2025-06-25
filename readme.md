@@ -373,7 +373,6 @@
 *   [Alanrk/LazyCat-Bookmark-Cleaner](https://github.com/Alanrk/LazyCat-Bookmark-Cleaner): 让书签管理变得轻松愉快！一只可爱的懒猫助手，帮你智能清理和整理浏览器书签。
 *   [lutzroeder/netron](https://github.com/lutzroeder/netron): Visualizer for neural network, deep learning and machine learning models
 *   [chabad360/cockpit-docker](https://github.com/chabad360/cockpit-docker): Cockpit UI for docker containers (ported from cockpit-podman)
-*   [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers): Model Context Protocol Servers
 *   [maoxiaoke/mcp-media-processor](https://github.com/maoxiaoke/mcp-media-processor): A Node.js server implementing Model Context Protocol (MCP) for media processing operations, providing powerful video and image manipulation capabilities.
 *   [quartzy/prosemirror-suggestions](https://github.com/quartzy/prosemirror-suggestions): Plugin for handling suggestions in Prosemirror (e.g. autocomplete on mentions, tags, etc.)
 *   [mermaidjs/mermaid-live-editor](https://github.com/mermaidjs/mermaid-live-editor): Location has moved to https://github.com/mermaid-js/mermaid-live-editor
@@ -497,7 +496,6 @@
 *   [Sentdex/TermGPT](https://github.com/Sentdex/TermGPT): Giving LLMs like GPT-4 the ability to plan and execute terminal commands
 *   [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps): Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 *   [joaotinti75/Pygame](https://github.com/joaotinti75/Pygame): Games that i did using pygame library
-*   [apache/superset](https://github.com/apache/superset): Apache Superset is a Data Visualization and Data Exploration Platform
 *   [GoogleCloudPlatform/bigquery-utils](https://github.com/GoogleCloudPlatform/bigquery-utils): Useful scripts, udfs, views, and other utilities for migration and data warehouse operations in BigQuery.
 *   [deepklarity/jupyter-text2code](https://github.com/deepklarity/jupyter-text2code): A proof-of-concept jupyter extension which converts english queries into relevant python code
 *   [GoogleCloudPlatform/python-docs-samples](https://github.com/GoogleCloudPlatform/python-docs-samples): Code samples used on cloud.google.com
@@ -777,6 +775,7 @@
 *   [ansible/awx](https://github.com/ansible/awx): AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 *   [MarkusPfundstein/mcp-gsuite](https://github.com/MarkusPfundstein/mcp-gsuite): MCP Server to interact with Google Gsuite prodcuts
 *   [D-Star-AI/dsRAG](https://github.com/D-Star-AI/dsRAG): High-performance retrieval engine for unstructured data
+*   [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers): Model Context Protocol Servers
 *   [camel-ai/camel](https://github.com/camel-ai/camel): 🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org
 *   [ahmedaabouzied/rag-systems](https://github.com/ahmedaabouzied/rag-systems): A collection of RAG system implementations.
 *   [TIGER-AI-Lab/LongRAG](https://github.com/TIGER-AI-Lab/LongRAG): Official repo for "LongRAG: Enhancing Retrieval-Augmented Generation with Long-context LLMs".
@@ -1206,6 +1205,7 @@
 *   [CitizenLabDotCo/citizenlab](https://github.com/CitizenLabDotCo/citizenlab): Go Vocal is a digital democracy platform that facilitates community participation and co-creation. Participants can post ideas, contribute to discussions, or choose to vote and prioritize community projects.
 *   [graphql-kit/graphql-voyager](https://github.com/graphql-kit/graphql-voyager): 🛰️ Represent any GraphQL API as an interactive graph
 *   [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template): Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
+*   [apache/superset](https://github.com/apache/superset): Apache Superset is a Data Visualization and Data Exploration Platform
 *   [LasCC/HackTools](https://github.com/LasCC/HackTools): The all-in-one browser extension for offensive security professionals 🛠
 *   [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js): MapLibre GL JS - Interactive vector tile maps in the browser
 *   [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation): Routing and navigation for React Native and Web apps
