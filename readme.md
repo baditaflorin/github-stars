@@ -742,7 +742,7 @@
 *   [mem0ai/mem0](https://github.com/mem0ai/mem0): Memory for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
 *   [awesomelistsio/awesome-open-source-space-data-apis](https://github.com/awesomelistsio/awesome-open-source-space-data-apis): A curated list of open source APIs, tools, and resources for accessing and analyzing space-related data.
 *   [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet): :beers: awesome cheatsheet
-*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io): The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification
+*   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io): Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!
 *   [baditaflorin/0emb](https://github.com/baditaflorin/0emb)
 *   [MinishLab/model2vec](https://github.com/MinishLab/model2vec): Fast State-of-the-Art Static Embeddings
 *   [microsoft/markitdown](https://github.com/microsoft/markitdown): Python tool for converting files and office documents to Markdown.
