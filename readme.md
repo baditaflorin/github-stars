@@ -606,7 +606,7 @@
 *   [tvvocold/FOSS-for-Dev](https://github.com/tvvocold/FOSS-for-Dev): A hub of Free and open-source software for developers
 *   [taranjeet/awesome-chatgpt](https://github.com/taranjeet/awesome-chatgpt)
 *   [alignedai/chatgpt-prompt-evaluator](https://github.com/alignedai/chatgpt-prompt-evaluator): This shows the results from using a second, filter LLM that analyses prompts before sending them to GPT-Chat
-*   [Kamigami55/awesome-chatgpt](https://github.com/Kamigami55/awesome-chatgpt): Curated list of ChatGPT related resource, tools, prompts, apps / ChatGPT 相關優質資源、工具、應用的精選清單。
+*   [eason-dev/awesome-chatgpt](https://github.com/eason-dev/awesome-chatgpt): Curated list of ChatGPT related resource, tools, prompts, apps / ChatGPT 相關優質資源、工具、應用的精選清單。
 *   [saharmor/awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt): Selected ChatGPT demos, tools, articles, and more ✨
 *   [sw33tLie/impressive-chatgpt](https://github.com/sw33tLie/impressive-chatgpt): A collection of impressive and useful results from OpenAI's chatgpt
 *   [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt): Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
