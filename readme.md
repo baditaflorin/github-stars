@@ -1017,7 +1017,7 @@
 *   [OpenSource-For-Freedom/HARDN-XDR](https://github.com/OpenSource-For-Freedom/HARDN-XDR): A single STIG Compliant - Debian Package, to fully secure the OS using automation, encryption, monitoring, heuristics and availability.
 *   [chsasank/outline-wiki-docker-compose](https://github.com/chsasank/outline-wiki-docker-compose): Installation and docker compose to self host outline wiki: https://www.getoutline.com/
 *   [triton-inference-server/tensorrtllm_backend](https://github.com/triton-inference-server/tensorrtllm_backend): The Triton TensorRT-LLM Backend
-*   [FWDekker/mommy](https://github.com/FWDekker/mommy): mommy's here to support you, in any shell, on any system~ ❤️
+*   [fwdekker/mommy](https://github.com/fwdekker/mommy): mommy's here to support you, in any shell, on any system~ ❤️
 *   [madalin-dogaru/operating_systems_automation](https://github.com/madalin-dogaru/operating_systems_automation): Operating Systems Automations.
 *   [scop/bash-completion](https://github.com/scop/bash-completion): Programmable completion functions for bash
 *   [HeyCLI/heyCLI_client](https://github.com/HeyCLI/heyCLI_client): HeyCLI allows you to use your command line terminal in natural language
