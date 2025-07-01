@@ -775,7 +775,6 @@
 *   [ansible/awx](https://github.com/ansible/awx): AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 *   [MarkusPfundstein/mcp-gsuite](https://github.com/MarkusPfundstein/mcp-gsuite): MCP Server to interact with Google Gsuite prodcuts
 *   [D-Star-AI/dsRAG](https://github.com/D-Star-AI/dsRAG): High-performance retrieval engine for unstructured data
-*   [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers): Model Context Protocol Servers
 *   [camel-ai/camel](https://github.com/camel-ai/camel): 🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org
 *   [ahmedaabouzied/rag-systems](https://github.com/ahmedaabouzied/rag-systems): A collection of RAG system implementations.
 *   [TIGER-AI-Lab/LongRAG](https://github.com/TIGER-AI-Lab/LongRAG): Official repo for "LongRAG: Enhancing Retrieval-Augmented Generation with Long-context LLMs".
@@ -1167,6 +1166,7 @@
 *   [michaellatman/mcp-get](https://github.com/michaellatman/mcp-get)
 *   [jae-jae/fetcher-mcp](https://github.com/jae-jae/fetcher-mcp): MCP server for fetch web page content using Playwright headless browser.
 *   [nerding-io/n8n-nodes-mcp](https://github.com/nerding-io/n8n-nodes-mcp): n8n custom node for MCP
+*   [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers): Model Context Protocol Servers
 *   [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat): Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active project.
 *   [nanbingxyz/mcpsvr](https://github.com/nanbingxyz/mcpsvr): Discover Exceptional MCP Servers
 *   [nanbingxyz/5ire](https://github.com/nanbingxyz/5ire): 5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers,  supports local knowledge base and  tools via model context protocol servers .
