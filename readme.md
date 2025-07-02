@@ -352,6 +352,7 @@
 
 ## JavaScript
 
+*   [cketti/jitsi-hacks](https://github.com/cketti/jitsi-hacks): Jitsi Hacks – Extending Jitsi Meet using injected scripts
 *   [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server): ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
 *   [lowercasename/gathio](https://github.com/lowercasename/gathio): Self-destructing, shareable, no-registration event pages
 *   [automatisch/automatisch](https://github.com/automatisch/automatisch): The open source Zapier alternative. Build workflow automation without spending time and money.
@@ -989,6 +990,7 @@
 
 ## Rust
 
+*   [avstack/gst-meet](https://github.com/avstack/gst-meet): Connect GStreamer pipelines to Jitsi Meet conferences
 *   [sigoden/aichat](https://github.com/sigoden/aichat): All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 *   [hook0/hook0](https://github.com/hook0/hook0): Open-source webhook server that helps you provide webhooks to your users. It handles for you a great amount of features that are usually tedious to (re)implement.
 *   [openobserve/openobserve](https://github.com/openobserve/openobserve): 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
@@ -1005,6 +1007,7 @@
 
 ## Shell
 
+*   [jitsi-contrib/jitas](https://github.com/jitsi-contrib/jitas): Jitsi Assistant
 *   [sigoden/llm-functions](https://github.com/sigoden/llm-functions): Easily create LLM tools and agents using plain Bash/JavaScript/Python functions.
 *   [wallabag/docker](https://github.com/wallabag/docker): Official docker-composer for wallabag.
 *   [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps): 🚀 Awesome (free) web apps that work without login
