@@ -1198,7 +1198,7 @@
 *   [smeijer/leaflet-geosearch](https://github.com/smeijer/leaflet-geosearch): A geocoding/address-lookup library supporting various api providers.
 *   [microsoft/playwright](https://github.com/microsoft/playwright): Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 *   [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt): Easily share permanent links to ChatGPT conversations with your friends
-*   [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic): Agentic is the App Store for LLM tools. Your API ⇒ Paid MCP. Instantly.
+*   [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic): Agentic is RapidAPI for LLM Tools. Your API ⇒ Paid MCP. Instantly.
 *   [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced): WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
 *   [baditaflorin/mapbond](https://github.com/baditaflorin/mapbond)
 *   [coder/code-server](https://github.com/coder/code-server): VS Code in the browser
