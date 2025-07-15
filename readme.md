@@ -1108,6 +1108,7 @@
 
 ## TypeScript
 
+*   [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp): A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
 *   [mendableai/fire-enrich](https://github.com/mendableai/fire-enrich): 🔥 AI-powered data enrichment tool that transforms emails into rich datasets with company profiles, funding data, tech stacks, and more using Firecrawl and multi-agent AI
 *   [gristlabs/grist-core](https://github.com/gristlabs/grist-core): Grist is the evolution of spreadsheets.
 *   [nocodb/nocodb](https://github.com/nocodb/nocodb): 🔥 🔥 🔥 Open Source Airtable Alternative
