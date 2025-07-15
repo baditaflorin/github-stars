@@ -1015,7 +1015,6 @@
 *   [binpash/try](https://github.com/binpash/try): Inspect a command's effects before modifying your live system
 *   [bitnami/containers](https://github.com/bitnami/containers): Bitnami container images
 *   [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps): This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.
-*   [OpenSource-For-Freedom/HARDN-XDR](https://github.com/OpenSource-For-Freedom/HARDN-XDR): A single STIG Compliant - Debian Package, to fully secure the OS using automation, encryption, monitoring, heuristics and availability.
 *   [chsasank/outline-wiki-docker-compose](https://github.com/chsasank/outline-wiki-docker-compose): Installation and docker compose to self host outline wiki: https://www.getoutline.com/
 *   [triton-inference-server/tensorrtllm_backend](https://github.com/triton-inference-server/tensorrtllm_backend): The Triton TensorRT-LLM Backend
 *   [fwdekker/mommy](https://github.com/fwdekker/mommy): mommy's here to support you, in any shell, on any system~ ❤️
