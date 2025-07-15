@@ -764,7 +764,7 @@
 *   [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN): Official Code for DragGAN (SIGGRAPH 2023)
 *   [QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger): 🥂 Gracefully face hCaptcha challenge with multimodal large language model.
 *   [iterative/dvc](https://github.com/iterative/dvc): 🦉 Data Versioning and ML Experiments
-*   [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter): A natural language interface for computers
+*   [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter): A natural language interface for computers
 *   [roboflow/supervision](https://github.com/roboflow/supervision): We write your reusable computer vision tools. 💜
 *   [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI): The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 *   [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai): Python scraper based on AI
