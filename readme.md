@@ -724,6 +724,7 @@
 
 ## Python
 
+*   [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp): A feature-rich command-line audio/video downloader
 *   [KoljaB/RealtimeTTS](https://github.com/KoljaB/RealtimeTTS): Converts text to speech in realtime
 *   [openai/openai-agents-python](https://github.com/openai/openai-agents-python): A lightweight, powerful framework for multi-agent workflows
 *   [confident-ai/deepeval](https://github.com/confident-ai/deepeval): The LLM Evaluation Framework
