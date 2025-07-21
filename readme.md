@@ -724,6 +724,7 @@
 
 ## Python
 
+*   [nik549/ollama-search](https://github.com/nik549/ollama-search)
 *   [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp): A feature-rich command-line audio/video downloader
 *   [KoljaB/RealtimeTTS](https://github.com/KoljaB/RealtimeTTS): Converts text to speech in realtime
 *   [openai/openai-agents-python](https://github.com/openai/openai-agents-python): A lightweight, powerful framework for multi-agent workflows
@@ -990,6 +991,7 @@
 
 ## Rust
 
+*   [postgresml/postgresml](https://github.com/postgresml/postgresml): Postgres with GPUs for ML/AI apps.
 *   [avstack/gst-meet](https://github.com/avstack/gst-meet): Connect GStreamer pipelines to Jitsi Meet conferences
 *   [sigoden/aichat](https://github.com/sigoden/aichat): All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 *   [hook0/hook0](https://github.com/hook0/hook0): Open-source webhook server that helps you provide webhooks to your users. It handles for you a great amount of features that are usually tedious to (re)implement.
