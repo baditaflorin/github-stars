@@ -140,7 +140,6 @@
 ## Dockerfile
 
 *   [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop): Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
-*   [ahoylabs/ahoylabs-docker-images](https://github.com/ahoylabs/ahoylabs-docker-images): Builds of llama.cpp, whisper.cpp, and others with some convenience tweaks
 *   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook): 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 *   [greatfire/freebrowser-backend](https://github.com/greatfire/freebrowser-backend)
 *   [m3rryqold/headless-chrome-nodejs-docker](https://github.com/m3rryqold/headless-chrome-nodejs-docker): A dockerized nodejs application to use google chrome with puppeteer headless.
