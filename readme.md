@@ -63,6 +63,7 @@
 
 ## C
 
+*   [vibhorkum/pg_background](https://github.com/vibhorkum/pg_background): pg_background
 *   [BasedHardware/omi](https://github.com/BasedHardware/omi): AI wearables. Put it on, speak, transcribe, automatically
 *   [OISF/suricata](https://github.com/OISF/suricata): Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine developed by the OISF and the Suricata community.
 *   [ading2210/linuxpdf](https://github.com/ading2210/linuxpdf): Linux running inside a PDF file via a RISC-V emulator
