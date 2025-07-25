@@ -1034,7 +1034,7 @@
 *   [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install): OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
 *   [notthebee/infra](https://github.com/notthebee/infra): IaC for my Linux/Unix machines
 *   [deluan/zsh-in-docker](https://github.com/deluan/zsh-in-docker): Install Zsh, Oh My Zsh and plugins inside a Docker container with one line!
-*   [iphoneintosh/kali-docker](https://github.com/iphoneintosh/kali-docker): This Kali Linux Docker container offers a full desktop experience by using the tightvncserver to provide a VNC connection to the container and novnc for simple VNC access with your browser.
+*   [lonetis/kali-docker](https://github.com/lonetis/kali-docker): This Kali Linux Docker container offers a full desktop experience by using the tightvncserver to provide a VNC connection to the container and novnc for simple VNC access with your browser.
 *   [CRTified/zsh-johnnydecimal](https://github.com/CRTified/zsh-johnnydecimal): Collection of zsh scripts for working with Johnny.Decimal structure https://johnnydecimal.com/
 *   [Habilya/SSH-Welcome-screen](https://github.com/Habilya/SSH-Welcome-screen): This screen is what the server administrator ever needs. CPU temperature, Load Average, Memory and Disk usage, Available system updates, etc.
 *   [0xcabrex/Pentest-tools](https://github.com/0xcabrex/Pentest-tools): A small program that installs tools that you might need for pentesting
