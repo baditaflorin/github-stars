@@ -358,7 +358,7 @@
 *   [lowercasename/gathio](https://github.com/lowercasename/gathio): Self-destructing, shareable, no-registration event pages
 *   [automatisch/automatisch](https://github.com/automatisch/automatisch): The open source Zapier alternative. Build workflow automation without spending time and money.
 *   [plankanban/planka](https://github.com/plankanban/planka): PLANKA is the kanban-style project mastering tool for everyone.
-*   [LukeGus/Termix](https://github.com/LukeGus/Termix): Clientless web-based SSH terminal emulator that stores and manages your connection details
+*   [LukeGus/Termix](https://github.com/LukeGus/Termix): Termix is a clientless web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
 *   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma): A fancy self-hosted monitoring tool
 *   [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac):  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 *   [BaldissaraMatheus/Tasks.md](https://github.com/BaldissaraMatheus/Tasks.md): A self-hosted, Markdown file based task management board
