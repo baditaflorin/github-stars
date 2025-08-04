@@ -155,7 +155,7 @@
 *   [mxpv/podsync](https://github.com/mxpv/podsync): Turn YouTube or Vimeo channels, users, or playlists into podcast feeds
 *   [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy): Send push notifications to your phone or desktop using PUT/POST
 *   [eduardolat/pgbackweb](https://github.com/eduardolat/pgbackweb): 🐘 Effortless PostgreSQL backups with a user-friendly web interface! 🌐💾
-*   [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup): Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox or SSH compatible storage
+*   [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup): Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox, Google Drive or SSH compatible storage
 *   [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase): Open Source realtime backend in 1 file
 *   [writefreely/writefreely](https://github.com/writefreely/writefreely): A clean, Markdown-based publishing platform made for writers. Write together and build a community.
 *   [adnanh/webhook](https://github.com/adnanh/webhook): webhook is a lightweight incoming webhook server to run shell commands
