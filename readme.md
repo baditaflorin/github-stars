@@ -1168,7 +1168,7 @@
 *   [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard): Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 *   [msgbyte/tianji](https://github.com/msgbyte/tianji): Tianji: Insight into everything, Website Analytics + Uptime Monitor + Server Status. not only another GA alternatives
 *   [modelcontextprotocol/quickstart-resources](https://github.com/modelcontextprotocol/quickstart-resources): A repository of servers and clients from the Model Context Protocol tutorials
-*   [opentoolsteam/cli](https://github.com/opentoolsteam/cli)
+*   [opentools/cli](https://github.com/opentools/cli)
 *   [michaellatman/mcp-get](https://github.com/michaellatman/mcp-get)
 *   [jae-jae/fetcher-mcp](https://github.com/jae-jae/fetcher-mcp): MCP server for fetch web page content using Playwright headless browser.
 *   [nerding-io/n8n-nodes-mcp](https://github.com/nerding-io/n8n-nodes-mcp): n8n custom node for MCP
