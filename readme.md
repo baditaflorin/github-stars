@@ -804,7 +804,7 @@
 *   [simonw/llm-cluster](https://github.com/simonw/llm-cluster): LLM plugin for clustering embeddings
 *   [microsoft/BitNet](https://github.com/microsoft/BitNet): Official inference framework for 1-bit LLMs
 *   [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory): Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
-*   [unslothai/unsloth](https://github.com/unslothai/unsloth): Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train gpt-oss, Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.
+*   [unslothai/unsloth](https://github.com/unslothai/unsloth): Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.
 *   [opendatalab/PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit): A Comprehensive Toolkit for High-Quality PDF Content Extraction
 *   [exo-explore/exo](https://github.com/exo-explore/exo): Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 *   [openai/swarm](https://github.com/openai/swarm): Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
