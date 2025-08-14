@@ -832,7 +832,7 @@
 *   [gimlet-ai/tddGPT](https://github.com/gimlet-ai/tddGPT): AutoGPT for Web App Development
 *   [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot): The first real AI developer
 *   [apple/ml-ferret](https://github.com/apple/ml-ferret)
-*   [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb): AI's query engine that can answer questions over large scale structured and unstructured data.
+*   [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb): AI's query engine that can answer natural language questions over large scale structured and unstructured data.
 *   [togethercomputer/RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data): The RedPajama-Data repository contains code for preparing large datasets for training large language models.
 *   [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt): Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://gpt-docs.h2o.ai/
 *   [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting): Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
