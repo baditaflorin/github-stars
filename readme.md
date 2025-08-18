@@ -1110,7 +1110,7 @@
 
 *   [stephanj/embeddings-visualization](https://github.com/stephanj/embeddings-visualization)
 *   [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp): A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
-*   [mendableai/fire-enrich](https://github.com/mendableai/fire-enrich): 🔥 AI-powered data enrichment tool that transforms emails into rich datasets with company profiles, funding data, tech stacks, and more using Firecrawl and multi-agent AI
+*   [firecrawl/fire-enrich](https://github.com/firecrawl/fire-enrich): 🔥 AI-powered data enrichment tool that transforms emails into rich datasets with company profiles, funding data, tech stacks, and more using Firecrawl and multi-agent AI
 *   [gristlabs/grist-core](https://github.com/gristlabs/grist-core): Grist is the evolution of spreadsheets.
 *   [nocodb/nocodb](https://github.com/nocodb/nocodb): 🔥 🔥 🔥 Open Source Airtable Alternative
 *   [hcengineering/platform](https://github.com/hcengineering/platform): Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
@@ -1176,7 +1176,7 @@
 *   [nanbingxyz/mcpsvr](https://github.com/nanbingxyz/mcpsvr): Discover Exceptional MCP Servers
 *   [nanbingxyz/5ire](https://github.com/nanbingxyz/5ire): 5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers,  supports local knowledge base and  tools via model context protocol servers .
 *   [browserbase/stagehand](https://github.com/browserbase/stagehand): The AI Browser Automation Framework
-*   [mendableai/firecrawl](https://github.com/mendableai/firecrawl): 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
+*   [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl): 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 *   [markmap/markmap](https://github.com/markmap/markmap): Build mindmaps with plain text
 *   [paperbits/paperbits-core](https://github.com/paperbits/paperbits-core): This repository contains core Paperbits components
 *   [outline/outline](https://github.com/outline/outline): The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
