@@ -1209,7 +1209,7 @@
 *   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 *   [microsoft/codetour](https://github.com/microsoft/codetour): VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor.
 *   [CitizenLabDotCo/citizenlab](https://github.com/CitizenLabDotCo/citizenlab): Go Vocal is a digital democracy platform that facilitates community participation and co-creation. Participants can post ideas, contribute to discussions, or choose to vote and prioritize community projects.
-*   [graphql-kit/graphql-voyager](https://github.com/graphql-kit/graphql-voyager): 🛰️ Represent any GraphQL API as an interactive graph
+*   [APIs-guru/graphql-voyager](https://github.com/APIs-guru/graphql-voyager): 🛰️ Represent any GraphQL API as an interactive graph
 *   [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template): Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 *   [apache/superset](https://github.com/apache/superset): Apache Superset is a Data Visualization and Data Exploration Platform
 *   [LasCC/HackTools](https://github.com/LasCC/HackTools): The all-in-one browser extension for offensive security professionals 🛠
