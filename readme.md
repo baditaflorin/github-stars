@@ -770,7 +770,7 @@
 *   [lllyasviel/Omost](https://github.com/lllyasviel/Omost): Your image is almost there!
 *   [NVIDIA/garak](https://github.com/NVIDIA/garak): the LLM vulnerability scanner
 *   [jingyaogong/minimind](https://github.com/jingyaogong/minimind): 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
-*   [letta-ai/letta](https://github.com/letta-ai/letta): Letta (formerly MemGPT) is the stateful agents framework with memory, reasoning, and context management.
+*   [letta-ai/letta](https://github.com/letta-ai/letta): Letta is the platform for building stateful agents: open AI with advanced memory that can learn and self-improve over time.
 *   [darrenburns/posting](https://github.com/darrenburns/posting): The modern API client that lives in your terminal.
 *   [ansible/awx](https://github.com/ansible/awx): AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 *   [MarkusPfundstein/mcp-gsuite](https://github.com/MarkusPfundstein/mcp-gsuite): MCP Server to interact with Google Gsuite prodcuts
