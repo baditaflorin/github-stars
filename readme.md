@@ -1117,7 +1117,7 @@
 *   [labring/FastGPT](https://github.com/labring/FastGPT): FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.
 *   [netless-io/flat](https://github.com/netless-io/flat): Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
 *   [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist): Use your locally running AI models to assist you in your web browsing
-*   [infiniflow/ragflow](https://github.com/infiniflow/ragflow): RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+*   [infiniflow/ragflow](https://github.com/infiniflow/ragflow): RAGFlow is an open-source RAG engine based on deep document understanding. Let RAG empower your data.
 *   [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat): ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 *   [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler): Crawl a site to generate knowledge files to create your own custom GPT from a URL
 *   [chatboxai/chatbox](https://github.com/chatboxai/chatbox): User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
