@@ -591,7 +591,6 @@
 *   [The-Osint-Toolbox/URL-Manipulation](https://github.com/The-Osint-Toolbox/URL-Manipulation): Alter URLs to see content without the need to search or login.
 *   [The-Osint-Toolbox/Internet-OSINT](https://github.com/The-Osint-Toolbox/Internet-OSINT): Cast your OSINT net further a field and see what else you can discover on the Internet.
 *   [The-Osint-Toolbox/Geolocation-OSINT](https://github.com/The-Osint-Toolbox/Geolocation-OSINT): Improve you Geolocation skills, with this ilist of resources.
-*   [Edr4/Dataleaks](https://github.com/Edr4/Dataleaks): Check if your email or username is in a data breach
 *   [ciocan/sicap-explorer](https://github.com/ciocan/sicap-explorer): Tablou de vizualizare a licitatiilor publice si achizitiilor directe
 *   [CoruptiaUcide/transparentatotala](https://github.com/CoruptiaUcide/transparentatotala)
 *   [robinstickel/awesome-design-principles](https://github.com/robinstickel/awesome-design-principles): ✨ A curated list of awesome design principles
