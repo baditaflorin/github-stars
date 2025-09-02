@@ -722,6 +722,7 @@
 
 ## Python
 
+*   [speaches-ai/speaches](https://github.com/speaches-ai/speaches)
 *   [nik549/ollama-search](https://github.com/nik549/ollama-search)
 *   [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp): A feature-rich command-line audio/video downloader
 *   [KoljaB/RealtimeTTS](https://github.com/KoljaB/RealtimeTTS): Converts text to speech in realtime
@@ -1107,6 +1108,7 @@
 
 ## TypeScript
 
+*   [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app): 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
 *   [stephanj/embeddings-visualization](https://github.com/stephanj/embeddings-visualization)
 *   [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp): A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
 *   [firecrawl/fire-enrich](https://github.com/firecrawl/fire-enrich): 🔥 AI-powered data enrichment tool that transforms emails into rich datasets with company profiles, funding data, tech stacks, and more using Firecrawl and multi-agent AI
