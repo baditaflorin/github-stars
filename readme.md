@@ -974,6 +974,7 @@
 
 ## Ruby
 
+*   [zammad/zammad](https://github.com/zammad/zammad): Zammad is a web based open source helpdesk/customer support system.
 *   [maybe-finance/maybe](https://github.com/maybe-finance/maybe): The personal finance app for everyone
 *   [huginn/huginn](https://github.com/huginn/huginn): Create agents that monitor and act on your behalf.  Your agents are standing by!
 *   [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness): A curated list of awesome awesomeness
@@ -1108,6 +1109,7 @@
 
 ## TypeScript
 
+*   [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat): The communications platform that puts data protection first.
 *   [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app): 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
 *   [stephanj/embeddings-visualization](https://github.com/stephanj/embeddings-visualization)
 *   [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp): A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
@@ -1118,7 +1120,7 @@
 *   [labring/FastGPT](https://github.com/labring/FastGPT): FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.
 *   [netless-io/flat](https://github.com/netless-io/flat): Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
 *   [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist): Use your locally running AI models to assist you in your web browsing
-*   [infiniflow/ragflow](https://github.com/infiniflow/ragflow): RAGFlow is the leading open-source RAG engine, converging cutting-edge RAG with Agent capabilities to build the superior context layer for LLMs.
+*   [infiniflow/ragflow](https://github.com/infiniflow/ragflow): RAGFlow is a leading open-source RAG engine, converging cutting-edge RAG with Agent capabilities to build the superior context layer for LLMs.
 *   [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat): ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 *   [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler): Crawl a site to generate knowledge files to create your own custom GPT from a URL
 *   [chatboxai/chatbox](https://github.com/chatboxai/chatbox): User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
