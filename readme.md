@@ -1133,7 +1133,7 @@
 *   [stefanpejcic/OpenPanel](https://github.com/stefanpejcic/OpenPanel): A highly customizable web hosting control panel built around containers 📦
 *   [pocketbase/js-sdk](https://github.com/pocketbase/js-sdk): PocketBase JavaScript SDK
 *   [remvze/moodist](https://github.com/remvze/moodist): 🌲 Ambient sounds for focus and calm.
-*   [activepieces/activepieces](https://github.com/activepieces/activepieces): AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
+*   [activepieces/activepieces](https://github.com/activepieces/activepieces): AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 *   [coderamp-labs/pad.ws](https://github.com/coderamp-labs/pad.ws): Whiteboard as an IDE, draw and code in your browser
 *   [astuto/astuto](https://github.com/astuto/astuto): A free, open source, self-hosted customer feedback tool 🦊
 *   [calcom/cal.com](https://github.com/calcom/cal.com): Scheduling infrastructure for absolutely everyone.
