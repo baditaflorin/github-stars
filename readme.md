@@ -149,7 +149,7 @@
 *   [syncthing/syncthing](https://github.com/syncthing/syncthing): Open Source Continuous File Synchronization
 *   [noandrea/geo2tz](https://github.com/noandrea/geo2tz): A self-hostable REST-like API to get the time zone from geo coordinates
 *   [glanceapp/glance](https://github.com/glanceapp/glance): A self-hosted dashboard that puts all your feeds in one place
-*   [zishang520/socket.io](https://github.com/zishang520/socket.io): socket.io for golang, Start your pleasant journey! Support Socket.IO v4+😀
+*   [zishang520/socket.io](https://github.com/zishang520/socket.io): Socket.IO for Go — A high-performance, feature-complete implementation supporting Socket.IO v4+. Start your real-time journey today! 🚀
 *   [mxpv/podsync](https://github.com/mxpv/podsync): Turn YouTube or Vimeo channels, users, or playlists into podcast feeds
 *   [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy): Send push notifications to your phone or desktop using PUT/POST
 *   [eduardolat/pgbackweb](https://github.com/eduardolat/pgbackweb): 🐘 Effortless PostgreSQL backups with a user-friendly web interface! 🌐💾
