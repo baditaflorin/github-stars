@@ -1109,6 +1109,7 @@
 
 ## TypeScript
 
+*   [papercups-io/chat-widget](https://github.com/papercups-io/chat-widget): Papercups chat widget
 *   [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat): The communications platform that puts data protection first.
 *   [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app): 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
 *   [stephanj/embeddings-visualization](https://github.com/stephanj/embeddings-visualization)
