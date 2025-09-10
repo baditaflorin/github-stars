@@ -352,6 +352,7 @@
 
 ## JavaScript
 
+*   [badges/shields](https://github.com/badges/shields): Concise, consistent, and legible badges in SVG and raster format
 *   [spencermountain/compromise](https://github.com/spencermountain/compromise): modest natural-language processing
 *   [cketti/jitsi-hacks](https://github.com/cketti/jitsi-hacks): Jitsi Hacks – Extending Jitsi Meet using injected scripts
 *   [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server): ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
