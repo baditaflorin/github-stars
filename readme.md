@@ -1179,7 +1179,7 @@
 *   [jae-jae/fetcher-mcp](https://github.com/jae-jae/fetcher-mcp): MCP server for fetch web page content using Playwright headless browser.
 *   [nerding-io/n8n-nodes-mcp](https://github.com/nerding-io/n8n-nodes-mcp): n8n custom node for MCP
 *   [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers): Model Context Protocol Servers
-*   [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat): Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active project.
+*   [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat): Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active.
 *   [nanbingxyz/mcpsvr](https://github.com/nanbingxyz/mcpsvr): Discover Exceptional MCP Servers
 *   [nanbingxyz/5ire](https://github.com/nanbingxyz/5ire): 5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers,  supports local knowledge base and  tools via model context protocol servers .
 *   [browserbase/stagehand](https://github.com/browserbase/stagehand): The AI Browser Automation Framework
