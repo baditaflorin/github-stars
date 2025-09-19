@@ -146,6 +146,7 @@
 
 ## Go
 
+*   [gotify/server](https://github.com/gotify/server): A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 *   [ollama/ollama](https://github.com/ollama/ollama): Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 *   [syncthing/syncthing](https://github.com/syncthing/syncthing): Open Source Continuous File Synchronization
 *   [noandrea/geo2tz](https://github.com/noandrea/geo2tz): A self-hostable REST-like API to get the time zone from geo coordinates
