@@ -568,7 +568,7 @@
 *   [ljinkai/weekly](https://github.com/ljinkai/weekly): 独立开发产品变现周刊，每周五发布。
 *   [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server): An evolving how-to guide for securing a Linux server.
 *   [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization): 健康学习到150岁 - 人体系统调优不完全指南
-*   [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load): 🧠 Cognitive Load is what matters
+*   [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load): 🧠 Cognitive load is what matters
 *   [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook): A playbook for systematically maximizing the performance of deep learning models.
 *   [mrdbourke/machine-learning-roadmap](https://github.com/mrdbourke/machine-learning-roadmap): A roadmap connecting many of the most important concepts in machine learning, how to learn them and what tools to use to perform them.
 *   [ImagineAILab/ai-by-hand-excel](https://github.com/ImagineAILab/ai-by-hand-excel)
