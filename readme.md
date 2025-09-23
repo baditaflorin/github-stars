@@ -788,7 +788,7 @@
 *   [SesameAILabs/csm](https://github.com/SesameAILabs/csm): A Conversational Speech Generation Model
 *   [golf-mcp/golf](https://github.com/golf-mcp/golf): Production-Ready MCP Server Framework • Build, deploy & scale secure AI agent infrastructure • Includes Auth, Observability, Debugger, Telemetry & Runtime • Run real-world MCPs powering AI Agents
 *   [FlagOpen/FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding): Retrieval and Retrieval-augmented LLMs
-*   [gyptazy/ProxLB](https://github.com/gyptazy/ProxLB): ProxLB - (Re)Balance VM Workloads Across Nodes in Proxmox Clusters. A Load Balancer for Proxmox - and more!
+*   [gyptazy/ProxLB](https://github.com/gyptazy/ProxLB): ProxLB - An advanced resource scheduler and load balancer for Proxmox clusters.
 *   [hyunjun/bookmarks](https://github.com/hyunjun/bookmarks)
 *   [mistralai/mistral-finetune](https://github.com/mistralai/mistral-finetune)
 *   [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder): DeepSeek Coder: Let the Code Write Itself
