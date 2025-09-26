@@ -308,7 +308,6 @@
 *   [sovereign/sovereign](https://github.com/sovereign/sovereign): A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 *   [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info): Modern JavaScript Tutorial
 *   [vHanda/google-keep-exporter](https://github.com/vHanda/google-keep-exporter): Export google keep notes to markdown
-*   [all-contributors/all-contributors.github.io](https://github.com/all-contributors/all-contributors.github.io): ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
 *   [PacktPublishing/Building-RESTful-Python-Web-Services](https://github.com/PacktPublishing/Building-RESTful-Python-Web-Services): Code repository for Building RESTful Python Web Services, published by Packt
 *   [Maps4HTML/MapML-Specification](https://github.com/Maps4HTML/MapML-Specification): Map Markup Language is hypertext for Web maps, like HTML is hypertext for Web pages https://maps4html.org/MapML-Specification/spec/
 *   [Maps4HTML/HTML-Map-Element-UseCases-Requirements](https://github.com/Maps4HTML/HTML-Map-Element-UseCases-Requirements): Use cases and requirements for Maps on the Web
@@ -524,6 +523,7 @@
 ## MDX
 
 *   [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules): 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
+*   [all-contributors/all-contributors.github.io](https://github.com/all-contributors/all-contributors.github.io): ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
 *   [phuocng/1loc](https://github.com/phuocng/1loc): What's your favorite JavaScript single LOC (line of code)?
 
 ## Makefile
