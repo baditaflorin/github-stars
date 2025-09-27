@@ -1114,6 +1114,7 @@
 
 ## TypeScript
 
+*   [devlikeapro/n8n-nodes-chatwoot](https://github.com/devlikeapro/n8n-nodes-chatwoot): n8n node for ChatWoot API
 *   [baditaflorin/transcript-insights](https://github.com/baditaflorin/transcript-insights)
 *   [papercups-io/chat-widget](https://github.com/papercups-io/chat-widget): Papercups chat widget
 *   [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat): The communications platform that puts data protection first.
