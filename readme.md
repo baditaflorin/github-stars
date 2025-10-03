@@ -386,7 +386,7 @@
 *   [bellingcat/toolkit](https://github.com/bellingcat/toolkit)
 *   [opening-hours/opening_hours_map](https://github.com/opening-hours/opening_hours_map): Map which evaluates opening_hours related tags.
 *   [opening-hours/opening_hours.js](https://github.com/opening-hours/opening_hours.js): Library to parse and process the opening_hours tag from OpenStreetMap data
-*   [HeyPuter/puter](https://github.com/HeyPuter/puter): 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
+*   [HeyPuter/puter](https://github.com/HeyPuter/puter): 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 *   [RisingStack/example-prometheus-nodejs](https://github.com/RisingStack/example-prometheus-nodejs): Prometheus monitoring example with Node.js
 *   [DataDock/datadock](https://github.com/DataDock/datadock): The source code for DataDock Community
 *   [rapomon/geojson-places](https://github.com/rapomon/geojson-places): Reverse geocoding to determine the location where it is contained (continent, country, region and state) from the latitude and longitude specified. This module also has tools to get lists of continents, country groupings, countries, regions and states in the specified language.
