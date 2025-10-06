@@ -753,7 +753,7 @@
 *   [microsoft/markitdown](https://github.com/microsoft/markitdown): Python tool for converting files and office documents to Markdown.
 *   [collabora/WhisperFusion](https://github.com/collabora/WhisperFusion): WhisperFusion builds upon the capabilities of WhisperLive and WhisperSpeech to provide a seamless conversations with an AI.
 *   [ufal/whisper_streaming](https://github.com/ufal/whisper_streaming): Whisper realtime streaming for long speech-to-text transcription and translation
-*   [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit): Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.
+*   [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit): Real-time & local speech-to-text server.
 *   [ahmetoner/whisper-asr-webservice](https://github.com/ahmetoner/whisper-asr-webservice): OpenAI Whisper ASR Webservice API
 *   [binarybana/easyrag](https://github.com/binarybana/easyrag): Easy RAG scripts for a local, embedded, MCP-enabled knowledge store.
 *   [jagan-shanmugam/mattermost-mcp-host](https://github.com/jagan-shanmugam/mattermost-mcp-host): A Mattermost integration that connects to Model Context Protocol (MCP) servers, leveraging a LangGraph-based Agent.
