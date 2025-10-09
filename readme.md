@@ -246,7 +246,7 @@
 *   [baditaflorin/go-gheets-utils](https://github.com/baditaflorin/go-gheets-utils)
 *   [aydinnyunus/exifLooter](https://github.com/aydinnyunus/exifLooter): ExifLooter finds geolocation on all image urls and directories also integrates with OpenStreetMap
 *   [dsonbaker/email2whatsapp](https://github.com/dsonbaker/email2whatsapp): Email2WhatsApp is a GoLang project aimed at OSINT. It enables the discovery of WhatsApp numbers from email addresses, providing a valuable tool for digital investigations.
-*   [piaolin/DetectDee](https://github.com/piaolin/DetectDee): DetectDee: Hunt down social media accounts by username, email or phone across social networks.
+*   [willin22/DetectDee](https://github.com/willin22/DetectDee): DetectDee: Hunt down social media accounts by username, email or phone across social networks.
 *   [valyala/fasthttp](https://github.com/valyala/fasthttp): Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 *   [labstack/echo](https://github.com/labstack/echo): High performance, minimalist Go web framework
 *   [avelino/awesome-go](https://github.com/avelino/awesome-go): A curated list of awesome Go frameworks, libraries and software
