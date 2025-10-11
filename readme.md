@@ -725,6 +725,7 @@
 
 ## Python
 
+*   [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield): Detect and validate 500+ types of hardcoded secrets with advanced checks. Use it as a pre-commit hook, GitHub Action, or CLI for proactive secret detection and security.
 *   [nicolargo/glances](https://github.com/nicolargo/glances): Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 *   [speaches-ai/speaches](https://github.com/speaches-ai/speaches)
 *   [nik549/ollama-search](https://github.com/nik549/ollama-search)
