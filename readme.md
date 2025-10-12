@@ -1145,7 +1145,7 @@
 *   [coderamp-labs/pad.ws](https://github.com/coderamp-labs/pad.ws): Whiteboard as an IDE, draw and code in your browser
 *   [astuto/astuto](https://github.com/astuto/astuto): A free, open source, self-hosted customer feedback tool 🦊
 *   [calcom/cal.com](https://github.com/calcom/cal.com): Scheduling infrastructure for absolutely everyone.
-*   [LukeGus/Termix](https://github.com/LukeGus/Termix): Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
+*   [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix): Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
 *   [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai): FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
 *   [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat): AI-powered multi-agent builder
 *   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat): 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
