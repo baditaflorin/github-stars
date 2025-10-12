@@ -1187,7 +1187,7 @@
 *   [nanbingxyz/mcpsvr](https://github.com/nanbingxyz/mcpsvr): Discover Exceptional MCP Servers
 *   [nanbingxyz/5ire](https://github.com/nanbingxyz/5ire): 5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers,  supports local knowledge base and  tools via model context protocol servers .
 *   [browserbase/stagehand](https://github.com/browserbase/stagehand): The AI Browser Automation Framework
-*   [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl): The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
+*   [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl): 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 *   [markmap/markmap](https://github.com/markmap/markmap): Build mindmaps with plain text
 *   [paperbits/paperbits-core](https://github.com/paperbits/paperbits-core): This repository contains core Paperbits components
 *   [outline/outline](https://github.com/outline/outline): The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
