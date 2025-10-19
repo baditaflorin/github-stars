@@ -63,6 +63,7 @@
 
 ## C
 
+*   [TEN-framework/ten-vad](https://github.com/TEN-framework/ten-vad): Voice Activity Detector (VAD) : low-latency, high-performance and lightweight
 *   [vibhorkum/pg_background](https://github.com/vibhorkum/pg_background): pg_background
 *   [BasedHardware/omi](https://github.com/BasedHardware/omi): AI wearables. Put it on, speak, transcribe, automatically
 *   [OISF/suricata](https://github.com/OISF/suricata): Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine developed by the OISF and the Suricata community.
@@ -726,6 +727,7 @@
 
 ## Python
 
+*   [TEN-framework/ten-turn-detection](https://github.com/TEN-framework/ten-turn-detection): Turn detection for full-duplex dialogue communication
 *   [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield): Detect and validate 500+ types of hardcoded secrets with advanced checks. Use it as a pre-commit hook, GitHub Action, or CLI for proactive secret detection and security.
 *   [nicolargo/glances](https://github.com/nicolargo/glances): Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 *   [speaches-ai/speaches](https://github.com/speaches-ai/speaches)
