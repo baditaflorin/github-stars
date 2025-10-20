@@ -103,7 +103,7 @@
 *   [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS): A high-performance distributed file system designed to address the challenges of AI training and inference workloads.
 *   [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime): ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 *   [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp): Run GGUF models easily with a KoboldAI UI. One File. Zero Install.
-*   [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM): TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and support state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in performant way.
+*   [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM): TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.
 *   [google/libphonenumber](https://github.com/google/libphonenumber): Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
 *   [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp): Port of OpenAI's Whisper model in C/C++
 *   [google/re2](https://github.com/google/re2): RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
