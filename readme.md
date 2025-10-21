@@ -729,6 +729,8 @@
 
 ## Python
 
+*   [Picovoice/cobra](https://github.com/Picovoice/cobra): On-device voice activity detection (VAD) powered by deep learning
+*   [modelscope/FunASR](https://github.com/modelscope/FunASR): A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc.
 *   [Open-LLM-VTuber/Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber): Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms
 *   [TEN-framework/ten-turn-detection](https://github.com/TEN-framework/ten-turn-detection): Turn detection for full-duplex dialogue communication
 *   [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield): Detect and validate 500+ types of hardcoded secrets with advanced checks. Use it as a pre-commit hook, GitHub Action, or CLI for proactive secret detection and security.
