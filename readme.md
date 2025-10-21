@@ -147,6 +147,7 @@
 
 ## Go
 
+*   [ten-protocol/go-ten](https://github.com/ten-protocol/go-ten): Official Golang implementation of the TEN protocol
 *   [tailscale/tailscale](https://github.com/tailscale/tailscale): The easiest, most secure way to use WireGuard and 2FA.
 *   [gotify/server](https://github.com/gotify/server): A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 *   [ollama/ollama](https://github.com/ollama/ollama): Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
