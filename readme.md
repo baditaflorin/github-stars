@@ -94,6 +94,7 @@
 
 ## C++
 
+*   [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx): Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 12 programming languages
 *   [drolbr/Overpass-API](https://github.com/drolbr/Overpass-API): A database engine to query the OpenStreetMap data.
 *   [SerenityOS/serenity](https://github.com/SerenityOS/serenity): The Serenity Operating System 🐞
 *   [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes): A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/ is meetly ai
@@ -728,6 +729,7 @@
 
 ## Python
 
+*   [Open-LLM-VTuber/Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber): Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms
 *   [TEN-framework/ten-turn-detection](https://github.com/TEN-framework/ten-turn-detection): Turn detection for full-duplex dialogue communication
 *   [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield): Detect and validate 500+ types of hardcoded secrets with advanced checks. Use it as a pre-commit hook, GitHub Action, or CLI for proactive secret detection and security.
 *   [nicolargo/glances](https://github.com/nicolargo/glances): Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
