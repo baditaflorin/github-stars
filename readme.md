@@ -527,6 +527,7 @@
 ## MDX
 
 *   [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules): 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
+*   [deepset-ai/haystack](https://github.com/deepset-ai/haystack): AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.
 *   [all-contributors/all-contributors.github.io](https://github.com/all-contributors/all-contributors.github.io): ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
 *   [phuocng/1loc](https://github.com/phuocng/1loc): What's your favorite JavaScript single LOC (line of code)?
 
@@ -809,7 +810,6 @@
 *   [collabora/WhisperLive](https://github.com/collabora/WhisperLive): A nearly-live implementation of OpenAI's Whisper.
 *   [khoj-ai/flint](https://github.com/khoj-ai/flint): Journal with Khoj on WhatsApp. Supports multi-lingual audio messages, references previous conversations for context aware responses
 *   [topoteretes/cognee](https://github.com/topoteretes/cognee): Memory for AI Agents in 6 lines of code
-*   [deepset-ai/haystack](https://github.com/deepset-ai/haystack): AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.
 *   [khoj-ai/khoj](https://github.com/khoj-ai/khoj): Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
 *   [Sanaelotfi/sublora-bounds-for-llms](https://github.com/Sanaelotfi/sublora-bounds-for-llms): Computing compression-based generalization bounds for LLMs using SubLoRA
 *   [autodistill/autodistill](https://github.com/autodistill/autodistill): Images to inference with no labeling (use foundation models to train supervised models).
