@@ -355,6 +355,7 @@
 
 ## JavaScript
 
+*   [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer): API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 *   [u14app/deep-research](https://github.com/u14app/deep-research): Use any LLMs (Large Language Models) for Deep Research. Support SSE API and MCP server.
 *   [open-webui/open-webui](https://github.com/open-webui/open-webui): User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 *   [badges/shields](https://github.com/badges/shields): Concise, consistent, and legible badges in SVG and raster format
