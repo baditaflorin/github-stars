@@ -769,6 +769,7 @@
 *   [ahmetoner/whisper-asr-webservice](https://github.com/ahmetoner/whisper-asr-webservice): OpenAI Whisper ASR Webservice API
 *   [binarybana/easyrag](https://github.com/binarybana/easyrag): Easy RAG scripts for a local, embedded, MCP-enabled knowledge store.
 *   [jagan-shanmugam/mattermost-mcp-host](https://github.com/jagan-shanmugam/mattermost-mcp-host): A Mattermost integration that connects to Model Context Protocol (MCP) servers, leveraging a LangGraph-based Agent.
+*   [EvalsOne/MCP-connect](https://github.com/EvalsOne/MCP-connect): Enables cloud-based AI services to access local Stdio based MCP servers via HTTP requests
 *   [junfanz1/MCP-MultiServer-Interoperable-Agent2Agent-LangGraph-AI-System](https://github.com/junfanz1/MCP-MultiServer-Interoperable-Agent2Agent-LangGraph-AI-System): This project demonstrates a decoupled real-time agent architecture that connects LangGraph agents to remote tools served by custom MCP (Modular Command Protocol) servers. The architecture enables a flexible and scalable multi-agent system where each tool can be hosted independently (via SSE or STDIO), offering modularity and cloud-deployable execut
 *   [gensecaihq/mcp-poisoning-poc](https://github.com/gensecaihq/mcp-poisoning-poc): This repository demonstrates a variety of **MCP Poisoning Attacks** affecting real-world AI agent workflows.
 *   [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard): Modular visual interface for GDB in Python
@@ -1165,7 +1166,6 @@
 *   [fonoster/fonoster](https://github.com/fonoster/fonoster): 🚀 The open-source alternative to Twilio.
 *   [ateeyak/n8n-nodes-mcp](https://github.com/ateeyak/n8n-nodes-mcp)
 *   [RegiByte/mcp-client-app](https://github.com/RegiByte/mcp-client-app): A mcp client chat application built for learning purposes
-*   [EvalsOne/MCP-connect](https://github.com/EvalsOne/MCP-connect): Enables cloud-based AI services to access local Stdio based MCP servers via HTTP requests
 *   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio): 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 *   [bsmi021/mcp-memory-bank](https://github.com/bsmi021/mcp-memory-bank): A powerful, production-ready context management system for Large Language Models (LLMs). Built with ChromaDB and modern embedding technologies, it provides persistent, project-specific memory capabilities that enhance your AI's understanding and response quality.
 *   [devhubapp/devhub](https://github.com/devhubapp/devhub): TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
