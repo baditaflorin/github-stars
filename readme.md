@@ -1157,7 +1157,7 @@
 *   [astuto/astuto](https://github.com/astuto/astuto): A free, open source, self-hosted customer feedback tool 🦊
 *   [calcom/cal.com](https://github.com/calcom/cal.com): Scheduling infrastructure for absolutely everyone.
 *   [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix): Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
-*   [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai): FlowGram is a extensible workflow development framework with built-in canvas, form, variable, and materials that helps developers build AI workflow platforms faster and simpler.
+*   [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai): FlowGram is an extensible workflow development framework with built-in canvas, form, variable, and materials that helps developers build AI workflow platforms faster and simpler.
 *   [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat): AI-powered multi-agent builder
 *   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat): 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
 *   [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep): A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
