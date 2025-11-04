@@ -147,6 +147,7 @@
 
 ## Go
 
+*   [dh1tw/streamdeck](https://github.com/dh1tw/streamdeck): Golang API for the Corsair / Elgato StreamDeck
 *   [baditaflorin/go-url-categorizer-api](https://github.com/baditaflorin/go-url-categorizer-api)
 *   [ten-protocol/go-ten](https://github.com/ten-protocol/go-ten): Official Golang implementation of the TEN protocol
 *   [tailscale/tailscale](https://github.com/tailscale/tailscale): The easiest, most secure way to use WireGuard and 2FA.
@@ -356,6 +357,7 @@
 
 ## JavaScript
 
+*   [data-enabler/streamdeck-profile-generator](https://github.com/data-enabler/streamdeck-profile-generator): An example app to programmatically generate profiles for the Elgato Stream Deck
 *   [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer): API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 *   [u14app/deep-research](https://github.com/u14app/deep-research): Use any LLMs (Large Language Models) for Deep Research. Support SSE API and MCP server.
 *   [open-webui/open-webui](https://github.com/open-webui/open-webui): User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -766,7 +768,7 @@
 *   [microsoft/markitdown](https://github.com/microsoft/markitdown): Python tool for converting files and office documents to Markdown.
 *   [collabora/WhisperFusion](https://github.com/collabora/WhisperFusion): WhisperFusion builds upon the capabilities of WhisperLive and WhisperSpeech to provide a seamless conversations with an AI.
 *   [ufal/whisper_streaming](https://github.com/ufal/whisper_streaming): Whisper realtime streaming for long speech-to-text transcription and translation
-*   [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit): Simultaneous speech-to-text server.
+*   [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit): Simultaneous speech-to-text model
 *   [ahmetoner/whisper-asr-webservice](https://github.com/ahmetoner/whisper-asr-webservice): OpenAI Whisper ASR Webservice API
 *   [binarybana/easyrag](https://github.com/binarybana/easyrag): Easy RAG scripts for a local, embedded, MCP-enabled knowledge store.
 *   [jagan-shanmugam/mattermost-mcp-host](https://github.com/jagan-shanmugam/mattermost-mcp-host): A Mattermost integration that connects to Model Context Protocol (MCP) servers, leveraging a LangGraph-based Agent.
