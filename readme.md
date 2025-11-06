@@ -735,6 +735,7 @@
 
 ## Python
 
+*   [ajnisbet/opentopodata](https://github.com/ajnisbet/opentopodata): Open alternative to the Google Elevation API!
 *   [Picovoice/cobra](https://github.com/Picovoice/cobra): On-device voice activity detection (VAD) powered by deep learning
 *   [modelscope/FunASR](https://github.com/modelscope/FunASR): A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc.
 *   [Open-LLM-VTuber/Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber): Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms
