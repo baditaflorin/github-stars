@@ -1154,7 +1154,7 @@
 *   [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io): 💬 Typebot is a powerful chatbot builder that you can self-host.
 *   [stefanpejcic/OpenPanel](https://github.com/stefanpejcic/OpenPanel): A highly customizable web hosting control panel built around containers
 *   [pocketbase/js-sdk](https://github.com/pocketbase/js-sdk): PocketBase JavaScript SDK
-*   [remvze/moodist](https://github.com/remvze/moodist): 🌲 | Ambient sounds for focus and calm.
+*   [remvze/moodist](https://github.com/remvze/moodist): 🌲 • Ambient sounds for focus and calm.
 *   [activepieces/activepieces](https://github.com/activepieces/activepieces): AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 *   [cmintey/wishlist](https://github.com/cmintey/wishlist): Wishlist is a self-hosted wishlist application that you can share with your friends and family. You no longer have to wonder what to get your family for the holidays, simply check their wishlist and claim any available item!
 *   [coderamp-labs/pad.ws](https://github.com/coderamp-labs/pad.ws): Whiteboard as an IDE, draw and code in your browser
