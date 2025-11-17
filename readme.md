@@ -147,6 +147,7 @@
 
 ## Go
 
+*   [baditaflorin/go-linkedin-badge](https://github.com/baditaflorin/go-linkedin-badge)
 *   [dh1tw/streamdeck](https://github.com/dh1tw/streamdeck): Golang API for the Corsair / Elgato StreamDeck
 *   [baditaflorin/go-url-categorizer-api](https://github.com/baditaflorin/go-url-categorizer-api)
 *   [ten-protocol/go-ten](https://github.com/ten-protocol/go-ten): Official Golang implementation of the TEN protocol
