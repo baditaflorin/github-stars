@@ -261,6 +261,7 @@
 *   [prometheus-community/postgres_exporter](https://github.com/prometheus-community/postgres_exporter): A PostgreSQL metric exporter for Prometheus
 *   [hetznercloud/terraform-provider-hcloud](https://github.com/hetznercloud/terraform-provider-hcloud): Terraform Hetzner Cloud provider
 *   [hashicorp/terraform](https://github.com/hashicorp/terraform): Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+*   [baditaflorin/parse-address](https://github.com/baditaflorin/parse-address): US Street Address Parser
 *   [prometheus/node_exporter](https://github.com/prometheus/node_exporter): Exporter for machine metrics
 *   [owenthereal/ccat](https://github.com/owenthereal/ccat): Colorizing `cat`
 *   [geziyor/geziyor](https://github.com/geziyor/geziyor): Geziyor, blazing fast web crawling & scraping framework for Go. Supports JS rendering.
@@ -410,7 +411,6 @@
 *   [clmnin/summarize.site](https://github.com/clmnin/summarize.site): Summarize web pages using OpenAI ChatGPT
 *   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 *   [liady/ChatGPT-pdf](https://github.com/liady/ChatGPT-pdf): A Chrome extension for downloading your ChatGPT history to PNG, PDF or a sharable link
-*   [baditaflorin/parse-address](https://github.com/baditaflorin/parse-address): US Street Address Parser
 *   [eugene-belkovich/react-map-with-leaflet](https://github.com/eugene-belkovich/react-map-with-leaflet): 🌱Leaflet examples of react maps for medium.com articles
 *   [bohnacker/data-manipulation](https://github.com/bohnacker/data-manipulation): Some Javascript and Python scripts to manipulate (large) CSV files and JSON data.
 *   [getdumont/emojinator](https://github.com/getdumont/emojinator): A 📦to 🔍and 📤all kinds of 😄from 📝🔝
