@@ -359,6 +359,7 @@
 
 ## JavaScript
 
+*   [somecoding/openrecipedb](https://github.com/somecoding/openrecipedb): This is the Open Recipe DB server application.
 *   [data-enabler/streamdeck-profile-generator](https://github.com/data-enabler/streamdeck-profile-generator): An example app to programmatically generate profiles for the Elgato Stream Deck
 *   [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer): API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 *   [u14app/deep-research](https://github.com/u14app/deep-research): Use any LLMs (Large Language Models) for Deep Research. Support SSE API and MCP server.
@@ -736,6 +737,7 @@
 
 ## Python
 
+*   [alephdata/followthemoney](https://github.com/alephdata/followthemoney): Data model and processing tools for investigative entity data
 *   [ajnisbet/opentopodata](https://github.com/ajnisbet/opentopodata): Open alternative to the Google Elevation API!
 *   [Picovoice/cobra](https://github.com/Picovoice/cobra): On-device voice activity detection (VAD) powered by deep learning
 *   [modelscope/FunASR](https://github.com/modelscope/FunASR): A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc.
