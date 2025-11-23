@@ -643,7 +643,7 @@
 *   [github/copilot-docs](https://github.com/github/copilot-docs): Documentation for GitHub Copilot
 *   [openwebdocs/project](https://github.com/openwebdocs/project): project documentation, policies & meeting minutes
 *   [Liquid-Legal-Institute/Legal-Text-Analytics](https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics): A list of selected resources, methods, and tools dedicated to Legal Text Analytics.
-*   [jasonniebauer/Nmap-Cheatsheet](https://github.com/jasonniebauer/Nmap-Cheatsheet): :notebook: Reference guide for scanning networks with Nmap.
+*   [dataxapi/Nmap-Cheatsheet](https://github.com/dataxapi/Nmap-Cheatsheet): :notebook: Reference guide for scanning networks with Nmap.
 *   [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers): Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 *   [pawelborkar/awesome-repos](https://github.com/pawelborkar/awesome-repos): A curated list of GitHub Repositories full of FREE Resources.
 *   [karan/Projects](https://github.com/karan/Projects): :page_with_curl: A list of practical projects that anyone can solve in any programming language.
