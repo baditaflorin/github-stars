@@ -363,7 +363,6 @@
 *   [data-enabler/streamdeck-profile-generator](https://github.com/data-enabler/streamdeck-profile-generator): An example app to programmatically generate profiles for the Elgato Stream Deck
 *   [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer): API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 *   [u14app/deep-research](https://github.com/u14app/deep-research): Use any LLMs (Large Language Models) for Deep Research. Support SSE API and MCP server.
-*   [open-webui/open-webui](https://github.com/open-webui/open-webui): User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 *   [badges/shields](https://github.com/badges/shields): Concise, consistent, and legible badges in SVG and raster format
 *   [spencermountain/compromise](https://github.com/spencermountain/compromise): modest natural-language processing
 *   [cketti/jitsi-hacks](https://github.com/cketti/jitsi-hacks): Jitsi Hacks – Extending Jitsi Meet using injected scripts
@@ -1114,6 +1113,7 @@
 
 ## Svelte
 
+*   [open-webui/open-webui](https://github.com/open-webui/open-webui): User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 *   [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap): A simple wake on lan web app written with SvelteKit, Go and PocketBase.
 *   [reid41/QA-Pilot](https://github.com/reid41/QA-Pilot): QA-Pilot is an interactive chat project that leverages online/local LLM for rapid understanding and navigation of GitHub code repository.
 *   [ekafyi/johnnydecimal-index-generator](https://github.com/ekafyi/johnnydecimal-index-generator): Code for the Johnny Decimal Index Generator web app
