@@ -787,7 +787,7 @@
 *   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui): Stable Diffusion web UI
 *   [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN): Official Code for DragGAN (SIGGRAPH 2023)
 *   [QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger): 🥂 Gracefully face hCaptcha challenge with multimodal large language model.
-*   [iterative/dvc](https://github.com/iterative/dvc): 🦉 Data Versioning and ML Experiments
+*   [treeverse/dvc](https://github.com/treeverse/dvc): 🦉 Data Versioning and ML Experiments
 *   [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter): A natural language interface for computers
 *   [roboflow/supervision](https://github.com/roboflow/supervision): We write your reusable computer vision tools. 💜
 *   [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI): The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
