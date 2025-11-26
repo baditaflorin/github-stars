@@ -1149,7 +1149,7 @@
 *   [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist): Use your locally running AI models to assist you in your web browsing
 *   [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat): ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 *   [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler): Crawl a site to generate knowledge files to create your own custom GPT from a URL
-*   [chatboxai/chatbox](https://github.com/chatboxai/chatbox): # Free AI at api.airforce https://discord.gg/AJDsM7jtbq
+*   [chatboxai/chatbox](https://github.com/chatboxai/chatbox): Powerful AI Client
 *   [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe): AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
 *   [leon-ai/leon](https://github.com/leon-ai/leon): 🧠 Leon is your open-source personal assistant.
 *   [puckeditor/puck](https://github.com/puckeditor/puck): The visual editor for React
