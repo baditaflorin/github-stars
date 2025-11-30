@@ -737,6 +737,7 @@
 
 ## Python
 
+*   [TimMcCauley/nintynine-boundaries](https://github.com/TimMcCauley/nintynine-boundaries): OpenStreetMap Boundaries for the World!
 *   [alephdata/followthemoney](https://github.com/alephdata/followthemoney): Data model and processing tools for investigative entity data
 *   [ajnisbet/opentopodata](https://github.com/ajnisbet/opentopodata): Open alternative to the Google Elevation API!
 *   [Picovoice/cobra](https://github.com/Picovoice/cobra): On-device voice activity detection (VAD) powered by deep learning
