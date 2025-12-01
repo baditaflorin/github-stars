@@ -147,6 +147,8 @@
 
 ## Go
 
+*   [dop251/goja](https://github.com/dop251/goja): ECMAScript/JavaScript engine in pure Go
+*   [bogdanfinn/tls-client](https://github.com/bogdanfinn/tls-client): net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests.
 *   [baditaflorin/go-linkedin-badge](https://github.com/baditaflorin/go-linkedin-badge)
 *   [dh1tw/streamdeck](https://github.com/dh1tw/streamdeck): Golang API for the Corsair / Elgato StreamDeck
 *   [baditaflorin/go-url-categorizer-api](https://github.com/baditaflorin/go-url-categorizer-api)
