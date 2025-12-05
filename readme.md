@@ -1226,7 +1226,7 @@
 *   [draft-js-plugins/draft-js-plugins](https://github.com/draft-js-plugins/draft-js-plugins): React Plugin Architecture for Draft.js including Slack-Like Emojis, FB-Like Mentions and Stickers
 *   [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js): JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
 *   [tensorflow/tfjs](https://github.com/tensorflow/tfjs): A WebGL accelerated JavaScript library for training and deploying ML models.
-*   [ciocan/sicap.ai](https://github.com/ciocan/sicap.ai): Search app for public tenders from the Romanian Government
+*   [ciocan/sicap.ai](https://github.com/ciocan/sicap.ai): Aplicație de căutare a licitațiilor publice ale Guvernului României
 *   [dion-/autoheal](https://github.com/dion-/autoheal): AutoGPT Agent which automatically fixes your tests. GPT-powered TDD.
 *   [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm): High-performance In-browser LLM Inference Engine
 *   [smeijer/leaflet-geosearch](https://github.com/smeijer/leaflet-geosearch): A geocoding/address-lookup library supporting various api providers.
