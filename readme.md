@@ -1169,7 +1169,7 @@
 *   [calcom/cal.com](https://github.com/calcom/cal.com): Scheduling infrastructure for absolutely everyone.
 *   [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix): Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
 *   [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai): FlowGram is an extensible workflow development framework with built-in canvas, form, variable, and materials that helps developers build AI workflow platforms faster and simpler.
-*   [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat): The local-first agent OS
+*   [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat): Local-first, open-source tools for automating everyday work.
 *   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat): 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
 *   [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep): A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 *   [SigNoz/signoz](https://github.com/SigNoz/signoz): SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
