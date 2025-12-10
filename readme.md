@@ -274,7 +274,7 @@
 *   [alpkeskin/mosint](https://github.com/alpkeskin/mosint): An automated e-mail OSINT tool
 *   [Banrai/PiScan](https://github.com/Banrai/PiScan): A personal shopping and inventory-tracking device based on the Raspberry Pi
 *   [marianogappa/sql](https://github.com/marianogappa/sql): MySQL & PostgreSQL pipe
-*   [onc-healthit/lantern-back-end](https://github.com/onc-healthit/lantern-back-end): Lantern is an open source tool developed by the MITRE Corporation for monitoring fielded health IT systems’ certified FHIR API endpoints. It gathers availability information and information about FHIR support from endpoints’ capability statements and provides visualizations to show FHIR adoption and patient data availability across the nation.
+*   [onc-healthit/lantern-back-end](https://github.com/onc-healthit/lantern-back-end): Lantern is an open source tool developed by Mettle Solutions LLC for monitoring fielded health IT systems’ certified FHIR API endpoints. It gathers availability information and information about FHIR support from endpoints’ capability statements and provides visualizations to show FHIR adoption and patient data availability across the nation.
 *   [junegunn/fzf](https://github.com/junegunn/fzf): :cherry_blossom: A command-line fuzzy finder
 *   [tomnomnom/httprobe](https://github.com/tomnomnom/httprobe): Take a list of domains and probe for working HTTP and HTTPS servers
 *   [tomnomnom/meg](https://github.com/tomnomnom/meg): Fetch many paths for many hosts - without killing the hosts
