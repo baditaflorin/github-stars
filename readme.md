@@ -410,7 +410,6 @@
 *   [varunshenoy/GraphGPT](https://github.com/varunshenoy/GraphGPT): Extrapolating knowledge graphs from unstructured text using GPT-3 🕵️‍♂️
 *   [mrdoob/three.js](https://github.com/mrdoob/three.js): JavaScript 3D Library.
 *   [clmnin/summarize.site](https://github.com/clmnin/summarize.site): Summarize web pages using OpenAI ChatGPT
-*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 *   [liady/ChatGPT-pdf](https://github.com/liady/ChatGPT-pdf): A Chrome extension for downloading your ChatGPT history to PNG, PDF or a sharable link
 *   [eugene-belkovich/react-map-with-leaflet](https://github.com/eugene-belkovich/react-map-with-leaflet): 🌱Leaflet examples of react maps for medium.com articles
 *   [bohnacker/data-manipulation](https://github.com/bohnacker/data-manipulation): Some Javascript and Python scripts to manipulate (large) CSV files and JSON data.
@@ -1233,6 +1232,7 @@
 *   [microsoft/playwright](https://github.com/microsoft/playwright): Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 *   [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt): Easily share permanent links to ChatGPT conversations with your friends
 *   [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic): Your API ⇒ Paid MCP. Instantly.
+*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 *   [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced): WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
 *   [baditaflorin/mapbond](https://github.com/baditaflorin/mapbond)
 *   [gothinkster/realworld](https://github.com/gothinkster/realworld): "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
