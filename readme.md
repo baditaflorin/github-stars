@@ -146,6 +146,7 @@
 
 ## Go
 
+*   [lkarlslund/turbograb](https://github.com/lkarlslund/turbograb): Grab the content of lots of websites in parallel
 *   [dop251/goja](https://github.com/dop251/goja): ECMAScript/JavaScript engine in pure Go
 *   [bogdanfinn/tls-client](https://github.com/bogdanfinn/tls-client): net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests.
 *   [baditaflorin/go-linkedin-badge](https://github.com/baditaflorin/go-linkedin-badge)
@@ -224,7 +225,7 @@
 *   [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go): A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
 *   [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang): Write Model Context Protocol servers in few lines of go code. Docs at https://mcpgolang.com . Created by https://metoro.io
 *   [oramasearch/onnx-go](https://github.com/oramasearch/onnx-go): onnx-go gives the ability to import a pre-trained neural network within Go without being linked to a framework or library.
-*   [aldinokemal/go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice): GOWA - WhatsApp REST API with support for UI, Webhooks, and MCP. Built with Golang for efficient memory use.
+*   [aldinokemal/go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice): GOWA - WhatsApp REST API with support for UI, Multi Account, Webhooks, and MCP. Built with Golang for efficient memory use.
 *   [gocolly/colly](https://github.com/gocolly/colly): Elegant Scraper and Crawler Framework for Golang
 *   [gost-dom/browser](https://github.com/gost-dom/browser): Headless browser for Go for TDD workflows
 *   [robertkrimen/otto](https://github.com/robertkrimen/otto): A JavaScript interpreter in Go (golang)
@@ -339,6 +340,7 @@
 
 ## Java
 
+*   [icann/czds-api-client-java](https://github.com/icann/czds-api-client-java): A Java reference implementation for CZDS download zone file API
 *   [kassner/whattocook](https://github.com/kassner/whattocook): Get a recipe to cook today, based on the ingredients you have at home.
 *   [Xunzhuo/Algorithm-Guide](https://github.com/Xunzhuo/Algorithm-Guide): Xunzhuo`s Tutorials of Algorithm and Data Structure  🚀🚀🚀
 *   [ashishps1/awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design): Learn Low Level Design (LLD) and prepare for interviews using free resources.
@@ -360,6 +362,7 @@
 
 ## JavaScript
 
+*   [cporter202/scraping-apis-for-devs](https://github.com/cporter202/scraping-apis-for-devs): This GitHub repo is a powerhouse collection of scraping APIs for developers that you can start using immediately to build everything from simple automations to full-scale applications.
 *   [somecoding/openrecipedb](https://github.com/somecoding/openrecipedb): This is the Open Recipe DB server application.
 *   [data-enabler/streamdeck-profile-generator](https://github.com/data-enabler/streamdeck-profile-generator): An example app to programmatically generate profiles for the Elgato Stream Deck
 *   [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer): API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
@@ -548,6 +551,7 @@
 
 ## Miscellaneous
 
+*   [lkarlslund/topdomains](https://github.com/lkarlslund/topdomains): Top 17 million most popular domains as CSV (from Google CRUX dataset)
 *   [baditaflorin/usda-food-visual-catalog-v1](https://github.com/baditaflorin/usda-food-visual-catalog-v1): NutriArt is a tool designed to generate high-quality, artistic visual representations of food items found in the USDA FoodData Central database. It utilizes Google's Gemini Imagen 3 model to create images based on nutritional profiles and commits them directly to a GitHub repository.
 *   [ishanvyas22/awesome-open-source-systems](https://github.com/ishanvyas22/awesome-open-source-systems): :sunglasses: A curated list of awesome Free Open Source Softwares(FOSS).
 *   [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker): :whale: A curated list of Docker resources and projects
@@ -576,7 +580,6 @@
 *   [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans): An ultra-simplified explanation to design patterns
 *   [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon): Jargon from the functional programming world in simple terms!
 *   [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design): Learn how to design systems at scale and prepare for system design interviews
-*   [payloadbox/sql-injection-payload-list](https://github.com/payloadbox/sql-injection-payload-list): 🎯 SQL Injection Payload List
 *   [ljinkai/weekly](https://github.com/ljinkai/weekly): 独立开发产品变现周刊，每周五发布。
 *   [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server): An evolving how-to guide for securing a Linux server.
 *   [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization): 健康学习到150岁 - 人体系统调优不完全指南
@@ -643,7 +646,7 @@
 *   [github/copilot-docs](https://github.com/github/copilot-docs): Documentation for GitHub Copilot
 *   [openwebdocs/project](https://github.com/openwebdocs/project): project documentation, policies & meeting minutes
 *   [Liquid-Legal-Institute/Legal-Text-Analytics](https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics): A list of selected resources, methods, and tools dedicated to Legal Text Analytics.
-*   [dataxapi/Nmap-Cheatsheet](https://github.com/dataxapi/Nmap-Cheatsheet): :notebook: Reference guide for scanning networks with Nmap.
+*   [jasonniebauer/Nmap-Cheatsheet](https://github.com/jasonniebauer/Nmap-Cheatsheet): :notebook: Reference guide for scanning networks with Nmap.
 *   [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers): Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 *   [pawelborkar/awesome-repos](https://github.com/pawelborkar/awesome-repos): A curated list of GitHub Repositories full of FREE Resources.
 *   [karan/Projects](https://github.com/karan/Projects): :page_with_curl: A list of practical projects that anyone can solve in any programming language.
@@ -737,6 +740,7 @@
 
 ## Python
 
+*   [icann/czds-api-client-python](https://github.com/icann/czds-api-client-python): A Python reference implementation for CZDS download zone file API
 *   [TimMcCauley/nintynine-boundaries](https://github.com/TimMcCauley/nintynine-boundaries): OpenStreetMap Boundaries for the World!
 *   [alephdata/followthemoney](https://github.com/alephdata/followthemoney): Data model and processing tools for investigative entity data
 *   [ajnisbet/opentopodata](https://github.com/ajnisbet/opentopodata): Open alternative to the Google Elevation API!
@@ -829,8 +833,8 @@
 *   [simonw/sqlite-utils](https://github.com/simonw/sqlite-utils): Python CLI utility and library for manipulating SQLite databases
 *   [simonw/llm-cluster](https://github.com/simonw/llm-cluster): LLM plugin for clustering embeddings
 *   [microsoft/BitNet](https://github.com/microsoft/BitNet): Official inference framework for 1-bit LLMs
-*   [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory): Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
-*   [unslothai/unsloth](https://github.com/unslothai/unsloth): Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek-R1, Qwen3, Gemma 3, TTS 2x faster with 70% less VRAM.
+*   [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory): Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
+*   [unslothai/unsloth](https://github.com/unslothai/unsloth): Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM.
 *   [opendatalab/PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit): A Comprehensive Toolkit for High-Quality PDF Content Extraction
 *   [exo-explore/exo](https://github.com/exo-explore/exo): Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 *   [openai/swarm](https://github.com/openai/swarm): Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
@@ -858,7 +862,7 @@
 *   [gimlet-ai/tddGPT](https://github.com/gimlet-ai/tddGPT): AutoGPT for Web App Development
 *   [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot): The first real AI developer
 *   [apple/ml-ferret](https://github.com/apple/ml-ferret)
-*   [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb): Federated query engine for AI - The only MCP Server you'll ever need
+*   [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb): Query Engine for AI - The only MCP Server you'll ever need
 *   [togethercomputer/RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data): The RedPajama-Data repository contains code for preparing large datasets for training large language models.
 *   [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt): Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://gpt-docs.h2o.ai/
 *   [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting): Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
@@ -908,7 +912,7 @@
 *   [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops): Ansible for DevOps examples.
 *   [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries): The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 *   [JerBouma/FinanceDatabase](https://github.com/JerBouma/FinanceDatabase): This is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets.
-*   [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python): 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days, follow your own pace.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
+*   [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python): The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
 *   [3b1b/manim](https://github.com/3b1b/manim): Animation engine for explanatory math videos
 *   [huggingface/datasets](https://github.com/huggingface/datasets): 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 *   [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect): Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
@@ -1017,10 +1021,9 @@
 
 *   [postgresml/postgresml](https://github.com/postgresml/postgresml): Postgres with GPUs for ML/AI apps.
 *   [avstack/gst-meet](https://github.com/avstack/gst-meet): Connect GStreamer pipelines to Jitsi Meet conferences
-*   [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes): Open-source Rust based AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted Ai meeting note taker for macOS & Windows.
+*   [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes): Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted,  Open-source Ai meeting note taker for macOS & Windows.
 *   [sigoden/aichat](https://github.com/sigoden/aichat): All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 *   [hook0/hook0](https://github.com/hook0/hook0): Open-source webhook server that helps you provide webhooks to your users. It handles for you a great amount of features that are usually tedious to (re)implement.
-*   [openobserve/openobserve](https://github.com/openobserve/openobserve): Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more.
 *   [moghtech/komodo](https://github.com/moghtech/komodo): 🦎 a tool to build and deploy software on many servers 🦎
 *   [block/goose](https://github.com/block/goose): an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 *   [rust-lang/mdBook](https://github.com/rust-lang/mdBook): Create book from markdown files. Like Gitbook but implemented in Rust
@@ -1135,6 +1138,7 @@
 
 ## TypeScript
 
+*   [zapdos-labs/unblink](https://github.com/zapdos-labs/unblink): Modern video analytics with VLM
 *   [devlikeapro/n8n-nodes-chatwoot](https://github.com/devlikeapro/n8n-nodes-chatwoot): n8n node for ChatWoot API
 *   [baditaflorin/transcript-insights](https://github.com/baditaflorin/transcript-insights)
 *   [papercups-io/chat-widget](https://github.com/papercups-io/chat-widget): Papercups chat widget
@@ -1172,6 +1176,7 @@
 *   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat): 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
 *   [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep): A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 *   [SigNoz/signoz](https://github.com/SigNoz/signoz): SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
+*   [openobserve/openobserve](https://github.com/openobserve/openobserve): Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more.
 *   [benhansen-io/pinging](https://github.com/benhansen-io/pinging): Pinging.net - Monitor Your Internet Connection
 *   [kortix-ai/suna](https://github.com/kortix-ai/suna): Kortix – build, manage and train AI Agents.
 *   [fonoster/fonoster](https://github.com/fonoster/fonoster): 🚀 The open-source alternative to Twilio.
