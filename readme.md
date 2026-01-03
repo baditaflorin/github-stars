@@ -63,6 +63,7 @@
 
 ## C
 
+*   [tinyproxy/tinyproxy](https://github.com/tinyproxy/tinyproxy): tinyproxy - a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems
 *   [TEN-framework/ten-vad](https://github.com/TEN-framework/ten-vad): Voice Activity Detector (VAD) : low-latency, high-performance and lightweight
 *   [vibhorkum/pg_background](https://github.com/vibhorkum/pg_background): pg_background
 *   [BasedHardware/omi](https://github.com/BasedHardware/omi): AI wearables. Put it on, speak, transcribe, automatically
