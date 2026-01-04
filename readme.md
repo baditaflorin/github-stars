@@ -169,7 +169,6 @@
 *   [writefreely/writefreely](https://github.com/writefreely/writefreely): A clean, Markdown-based publishing platform made for writers. Write together and build a community.
 *   [adnanh/webhook](https://github.com/adnanh/webhook): webhook is a lightweight incoming webhook server to run shell commands
 *   [Trugamr/wol](https://github.com/Trugamr/wol): 🦭 Wake up your devices with a single command or click. A Wake-On-LAN tool that works via CLI and web interface.
-*   [Receipt-Wrangler/receipt-wrangler](https://github.com/Receipt-Wrangler/receipt-wrangler): Server for Receipt Wrangler
 *   [go-shiori/shiori](https://github.com/go-shiori/shiori): Simple bookmark manager built with Go
 *   [emersion/go-imap](https://github.com/emersion/go-imap): 📥 An IMAP library for Go clients and servers
 *   [ayoisaiah/f2](https://github.com/ayoisaiah/f2): F2 is a cross-platform command-line tool for batch renaming files and directories quickly and safely. Written in Go!
@@ -1172,6 +1171,7 @@
 *   [astuto/astuto](https://github.com/astuto/astuto): A free, open source, self-hosted customer feedback tool 🦊
 *   [calcom/cal.com](https://github.com/calcom/cal.com): Scheduling infrastructure for absolutely everyone.
 *   [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix): Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
+*   [Receipt-Wrangler/receipt-wrangler](https://github.com/Receipt-Wrangler/receipt-wrangler): Receipt Wrangler application
 *   [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai): FlowGram is an extensible workflow development framework with built-in canvas, form, variable, and materials that helps developers build AI workflow platforms faster and simpler.
 *   [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat): Local-first, open-source tools for automating everyday work.
 *   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat): 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
