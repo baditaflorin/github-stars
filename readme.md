@@ -11,6 +11,7 @@
 *   [Crystal](#crystal)
 *   [Dart](#dart)
 *   [Dockerfile](#dockerfile)
+*   [EJS](#ejs)
 *   [Go](#go)
 *   [HCL](#hcl)
 *   [HTML](#html)
@@ -144,6 +145,10 @@
 *   [greatfire/freebrowser-backend](https://github.com/greatfire/freebrowser-backend)
 *   [m3rryqold/headless-chrome-nodejs-docker](https://github.com/m3rryqold/headless-chrome-nodejs-docker): A dockerized nodejs application to use google chrome with puppeteer headless.
 *   [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices): :white_check_mark:  The Node.js best practices list (July 2024)
+
+## EJS
+
+*   [Ovi/DummyJSON](https://github.com/Ovi/DummyJSON): DummyJSON.com provides different types of REST Endpoints filled with JSON data which you can use in developing the frontend with your favorite framework and library without worrying about writing a backend.
 
 ## Go
 
