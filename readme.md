@@ -152,6 +152,7 @@
 
 ## Go
 
+*   [google/pprof](https://github.com/google/pprof): pprof is a tool for visualization and analysis of profiling data
 *   [lkarlslund/turbograb](https://github.com/lkarlslund/turbograb): Grab the content of lots of websites in parallel
 *   [dop251/goja](https://github.com/dop251/goja): ECMAScript/JavaScript engine in pure Go
 *   [bogdanfinn/tls-client](https://github.com/bogdanfinn/tls-client): net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests.
