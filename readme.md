@@ -1190,7 +1190,7 @@
 *   [fonoster/fonoster](https://github.com/fonoster/fonoster): 🚀 The open-source alternative to Twilio.
 *   [ateeyak/n8n-nodes-mcp](https://github.com/ateeyak/n8n-nodes-mcp)
 *   [RegiByte/mcp-client-app](https://github.com/RegiByte/mcp-client-app): A mcp client chat application built for learning purposes
-*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio): 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
+*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio): Cherry Studio boosts your productivity with unified AI access, Agent capabilities, and 300+ assistants in one desktop application.
 *   [bsmi021/mcp-memory-bank](https://github.com/bsmi021/mcp-memory-bank): A powerful, production-ready context management system for Large Language Models (LLMs). Built with ChromaDB and modern embedding technologies, it provides persistent, project-specific memory capabilities that enhance your AI's understanding and response quality.
 *   [devhubapp/devhub](https://github.com/devhubapp/devhub): TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 *   [wei/socialify](https://github.com/wei/socialify): 💞 Socialify your project. 🌐 Share with the world!
