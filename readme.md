@@ -1149,7 +1149,7 @@
 *   [devlikeapro/n8n-nodes-chatwoot](https://github.com/devlikeapro/n8n-nodes-chatwoot): n8n node for ChatWoot API
 *   [baditaflorin/transcript-insights](https://github.com/baditaflorin/transcript-insights)
 *   [papercups-io/chat-widget](https://github.com/papercups-io/chat-widget): Papercups chat widget
-*   [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat): The communications platform that puts data protection first.
+*   [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat): The Secure CommsOS™ for mission-critical operations
 *   [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app): 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
 *   [stephanj/embeddings-visualization](https://github.com/stephanj/embeddings-visualization)
 *   [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp): A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
