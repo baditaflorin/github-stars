@@ -801,7 +801,7 @@
 *   [treeverse/dvc](https://github.com/treeverse/dvc): 🦉 Data Versioning and ML Experiments
 *   [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter): A natural language interface for computers
 *   [roboflow/supervision](https://github.com/roboflow/supervision): We write your reusable computer vision tools. 💜
-*   [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI): The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+*   [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI): The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 *   [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai): Python scraper based on AI
 *   [lllyasviel/Omost](https://github.com/lllyasviel/Omost): Your image is almost there!
 *   [NVIDIA/garak](https://github.com/NVIDIA/garak): the LLM vulnerability scanner
