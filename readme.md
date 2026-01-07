@@ -152,6 +152,7 @@
 
 ## Go
 
+*   [projectdiscovery/proxify](https://github.com/projectdiscovery/proxify): A versatile and portable proxy for capturing, manipulating, and replaying HTTP/HTTPS traffic on the go.
 *   [google/pprof](https://github.com/google/pprof): pprof is a tool for visualization and analysis of profiling data
 *   [lkarlslund/turbograb](https://github.com/lkarlslund/turbograb): Grab the content of lots of websites in parallel
 *   [dop251/goja](https://github.com/dop251/goja): ECMAScript/JavaScript engine in pure Go
