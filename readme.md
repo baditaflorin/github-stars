@@ -693,6 +693,7 @@
 *   [datasciencemasters/go](https://github.com/datasciencemasters/go): The Open Source Data Science Masters
 *   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university): A complete computer science study plan to become a software engineer.
 *   [j-delaney/easy-application](https://github.com/j-delaney/easy-application): Over 400 software engineering companies that are easy to apply to
+*   [mvexel/overpass-api-python-wrapper](https://github.com/mvexel/overpass-api-python-wrapper): Python bindings for the OpenStreetMap Overpass API
 
 ## Nim
 
@@ -982,7 +983,6 @@
 *   [anantdgoel/ProjectFib](https://github.com/anantdgoel/ProjectFib): Chrome extension to flag fake news on Facebook. Built at HackPrinceton '16
 *   [pnorman/ogr2osm](https://github.com/pnorman/ogr2osm): pnorman's version of UVM's Rewrite of ogr2osm
 *   [baditaflorin/ChangesetMD](https://github.com/baditaflorin/ChangesetMD): Simple XML parser to shove OpenStreetMap changeset metadata dump files into a postgres database
-*   [mvexel/overpass-api-python-wrapper](https://github.com/mvexel/overpass-api-python-wrapper): Python bindings for the OpenStreetMap Overpass API
 *   [MoniaMolinari/OSM-roads-comparison](https://github.com/MoniaMolinari/OSM-roads-comparison): This repository contains scripts for comparing OSM and authoritative road network datasets.
 *   [trailbehind/DeepOSM](https://github.com/trailbehind/DeepOSM): Train a deep learning net with OpenStreetMap features and satellite imagery.
 *   [planemad/osm-history-processor](https://github.com/planemad/osm-history-processor): Download the OpenStreetMap edits of a list of users
