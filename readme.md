@@ -748,6 +748,7 @@
 *   [Open-LLM-VTuber/Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber): Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms
 *   [TEN-framework/ten-turn-detection](https://github.com/TEN-framework/ten-turn-detection): Turn detection for full-duplex dialogue communication
 *   [GitGuardian/ggshield](https://github.com/GitGuardian/ggshield): Detect and validate 500+ types of hardcoded secrets with advanced checks. Use it as a pre-commit hook, GitHub Action, or CLI for proactive secret detection and security.
+*   [open-webui/open-webui](https://github.com/open-webui/open-webui): User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 *   [nicolargo/glances](https://github.com/nicolargo/glances): Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 *   [speaches-ai/speaches](https://github.com/speaches-ai/speaches)
 *   [nik549/ollama-search](https://github.com/nik549/ollama-search)
@@ -1116,7 +1117,6 @@
 
 ## Svelte
 
-*   [open-webui/open-webui](https://github.com/open-webui/open-webui): User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 *   [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap): A simple wake on lan web app written with SvelteKit, Go and PocketBase.
 *   [reid41/QA-Pilot](https://github.com/reid41/QA-Pilot): QA-Pilot is an interactive chat project that leverages online/local LLM for rapid understanding and navigation of GitHub code repository.
 *   [ekafyi/johnnydecimal-index-generator](https://github.com/ekafyi/johnnydecimal-index-generator): Code for the Johnny Decimal Index Generator web app
