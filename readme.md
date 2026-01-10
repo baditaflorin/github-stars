@@ -305,7 +305,7 @@
 *   [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio): vCard is a fully responsive personal portfolio website, responsive for all devices.
 *   [github/opensource.guide](https://github.com/github/opensource.guide): 📚 Community guides for open source creators
 *   [hunar4321/particle-life](https://github.com/hunar4321/particle-life): A simple program to simulate artificial life using attraction/reuplsion forces between many particles
-*   [Flomp/wanderer](https://github.com/Flomp/wanderer): wanderer is a self-hosted trail database. Save your adventures!
+*   [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer): wanderer is a self-hosted trail database. Save your adventures!
 *   [shuangq/OutlineJS](https://github.com/shuangq/OutlineJS): A plugin for generating outline automatically.
 *   [mixmark-io/turndown](https://github.com/mixmark-io/turndown): 🛏 An HTML to Markdown converter written in JavaScript
 *   [mlip-cmu/s2025](https://github.com/mlip-cmu/s2025)
