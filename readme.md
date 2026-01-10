@@ -558,6 +558,7 @@
 
 ## Miscellaneous
 
+*   [adrianastan/rolex](https://github.com/adrianastan/rolex): The Romanian Lexicon
 *   [lkarlslund/topdomains](https://github.com/lkarlslund/topdomains): Top 17 million most popular domains as CSV (from Google CRUX dataset)
 *   [baditaflorin/usda-food-visual-catalog-v1](https://github.com/baditaflorin/usda-food-visual-catalog-v1): NutriArt is a tool designed to generate high-quality, artistic visual representations of food items found in the USDA FoodData Central database. It utilizes Google's Gemini Imagen 3 model to create images based on nutritional profiles and commits them directly to a GitHub repository.
 *   [ishanvyas22/awesome-open-source-systems](https://github.com/ishanvyas22/awesome-open-source-systems): :sunglasses: A curated list of awesome Free Open Source Softwares(FOSS).
