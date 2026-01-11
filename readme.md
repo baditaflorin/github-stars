@@ -154,7 +154,7 @@
 
 *   [projectdiscovery/proxify](https://github.com/projectdiscovery/proxify): A versatile and portable proxy for capturing, manipulating, and replaying HTTP/HTTPS traffic on the go.
 *   [google/pprof](https://github.com/google/pprof): pprof is a tool for visualization and analysis of profiling data
-*   [unblink/unblink](https://github.com/unblink/unblink): Modern video analytics with VLM
+*   [unblink/unblink](https://github.com/unblink/unblink): Camera monitoring with VLM
 *   [lkarlslund/turbograb](https://github.com/lkarlslund/turbograb): Grab the content of lots of websites in parallel
 *   [dop251/goja](https://github.com/dop251/goja): ECMAScript/JavaScript engine in pure Go
 *   [bogdanfinn/tls-client](https://github.com/bogdanfinn/tls-client): net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests.
@@ -1021,6 +1021,7 @@
 
 ## Rust
 
+*   [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager): Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
 *   [postgresml/postgresml](https://github.com/postgresml/postgresml): Postgres with GPUs for ML/AI apps.
 *   [avstack/gst-meet](https://github.com/avstack/gst-meet): Connect GStreamer pipelines to Jitsi Meet conferences
 *   [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes): Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted,  Open-source Ai meeting note taker for macOS & Windows.
