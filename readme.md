@@ -611,6 +611,15 @@
 *   [diptomondal007/GoLangBooks](https://github.com/diptomondal007/GoLangBooks): A Curated Collection of Go Programming Books
 *   [letthedataconfess/Data-Engineering-Books](https://github.com/letthedataconfess/Data-Engineering-Books)
 *   [baditaflorin/opencti](https://github.com/baditaflorin/opencti): Open Cyber Threat Intelligence Platform
+*   [The-Osint-Toolbox/Social-Media-OSINT](https://github.com/The-Osint-Toolbox/Social-Media-OSINT): Social Media OSINT collection containing - tools, techniques & tradecraft.
+*   [The-Osint-Toolbox/Data-Acquisition-OSINT](https://github.com/The-Osint-Toolbox/Data-Acquisition-OSINT): You can find links to data acquisition websites.
+*   [The-Osint-Toolbox/Image-Research-OSINT](https://github.com/The-Osint-Toolbox/Image-Research-OSINT): Learn how to research images and the tools, techniques & tradecraft required.
+*   [The-Osint-Toolbox/OSINT-Advanced-Searching](https://github.com/The-Osint-Toolbox/OSINT-Advanced-Searching): Learn how to conduct advanced searching of the World Wide Web
+*   [The-Osint-Toolbox/OSINT-Toolbox-Peripherals](https://github.com/The-Osint-Toolbox/OSINT-Toolbox-Peripherals): Find tools that will help you with your OSINT investigations, from auditing, screen recording to aggregation. Add then to your OSINT Toolbox
+*   [The-Osint-Toolbox/OSINT-Communities-Practitioners](https://github.com/The-Osint-Toolbox/OSINT-Communities-Practitioners): Search this list of OSINT Practitioners and learn about OSINT, it includes numerous, blogs and tutorials.
+*   [The-Osint-Toolbox/URL-Manipulation](https://github.com/The-Osint-Toolbox/URL-Manipulation): Alter URLs to see content without the need to search or login.
+*   [The-Osint-Toolbox/Internet-OSINT](https://github.com/The-Osint-Toolbox/Internet-OSINT): Cast your OSINT net further a field and see what else you can discover on the Internet.
+*   [The-Osint-Toolbox/Geolocation-OSINT](https://github.com/The-Osint-Toolbox/Geolocation-OSINT): Improve you Geolocation skills, with this ilist of resources.
 *   [ciocan/sicap-explorer](https://github.com/ciocan/sicap-explorer): Tablou de vizualizare a licitatiilor publice si achizitiilor directe
 *   [CoruptiaUcide/transparentatotala](https://github.com/CoruptiaUcide/transparentatotala)
 *   [robinstickel/awesome-design-principles](https://github.com/robinstickel/awesome-design-principles): ✨ A curated list of awesome design principles
