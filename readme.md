@@ -153,6 +153,8 @@
 
 ## Go
 
+*   [owasp-amass/amass](https://github.com/owasp-amass/amass): In-depth attack surface mapping and asset discovery
+*   [tb0hdan/freya](https://github.com/tb0hdan/freya): DomainsProject.org DNS worker
 *   [tb0hdan/wass-mcp](https://github.com/tb0hdan/wass-mcp): Web Application Security Scanner MCP Server
 *   [projectdiscovery/proxify](https://github.com/projectdiscovery/proxify): A versatile and portable proxy for capturing, manipulating, and replaying HTTP/HTTPS traffic on the go.
 *   [google/pprof](https://github.com/google/pprof): pprof is a tool for visualization and analysis of profiling data
