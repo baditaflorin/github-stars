@@ -97,7 +97,7 @@
 ## C++
 
 *   [valhalla/valhalla](https://github.com/valhalla/valhalla): Open Source Routing Engine for OpenStreetMap
-*   [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx): Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Ascend NPU, x86_64 servers, websocket server/client, support 12 programming languages
+*   [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx): Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Axera NPU, Ascend NPU, x86_64 servers, websocket server/client, support 12 programming languages
 *   [drolbr/Overpass-API](https://github.com/drolbr/Overpass-API): A database engine to query the OpenStreetMap data.
 *   [SerenityOS/serenity](https://github.com/SerenityOS/serenity): The Serenity Operating System 🐞
 *   [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird): Truly independent web browser
