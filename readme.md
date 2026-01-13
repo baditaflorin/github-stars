@@ -153,6 +153,7 @@
 
 ## Go
 
+*   [tb0hdan/wass-mcp](https://github.com/tb0hdan/wass-mcp): Web Application Security Scanner MCP Server
 *   [projectdiscovery/proxify](https://github.com/projectdiscovery/proxify): A versatile and portable proxy for capturing, manipulating, and replaying HTTP/HTTPS traffic on the go.
 *   [google/pprof](https://github.com/google/pprof): pprof is a tool for visualization and analysis of profiling data
 *   [unblink/unblink](https://github.com/unblink/unblink): Camera monitoring with VLM
@@ -371,6 +372,7 @@
 
 ## JavaScript
 
+*   [tb0hdan/domains](https://github.com/tb0hdan/domains): World’s single largest Internet domains dataset
 *   [cporter202/scraping-apis-for-devs](https://github.com/cporter202/scraping-apis-for-devs): This GitHub repo is a powerhouse collection of scraping APIs for developers that you can start using immediately to build everything from simple automations to full-scale applications.
 *   [somecoding/openrecipedb](https://github.com/somecoding/openrecipedb): This is the Open Recipe DB server application.
 *   [data-enabler/streamdeck-profile-generator](https://github.com/data-enabler/streamdeck-profile-generator): An example app to programmatically generate profiles for the Elgato Stream Deck
