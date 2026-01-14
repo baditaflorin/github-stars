@@ -1108,7 +1108,7 @@
 *   [klutchell/balena-nextcloud](https://github.com/klutchell/balena-nextcloud): Nextcloud is a safe home for all your data
 *   [scopatz/nanorc](https://github.com/scopatz/nanorc): Improved Nano Syntax Highlighting Files
 *   [Debdut/names.io](https://github.com/Debdut/names.io): A Global Exhaustive First and Last Name Database
-*   [coreymwamba/bash-fuzzy-clock](https://github.com/coreymwamba/bash-fuzzy-clock): bash-fuzzy-clock is a natural language or "fuzzy" clock script, written in Bash. Use it in Conky (Linux/BSD) or GeekTool (Mac) configurations as a desktop-agnostic fuzzy clock. Translated to six languages.
+*   [coreymwamba/bash-fuzzy-clock](https://github.com/coreymwamba/bash-fuzzy-clock): bash-fuzzy-clock is a natural language or "fuzzy" clock script, written in Bash. Use it in Linux/Mac taskbar/panel configurations as a desktop-agnostic fuzzy clock. Translated to six languages.
 *   [nextcloud/vm](https://github.com/nextcloud/vm): 💻☁📦 The Nextcloud VM (virtual machine appliance), Home/SME Server and scripts for RPi (4-5). Community developed and maintained.
 *   [good-parts/aws-bootstrap](https://github.com/good-parts/aws-bootstrap): A template for setting up an AWS environment from scratch.
 *   [implant/implant](https://github.com/implant/implant): Build and install 110+ open-source Android apps with Docker
