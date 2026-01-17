@@ -1176,7 +1176,7 @@
 *   [chatboxai/chatbox](https://github.com/chatboxai/chatbox): Powerful AI Client
 *   [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe): AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
 *   [leon-ai/leon](https://github.com/leon-ai/leon): 🧠 Leon is your open-source personal assistant.
-*   [puckeditor/puck](https://github.com/puckeditor/puck): The visual editor for React
+*   [puckeditor/puck](https://github.com/puckeditor/puck): The visual editor for React with AI superpowers
 *   [getumbrel/umbrel](https://github.com/getumbrel/umbrel): A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system.
 *   [teableio/teable](https://github.com/teableio/teable): ✨ The Next Gen Airtable Alternative: No-Code Postgres
 *   [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io): 💬 Typebot is a powerful chatbot builder that you can self-host.
