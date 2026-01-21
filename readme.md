@@ -158,7 +158,6 @@
 *   [tb0hdan/wass-mcp](https://github.com/tb0hdan/wass-mcp): Web Application Security Scanner MCP Server
 *   [projectdiscovery/proxify](https://github.com/projectdiscovery/proxify): A versatile and portable proxy for capturing, manipulating, and replaying HTTP/HTTPS traffic on the go.
 *   [google/pprof](https://github.com/google/pprof): pprof is a tool for visualization and analysis of profiling data
-*   [unblink/unblink](https://github.com/unblink/unblink): Camera monitoring with VLM
 *   [lkarlslund/turbograb](https://github.com/lkarlslund/turbograb): Grab the content of lots of websites in parallel
 *   [dop251/goja](https://github.com/dop251/goja): ECMAScript/JavaScript engine in pure Go
 *   [bogdanfinn/tls-client](https://github.com/bogdanfinn/tls-client): net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests.
@@ -1157,6 +1156,7 @@
 
 *   [vercel-labs/json-render](https://github.com/vercel-labs/json-render): AI → JSON → UI
 *   [jlcodes99/vscode-antigravity-cockpit](https://github.com/jlcodes99/vscode-antigravity-cockpit): VS Code extension for monitoring Google Antigravity AI quotas. Features Webview dashboard, QuickPick mode, and quota grouping.
+*   [unblink/unblink](https://github.com/unblink/unblink): Camera monitoring with VLM
 *   [devlikeapro/n8n-nodes-chatwoot](https://github.com/devlikeapro/n8n-nodes-chatwoot): n8n node for ChatWoot API
 *   [baditaflorin/transcript-insights](https://github.com/baditaflorin/transcript-insights)
 *   [papercups-io/chat-widget](https://github.com/papercups-io/chat-widget): Papercups chat widget
