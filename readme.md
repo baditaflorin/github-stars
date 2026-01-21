@@ -663,7 +663,7 @@
 *   [pawelborkar/awesome-repos](https://github.com/pawelborkar/awesome-repos): A curated list of GitHub Repositories full of FREE Resources.
 *   [karan/Projects](https://github.com/karan/Projects): :page_with_curl: A list of practical projects that anyone can solve in any programming language.
 *   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted): A list of Free Software network services and web applications which can be hosted on your own servers
-*   [EqualStreetNames/equalstreetnames](https://github.com/EqualStreetNames/equalstreetnames): Map visualizing the streetnames by gender : 63 cities in 21 countries
+*   [EqualStreetNames/equalstreetnames](https://github.com/EqualStreetNames/equalstreetnames): Map visualizing the streetnames by gender : 64 cities in 21 countries
 *   [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory): 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
 *   [corneacristian/Notes](https://github.com/corneacristian/Notes)
 *   [Homebrew/discussions](https://github.com/Homebrew/discussions): 🗣 Public open-ended discussions. Replacement for our Discourse.
