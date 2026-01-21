@@ -36,7 +36,6 @@
 *   [Python](#python)
 *   [QML](#qml)
 *   [R](#r)
-*   [Roff](#roff)
 *   [Ruby](#ruby)
 *   [Rust](#rust)
 *   [SCSS](#scss)
@@ -67,7 +66,6 @@
 *   [tinyproxy/tinyproxy](https://github.com/tinyproxy/tinyproxy): tinyproxy - a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems
 *   [TEN-framework/ten-vad](https://github.com/TEN-framework/ten-vad): Voice Activity Detector (VAD) : low-latency, high-performance and lightweight
 *   [vibhorkum/pg_background](https://github.com/vibhorkum/pg_background): pg_background
-*   [BasedHardware/omi](https://github.com/BasedHardware/omi): AI wearables. Put it on, speak, transcribe, automatically
 *   [OISF/suricata](https://github.com/OISF/suricata): Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine developed by the OISF and the Suricata community.
 *   [ading2210/linuxpdf](https://github.com/ading2210/linuxpdf): Linux running inside a PDF file via a RISC-V emulator
 *   [xiph/speexdsp](https://github.com/xiph/speexdsp): Speex audio processing library - THIS IS A MIRROR, DEVELOPMENT HAPPENS AT https://gitlab.xiph.org/xiph/speexdsp
@@ -137,6 +135,7 @@
 
 ## Dart
 
+*   [BasedHardware/omi](https://github.com/BasedHardware/omi): AI wearables. Put it on, speak, transcribe, automatically
 *   [localsend/localsend](https://github.com/localsend/localsend): An open-source cross-platform alternative to AirDrop
 *   [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy): Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 
@@ -1013,10 +1012,6 @@
 
 *   [alistaire47/room_utils](https://github.com/alistaire47/room_utils): Some R programs to help in the room
 
-## Roff
-
-*   [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab): GrimoireLab: platform for software development analytics and insights
-
 ## Ruby
 
 *   [zammad/zammad](https://github.com/zammad/zammad): Zammad is a web based open source helpdesk/customer support system.
@@ -1125,6 +1120,7 @@
 *   [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets): A collection of small bash scripts for heavy terminal users
 *   [mut-ex/wallblur](https://github.com/mut-ex/wallblur): Faux wallpaper blurring for linux
 *   [smurphos/nemo_actions_and_cinnamon_scripts](https://github.com/smurphos/nemo_actions_and_cinnamon_scripts): A collection of custom context menu items for the Nemo file manager, along with some miscellaneous feature scripts intended for the Cinnamon desktop environment.
+*   [chaoss/grimoirelab](https://github.com/chaoss/grimoirelab): GrimoireLab: platform for software development analytics and insights
 *   [JohnArchieMckown/PostgreSQL-DBA-tools](https://github.com/JohnArchieMckown/PostgreSQL-DBA-tools): This repository contains a number of UNIX scripts, and PostgreSQL queries. The author, Melvin Davidson, originally distributed them on the pgsql-general mailing list and has allowed me to create this repository for them. These scripts and queries are donated "as is" and are not guaranteed in any way.
 *   [Rub21/get-osm-data](https://github.com/Rub21/get-osm-data)
 
