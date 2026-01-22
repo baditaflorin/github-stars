@@ -319,7 +319,6 @@
 *   [baditaflorin/scrape_hub](https://github.com/baditaflorin/scrape_hub)
 *   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev): A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 *   [payloadartist/offensive-chatgpt](https://github.com/payloadartist/offensive-chatgpt): Offensive security use cases of ChatGPT
-*   [realpython/materials](https://github.com/realpython/materials): Bonus materials, exercises, and example projects for our Python tutorials
 *   [docker/awesome-compose](https://github.com/docker/awesome-compose): Awesome Docker Compose samples
 *   [ossu/computer-science](https://github.com/ossu/computer-science): 🎓 Path to a free self-taught education in Computer Science!
 *   [EqualStreetNames/equalstreetnames-template](https://github.com/EqualStreetNames/equalstreetnames-template): Template for city sub-module
@@ -521,6 +520,7 @@
 *   [sanchit-gandhi/whisper-jax](https://github.com/sanchit-gandhi/whisper-jax): JAX implementation of OpenAI's Whisper model for up to 70x speed-up on TPU.
 *   [Sentdex/TermGPT](https://github.com/Sentdex/TermGPT): Giving LLMs like GPT-4 the ability to plan and execute terminal commands
 *   [openai/openai-cookbook](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API
+*   [realpython/materials](https://github.com/realpython/materials): Bonus materials, exercises, and example projects for our Python tutorials
 *   [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps): Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 *   [joaotinti75/Pygame](https://github.com/joaotinti75/Pygame): Games that i did using pygame library
 *   [GoogleCloudPlatform/bigquery-utils](https://github.com/GoogleCloudPlatform/bigquery-utils): Useful scripts, udfs, views, and other utilities for migration and data warehouse operations in BigQuery.
