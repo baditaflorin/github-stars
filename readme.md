@@ -773,7 +773,7 @@
 *   [confident-ai/deepeval](https://github.com/confident-ai/deepeval): The LLM Evaluation Framework
 *   [weaviate/Verba](https://github.com/weaviate/Verba): Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
 *   [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher): Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python.
-*   [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher): An LLM agent that conducts deep research (local and web) on any given topic and generates a long report with citations.
+*   [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher): An autonomous agent that conducts deep research on any data using any LLM providers.
 *   [infiniflow/ragflow](https://github.com/infiniflow/ragflow): RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 *   [mustbeperfect/definitive-opensource](https://github.com/mustbeperfect/definitive-opensource): The definitive list of the best of (consumer facing) open source.
 *   [elliott-diy/Weather2Geo](https://github.com/elliott-diy/Weather2Geo): OSINT tool that geolocates screenshots using leaked weather widget data (time, temperature, condition). Uses the same API as the Windows weather widget.
