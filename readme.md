@@ -1189,7 +1189,7 @@
 *   [Receipt-Wrangler/receipt-wrangler](https://github.com/Receipt-Wrangler/receipt-wrangler): Receipt Wrangler application
 *   [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai): FlowGram is an extensible workflow development framework with built-in canvas, form, variable, and materials that helps developers build AI workflow platforms faster and simpler.
 *   [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat): Local-first AI coworker, with memory
-*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat): 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
+*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat): 🤯 LobeHub - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you.
 *   [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep): A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 *   [SigNoz/signoz](https://github.com/SigNoz/signoz): SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
 *   [openobserve/openobserve](https://github.com/openobserve/openobserve): Modern observability platform: 10x easier, 140x lower storage cost, petabyte scale. Open-source alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more.
