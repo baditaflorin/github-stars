@@ -166,7 +166,7 @@
 *   [ten-protocol/go-ten](https://github.com/ten-protocol/go-ten): Official Golang implementation of the TEN protocol
 *   [tailscale/tailscale](https://github.com/tailscale/tailscale): The easiest, most secure way to use WireGuard and 2FA.
 *   [gotify/server](https://github.com/gotify/server): A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
-*   [ollama/ollama](https://github.com/ollama/ollama): Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+*   [ollama/ollama](https://github.com/ollama/ollama): Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 *   [syncthing/syncthing](https://github.com/syncthing/syncthing): Open Source Continuous File Synchronization
 *   [noandrea/geo2tz](https://github.com/noandrea/geo2tz): A self-hostable REST-like API to get the time zone from geo coordinates
 *   [glanceapp/glance](https://github.com/glanceapp/glance): A self-hosted dashboard that puts all your feeds in one place
