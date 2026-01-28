@@ -851,7 +851,7 @@
 *   [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory): Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 *   [unslothai/unsloth](https://github.com/unslothai/unsloth): Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM.
 *   [opendatalab/PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit): A Comprehensive Toolkit for High-Quality PDF Content Extraction
-*   [exo-explore/exo](https://github.com/exo-explore/exo): Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+*   [exo-explore/exo](https://github.com/exo-explore/exo): Run frontier AI locally.
 *   [openai/swarm](https://github.com/openai/swarm): Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
 *   [opengeos/qgis-basemaps](https://github.com/opengeos/qgis-basemaps): Adding basemaps to QGIS
 *   [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai): 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
