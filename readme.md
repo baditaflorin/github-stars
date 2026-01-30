@@ -1252,7 +1252,7 @@
 *   [microsoft/playwright](https://github.com/microsoft/playwright): Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 *   [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt): Easily share permanent links to ChatGPT conversations with your friends
 *   [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic): Your API ⇒ Paid MCP. Instantly.
-*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+*   [f/prompts.chat](https://github.com/f/prompts.chat): a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 *   [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced): WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
 *   [baditaflorin/mapbond](https://github.com/baditaflorin/mapbond)
 *   [realworld-apps/realworld](https://github.com/realworld-apps/realworld): "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
