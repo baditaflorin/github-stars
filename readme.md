@@ -234,6 +234,7 @@
 *   [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint): Go-blueprint allows users to spin up a quick Go project using a popular framework
 *   [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit): Random fake data generator written in go
 *   [schachmat/wego](https://github.com/schachmat/wego): weather app for the terminal
+*   [modelcontextprotocol/quickstart-resources](https://github.com/modelcontextprotocol/quickstart-resources): A repository of servers and clients from the Model Context Protocol tutorials
 *   [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go): A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
 *   [metoro-io/mcp-golang](https://github.com/metoro-io/mcp-golang): Write Model Context Protocol servers in few lines of go code. Docs at https://mcpgolang.com . Created by https://metoro.io
 *   [oramasearch/onnx-go](https://github.com/oramasearch/onnx-go): onnx-go gives the ability to import a pre-trained neural network within Go without being linked to a framework or library.
@@ -1037,7 +1038,6 @@
 *   [sigoden/aichat](https://github.com/sigoden/aichat): All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 *   [hook0/hook0](https://github.com/hook0/hook0): Open-source webhook server that helps you provide webhooks to your users. It handles for you a great amount of features that are usually tedious to (re)implement.
 *   [moghtech/komodo](https://github.com/moghtech/komodo): 🦎 a tool to build and deploy software on many servers 🦎
-*   [modelcontextprotocol/quickstart-resources](https://github.com/modelcontextprotocol/quickstart-resources): A repository of servers and clients from the Model Context Protocol tutorials
 *   [block/goose](https://github.com/block/goose): an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 *   [rust-lang/mdBook](https://github.com/rust-lang/mdBook): Create book from markdown files. Like Gitbook but implemented in Rust
 *   [yago-naga/yago4](https://github.com/yago-naga/yago4): Yago 4 - the first version of YAGO based on Wikidata and schema.org
