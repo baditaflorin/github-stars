@@ -311,6 +311,7 @@
 *   [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio): vCard is a fully responsive personal portfolio website, responsive for all devices.
 *   [github/opensource.guide](https://github.com/github/opensource.guide): 📚 Community guides for open source creators
 *   [hunar4321/particle-life](https://github.com/hunar4321/particle-life): A simple program to simulate artificial life using attraction/reuplsion forces between many particles
+*   [NVIDIA/garak](https://github.com/NVIDIA/garak): the LLM vulnerability scanner
 *   [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer): wanderer is a self-hosted trail database. Save your adventures!
 *   [shuangq/OutlineJS](https://github.com/shuangq/OutlineJS): A plugin for generating outline automatically.
 *   [mixmark-io/turndown](https://github.com/mixmark-io/turndown): 🛏 An HTML to Markdown converter written in JavaScript
@@ -816,7 +817,6 @@
 *   [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI): The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 *   [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai): Python scraper based on AI
 *   [lllyasviel/Omost](https://github.com/lllyasviel/Omost): Your image is almost there!
-*   [NVIDIA/garak](https://github.com/NVIDIA/garak): the LLM vulnerability scanner
 *   [jingyaogong/minimind](https://github.com/jingyaogong/minimind): 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
 *   [letta-ai/letta](https://github.com/letta-ai/letta): Letta is the platform for building stateful agents: AI with advanced memory that can learn and self-improve over time.
 *   [darrenburns/posting](https://github.com/darrenburns/posting): The modern API client that lives in your terminal.
