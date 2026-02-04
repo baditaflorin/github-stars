@@ -281,7 +281,7 @@
 *   [owenthereal/ccat](https://github.com/owenthereal/ccat): Colorizing `cat`
 *   [geziyor/geziyor](https://github.com/geziyor/geziyor): Geziyor, blazing fast web crawling & scraping framework for Go. Supports JS rendering.
 *   [codesoap/osmar](https://github.com/codesoap/osmar): A simple command line tool to explore OSM data
-*   [yeasy/docker_practice](https://github.com/yeasy/docker_practice): 学习和理解Docker容器技术，从真实案例中掌握最佳实践技巧！| Learn and understand Docker&Container technologies, with real DevOps practice!
+*   [yeasy/docker_practice](https://github.com/yeasy/docker_practice): 掌握、理解Docker容器技术，从真实案例中学习最佳实践技巧！| Learn and understand Docker&Container technologies, with real DevOps practice!
 *   [weaviate/weaviate](https://github.com/weaviate/weaviate): Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.
 *   [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh): Easy and fast file sharing from the command-line.
 *   [irevenko/tsukae](https://github.com/irevenko/tsukae): 🐚📊 Show off your most used shell commands
