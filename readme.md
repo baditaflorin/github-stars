@@ -228,7 +228,7 @@
 *   [quackduck/devzat](https://github.com/quackduck/devzat): The devs are over here at devzat, chat over SSH!
 *   [containrrr/watchtower](https://github.com/containrrr/watchtower): A process for automating Docker container base image updates.
 *   [duke-git/lancet](https://github.com/duke-git/lancet): A comprehensive, efficient, and reusable util function library of Go.
-*   [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc): Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
+*   [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc): Ultimate camera streaming application
 *   [opentofu/opentofu](https://github.com/opentofu/opentofu): OpenTofu lets you declaratively manage your cloud infrastructure.
 *   [gophish/gophish](https://github.com/gophish/gophish): Open-Source Phishing Toolkit
 *   [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint): Go-blueprint allows users to spin up a quick Go project using a popular framework
