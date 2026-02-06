@@ -322,6 +322,7 @@
 *   [vladmandic/human](https://github.com/vladmandic/human): Human: AI-powered 3D Face Detection & Rotation Tracking, Face Description & Recognition, Body Pose Tracking, 3D Hand & Finger Tracking, Iris Analysis, Age & Gender & Emotion Prediction, Gaze Tracking, Gesture Recognition
 *   [baditaflorin/scrape_hub](https://github.com/baditaflorin/scrape_hub)
 *   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev): A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+*   [f/prompts.chat](https://github.com/f/prompts.chat): a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 *   [payloadartist/offensive-chatgpt](https://github.com/payloadartist/offensive-chatgpt): Offensive security use cases of ChatGPT
 *   [docker/awesome-compose](https://github.com/docker/awesome-compose): Awesome Docker Compose samples
 *   [ossu/computer-science](https://github.com/ossu/computer-science): 🎓 Path to a free self-taught education in Computer Science!
@@ -550,7 +551,6 @@
 
 *   [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules): 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
 *   [deepset-ai/haystack](https://github.com/deepset-ai/haystack): AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.
-*   [f/prompts.chat](https://github.com/f/prompts.chat): a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 *   [all-contributors/allcontributors.org](https://github.com/all-contributors/allcontributors.org): ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
 *   [phuocng/1loc](https://github.com/phuocng/1loc): What's your favorite JavaScript single LOC (line of code)?
 
