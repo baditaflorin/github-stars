@@ -388,7 +388,7 @@
 *   [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server): ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
 *   [lowercasename/gathio](https://github.com/lowercasename/gathio): Self-destructing, shareable, no-registration event pages
 *   [automatisch/automatisch](https://github.com/automatisch/automatisch): The open source Zapier alternative. Build workflow automation without spending time and money.
-*   [plankanban/planka](https://github.com/plankanban/planka): PLANKA is the kanban-style project mastering tool for everyone.
+*   [plankanban/planka](https://github.com/plankanban/planka): PLANKA is the Kanban-style project mastering tool for everyone
 *   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma): A fancy self-hosted monitoring tool
 *   [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac):  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 *   [BaldissaraMatheus/Tasks.md](https://github.com/BaldissaraMatheus/Tasks.md): A self-hosted, Markdown file based task management board
