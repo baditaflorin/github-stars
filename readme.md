@@ -1175,7 +1175,7 @@
 *   [chatboxai/chatbox](https://github.com/chatboxai/chatbox): Powerful AI Client
 *   [leon-ai/leon](https://github.com/leon-ai/leon): 🧠 Leon is your open-source personal assistant.
 *   [puckeditor/puck](https://github.com/puckeditor/puck): Create your own AI page builder
-*   [getumbrel/umbrel](https://github.com/getumbrel/umbrel): A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system.
+*   [getumbrel/umbrel](https://github.com/getumbrel/umbrel): An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
 *   [teableio/teable](https://github.com/teableio/teable): ✨ The Next Gen Airtable Alternative: No-Code Postgres
 *   [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io): 💬 Typebot is a powerful chatbot builder that you can self-host.
 *   [stefanpejcic/OpenPanel](https://github.com/stefanpejcic/OpenPanel): A highly customizable web hosting control panel built around containers
