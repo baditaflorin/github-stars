@@ -1159,7 +1159,7 @@
 
 ## TypeScript
 
-*   [vercel-labs/json-render](https://github.com/vercel-labs/json-render): The framework for User-Generated Interfaces
+*   [vercel-labs/json-render](https://github.com/vercel-labs/json-render): The Generative UI framework
 *   [jlcodes99/vscode-antigravity-cockpit](https://github.com/jlcodes99/vscode-antigravity-cockpit): VS Code extension for monitoring Google Antigravity AI quotas. Features Webview dashboard, QuickPick mode, and quota grouping.
 *   [devlikeapro/n8n-nodes-chatwoot](https://github.com/devlikeapro/n8n-nodes-chatwoot): n8n node for ChatWoot API
 *   [baditaflorin/transcript-insights](https://github.com/baditaflorin/transcript-insights)
