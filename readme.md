@@ -1014,6 +1014,7 @@
 
 ## QML
 
+*   [markmandel/dotfiles](https://github.com/markmandel/dotfiles): My dotfiles and local machine provisioning
 *   [kevelyn1/qgis_styles](https://github.com/kevelyn1/qgis_styles)
 
 ## R
@@ -1104,7 +1105,6 @@
 *   [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver): Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 *   [torrobinson/github-synology-sync](https://github.com/torrobinson/github-synology-sync): 🔄 A small bash script I use to regularly backup all my GitHub repos to my Synology NAS
 *   [leucos/ansible-tuto](https://github.com/leucos/ansible-tuto): Ansible tutorial
-*   [markmandel/dotfiles](https://github.com/markmandel/dotfiles): My dotfiles and local machine provisioning
 *   [pmarkham/writing-ansible-modules-in-bash](https://github.com/pmarkham/writing-ansible-modules-in-bash): Writing Ansible modules in bash
 *   [super-linter/super-linter](https://github.com/super-linter/super-linter): Combination of multiple linters to run as a GitHub Action or standalone
 *   [sstephenson/bats](https://github.com/sstephenson/bats): Bash Automated Testing System
