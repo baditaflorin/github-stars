@@ -70,7 +70,6 @@
 
 *   [tinyproxy/tinyproxy](https://github.com/tinyproxy/tinyproxy): tinyproxy - a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems
 *   [TEN-framework/ten-vad](https://github.com/TEN-framework/ten-vad): Voice Activity Detector (VAD) : low-latency, high-performance and lightweight
-*   [vibhorkum/pg_background](https://github.com/vibhorkum/pg_background): pg_background
 *   [OISF/suricata](https://github.com/OISF/suricata): Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine developed by the OISF and the Suricata community.
 *   [ading2210/linuxpdf](https://github.com/ading2210/linuxpdf): Linux running inside a PDF file via a RISC-V emulator
 *   [xiph/speexdsp](https://github.com/xiph/speexdsp): Speex audio processing library - THIS IS A MIRROR, DEVELOPMENT HAPPENS AT https://gitlab.xiph.org/xiph/speexdsp
@@ -745,6 +744,7 @@
 
 ## PLpgSQL
 
+*   [vibhorkum/pg_background](https://github.com/vibhorkum/pg_background): pg_background
 *   [timescale/pgai](https://github.com/timescale/pgai): A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL
 *   [rin-nas/postgresql-patterns-library](https://github.com/rin-nas/postgresql-patterns-library): Коллекция готовых SQL запросов для PostgreSQL по часто возникающим задачам (получение и модификация данных, ускорение запросов, обслуживание БД)
 *   [michelp/pgjwt](https://github.com/michelp/pgjwt): PostgreSQL implementation of JWT (JSON Web Tokens)
