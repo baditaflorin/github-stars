@@ -619,7 +619,6 @@
 *   [mxschmitt/awesome-playwright](https://github.com/mxschmitt/awesome-playwright): A curated list of awesome tools, utils and projects using Playwright
 *   [femueller/cloud-ip-ranges](https://github.com/femueller/cloud-ip-ranges): An up-to-date export of cloud provider IP address ranges
 *   [diptomondal007/GoLangBooks](https://github.com/diptomondal007/GoLangBooks): A Curated Collection of Go Programming Books
-*   [letthedataconfess/Data-Engineering-Books](https://github.com/letthedataconfess/Data-Engineering-Books)
 *   [baditaflorin/opencti](https://github.com/baditaflorin/opencti): Open Cyber Threat Intelligence Platform
 *   [The-Osint-Toolbox/Social-Media-OSINT](https://github.com/The-Osint-Toolbox/Social-Media-OSINT): Social Media OSINT collection containing - tools, techniques & tradecraft.
 *   [The-Osint-Toolbox/Data-Acquisition-OSINT](https://github.com/The-Osint-Toolbox/Data-Acquisition-OSINT): You can find links to data acquisition websites.
