@@ -3,7 +3,6 @@
 *   [Astro](#astro)
 *   [AutoHotkey](#autohotkey)
 *   [Bikeshed](#bikeshed)
-*   [Bru](#bru)
 *   [C](#c)
 *   [C#](#c-1)
 *   [C++](#c-2)
@@ -61,10 +60,6 @@
 ## Bikeshed
 
 *   [w3c/webextensions](https://github.com/w3c/webextensions): Charter and administrivia for the WebExtensions Community Group (WECG)
-
-## Bru
-
-*   [realworld-apps/realworld](https://github.com/realworld-apps/realworld): "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 
 ## C
 
@@ -1260,6 +1255,7 @@
 *   [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic): Your API ⇒ Paid MCP. Instantly.
 *   [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced): WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
 *   [baditaflorin/mapbond](https://github.com/baditaflorin/mapbond)
+*   [realworld-apps/realworld](https://github.com/realworld-apps/realworld): "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 *   [coder/code-server](https://github.com/coder/code-server): VS Code in the browser
 *   [cyrildiagne/ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste): Cut and paste your surroundings using AR
 *   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Interactive roadmaps, guides and other educational content to help developers grow in their careers.
