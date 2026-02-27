@@ -756,7 +756,7 @@
 
 ## Python
 
-*   [DeepBlueDynamics/grubcrawler](https://github.com/DeepBlueDynamics/grubcrawler): An AI crawler that gets dirty so you don't have to.
+*   [DeepBlueDynamics/grubcrawler](https://github.com/DeepBlueDynamics/grubcrawler): The world's fastest agentic crawler. Reclaimed. Reinvented. Ready for war.
 *   [nlp-unibuc/ro-hyphen](https://github.com/nlp-unibuc/ro-hyphen): End of line hyphenation and syllabication in Romanian.
 *   [icann/czds-api-client-python](https://github.com/icann/czds-api-client-python): A Python reference implementation for CZDS download zone file API
 *   [TimMcCauley/nintynine-boundaries](https://github.com/TimMcCauley/nintynine-boundaries): OpenStreetMap Boundaries for the World!
@@ -880,7 +880,7 @@
 *   [gimlet-ai/tddGPT](https://github.com/gimlet-ai/tddGPT): AutoGPT for Web App Development
 *   [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot): The first real AI developer
 *   [apple/ml-ferret](https://github.com/apple/ml-ferret)
-*   [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb): Federated Query Engine for AI - The only MCP Server you'll ever need
+*   [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb): Query Engine for AI Analytics: Build self-reasoning agents across all your live data
 *   [togethercomputer/RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data): The RedPajama-Data repository contains code for preparing large datasets for training large language models.
 *   [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt): Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://gpt-docs.h2o.ai/
 *   [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting): Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
