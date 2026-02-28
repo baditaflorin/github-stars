@@ -555,12 +555,13 @@
 
 ## Makefile
 
+*   [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker): :whale: A curated list of Docker resources and projects
 *   [roboyoshi/datacurator-filetree](https://github.com/roboyoshi/datacurator-filetree): a standard filetree for /r/datacurator [ and r/datahoarder ]
 *   [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping): List of libraries, tools and APIs for web scraping and data processing.
 
 ## Markdown
 
-*   [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm): 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
+*   [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm): Crack LeetCode, not only how, but also why.
 *   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x): Master programming by recreating your favorite technologies from scratch.
 
 ## Miscellaneous
@@ -569,7 +570,6 @@
 *   [lkarlslund/topdomains](https://github.com/lkarlslund/topdomains): Top 17 million most popular domains as CSV (from Google CRUX dataset)
 *   [baditaflorin/usda-food-visual-catalog-v1](https://github.com/baditaflorin/usda-food-visual-catalog-v1): NutriArt is a tool designed to generate high-quality, artistic visual representations of food items found in the USDA FoodData Central database. It utilizes Google's Gemini Imagen 3 model to create images based on nutritional profiles and commits them directly to a GitHub repository.
 *   [ishanvyas22/awesome-open-source-systems](https://github.com/ishanvyas22/awesome-open-source-systems): :sunglasses: A curated list of awesome Free Open Source Softwares(FOSS).
-*   [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker): :whale: A curated list of Docker resources and projects
 *   [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge): A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 *   [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts): Collection of leaked system prompts
 *   [mlabonne/llm-course](https://github.com/mlabonne/llm-course): Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
