@@ -1206,7 +1206,7 @@
 *   [wei/socialify](https://github.com/wei/socialify): 💞 Socialify your project. 🌐 Share with the world!
 *   [Yqnn/svg-path-editor](https://github.com/Yqnn/svg-path-editor): Online editor to create and manipulate SVG paths
 *   [dukeluo/wai](https://github.com/dukeluo/wai): 一款可以预防颈椎病的新标签页扩展。
-*   [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist): 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
+*   [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist): 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 *   [immich-app/immich](https://github.com/immich-app/immich): High performance self-hosted photo and video management solution.
 *   [Get-Tech-Stack/TechStack](https://github.com/Get-Tech-Stack/TechStack): The extension will display the tech stack of the Repo when the user visits a GitHub Public Repo. The user can easily get more info about the repo. 当用户访问 GitHub 公共存储库时，该扩展将显示存储库的技术栈。 用户可以更轻松地获取有关存储库的更多信息。
 *   [Pintree-io/pintree](https://github.com/Pintree-io/pintree): Pintree: Easily turn your browser bookmarks into a directory website and start monetizing in minutes.
