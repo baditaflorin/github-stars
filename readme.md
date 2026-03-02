@@ -188,7 +188,7 @@
 *   [gohugoio/hugo](https://github.com/gohugoio/hugo): The world’s fastest framework for building websites.
 *   [plandex-ai/plandex](https://github.com/plandex-ai/plandex): Open source AI coding agent. Designed for large projects and real world tasks.
 *   [lpar/hugoutil](https://github.com/lpar/hugoutil): Utility for category and tag management of Hugo posts, with optional AI metadata extraction via IBM Watson
-*   [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth): The simplest way to protect your apps with a login screen.
+*   [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth): The tiniest authentication and authorization server you have ever seen.
 *   [godbus/dbus](https://github.com/godbus/dbus): Native Go bindings for D-Bus
 *   [OmChillure/mcpui](https://github.com/OmChillure/mcpui)
 *   [replicate/cog](https://github.com/replicate/cog): Containers for machine learning
