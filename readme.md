@@ -1136,6 +1136,7 @@
 
 *   [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap): A simple wake on lan web app written with SvelteKit, Go and PocketBase.
 *   [reid41/QA-Pilot](https://github.com/reid41/QA-Pilot): QA-Pilot is an interactive chat project that leverages online/local LLM for rapid understanding and navigation of GitHub code repository.
+*   [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor): Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 *   [ekafyi/johnnydecimal-index-generator](https://github.com/ekafyi/johnnydecimal-index-generator): Code for the Johnny Decimal Index Generator web app
 
 ## Swift
@@ -1233,7 +1234,6 @@
 *   [markmap/markmap](https://github.com/markmap/markmap): Build mindmaps with plain text
 *   [paperbits/paperbits-core](https://github.com/paperbits/paperbits-core): This repository contains core Paperbits components
 *   [outline/outline](https://github.com/outline/outline): The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
-*   [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor): Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 *   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid): Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 *   [dash0hq/otelbin](https://github.com/dash0hq/otelbin): Web-based tool to facilitate OpenTelemetry collector configuration editing and verification
 *   [ctk-hq/ctk](https://github.com/ctk-hq/ctk): Visual composer for container based workloads
