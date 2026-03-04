@@ -445,7 +445,6 @@
 *   [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code): Coding articles to level up your development skills
 *   [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript): Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 *   [BloombergGraphics/whatiscode](https://github.com/BloombergGraphics/whatiscode): Paul Ford’s “What Is Code?”
-*   [openaddresses/openaddresses](https://github.com/openaddresses/openaddresses): A global repository of open address, building, and parcel data.
 *   [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms): 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 *   [isomorphic-git/isomorphic-git](https://github.com/isomorphic-git/isomorphic-git): A pure JavaScript implementation of git for node and browsers!
 *   [ssbc/ssb-server](https://github.com/ssbc/ssb-server): The gossip and replication server for Secure Scuttlebutt - a distributed social network
@@ -934,6 +933,7 @@
 *   [3b1b/manim](https://github.com/3b1b/manim): Animation engine for explanatory math videos
 *   [huggingface/datasets](https://github.com/huggingface/datasets): 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 *   [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect): Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
+*   [openaddresses/openaddresses](https://github.com/openaddresses/openaddresses): A global repository of open address, building, and parcel data.
 *   [xuebinqin/U-2-Net](https://github.com/xuebinqin/U-2-Net): The code for our newly accepted paper in Pattern Recognition 2020: "U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection."
 *   [google/clusterfuzz](https://github.com/google/clusterfuzz): Scalable fuzzing infrastructure.
 *   [Senzing/awesome](https://github.com/Senzing/awesome): Curated list of awesome software and resources for Senzing, The First Real-Time AI for Entity Resolution.
