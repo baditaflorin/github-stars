@@ -187,6 +187,7 @@
 *   [ibnaleem/gosearch](https://github.com/ibnaleem/gosearch): 🔍 Search anyone's digital footprint across 300+ websites
 *   [gohugoio/hugo](https://github.com/gohugoio/hugo): The world’s fastest framework for building websites.
 *   [plandex-ai/plandex](https://github.com/plandex-ai/plandex): Open source AI coding agent. Designed for large projects and real world tasks.
+*   [hackstoic/golang-open-source-projects](https://github.com/hackstoic/golang-open-source-projects): 为互联网IT人打造的中文版awesome-go
 *   [lpar/hugoutil](https://github.com/lpar/hugoutil): Utility for category and tag management of Hugo posts, with optional AI metadata extraction via IBM Watson
 *   [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth): The tiniest authentication and authorization server you have ever seen.
 *   [godbus/dbus](https://github.com/godbus/dbus): Native Go bindings for D-Bus
@@ -574,7 +575,6 @@
 *   [mlabonne/llm-course](https://github.com/mlabonne/llm-course): Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 *   [keon/awesome-nlp](https://github.com/keon/awesome-nlp): :book: A curated list of resources dedicated to Natural Language Processing (NLP)
 *   [academic/awesome-datascience](https://github.com/academic/awesome-datascience): :memo: An awesome Data Science repository to learn and apply for real world problems.
-*   [hackstoic/golang-open-source-projects](https://github.com/hackstoic/golang-open-source-projects): 为互联网IT人打造的中文版awesome-go
 *   [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets): A topic-centric list of HQ open datasets.
 *   [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses): :books: List of awesome university courses for learning Computer Science!
 *   [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest): A collection of awesome penetration testing resources, tools and other shiny things
