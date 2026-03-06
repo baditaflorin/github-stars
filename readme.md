@@ -898,7 +898,7 @@
 *   [minimaxir/gpt-3-experiments](https://github.com/minimaxir/gpt-3-experiments): Test prompts for OpenAI's GPT-3 API and the resulting AI-generated texts.
 *   [wez/govee-py](https://github.com/wez/govee-py): Control Govee Lights from Python
 *   [greshake/Alice](https://github.com/greshake/Alice): Giving ChatGPT access to a real terminal
-*   [rawandahmad698/PyChatGPT](https://github.com/rawandahmad698/PyChatGPT): ⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
+*   [rawandahmad698/PyChatGPT](https://github.com/rawandahmad698/PyChatGPT): ⚡️ Python client for the ChatGPT API with, conversation tracking, proxy support and more.
 *   [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT): Reverse engineered ChatGPT API
 *   [cookiecutter/cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django): Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
 *   [jarun/ddgr](https://github.com/jarun/ddgr): :duck: DuckDuckGo from the terminal
