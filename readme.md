@@ -1216,7 +1216,7 @@
 *   [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon): Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
 *   [bbycroft/llm-viz](https://github.com/bbycroft/llm-viz): 3D Visualization of an GPT-style LLM
 *   [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway): A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
-*   [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica): Perplexica is an AI-powered answering engine.
+*   [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane): Vane is an AI-powered answering engine.
 *   [getomni-ai/zerox](https://github.com/getomni-ai/zerox): OCR & Document Extraction using vision models
 *   [idootop/MagicMirror](https://github.com/idootop/MagicMirror): 🪞 Instant AI Face Swap 一键 AI 换脸，发现更美的你
 *   [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard): Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
