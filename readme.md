@@ -737,7 +737,7 @@
 
 ## PLpgSQL
 
-*   [vibhorkum/pg_background](https://github.com/vibhorkum/pg_background): pg_background
+*   [vibhorkum/pg_background](https://github.com/vibhorkum/pg_background): Production-grade PostgreSQL extension to execute arbitrary SQL in background worker processes — with async execution, autonomous transactions, cookie-protected handles, cancellation, progress reporting, and observability.
 *   [timescale/pgai](https://github.com/timescale/pgai): A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL
 *   [rin-nas/postgresql-patterns-library](https://github.com/rin-nas/postgresql-patterns-library): Коллекция готовых SQL запросов для PostgreSQL по часто возникающим задачам (получение и модификация данных, ускорение запросов, обслуживание БД)
 *   [michelp/pgjwt](https://github.com/michelp/pgjwt): PostgreSQL implementation of JWT (JSON Web Tokens)
