@@ -857,7 +857,7 @@
 *   [openai/swarm](https://github.com/openai/swarm): Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
 *   [opengeos/qgis-basemaps](https://github.com/opengeos/qgis-basemaps): Adding basemaps to QGIS
 *   [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai): 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
-*   [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech): Speech To Speech: an effort for an open-sourced and modular GPT4-o
+*   [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech): Build local voice agents with open-source models
 *   [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam): real time face swap and one-click video deepfake with only a single image
 *   [Alb-310/Geogramint](https://github.com/Alb-310/Geogramint): An OSINT Geolocalization tool for Telegram that find nearby users and groups 📡🌍🔍
 *   [GONZOsint/geowifi](https://github.com/GONZOsint/geowifi): Search WiFi geolocation data by BSSID and SSID on different public databases.
