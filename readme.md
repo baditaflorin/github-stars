@@ -376,6 +376,7 @@
 
 ## JavaScript
 
+*   [waysidemapping/pinhead](https://github.com/waysidemapping/pinhead): 📍 Quality public domain icons for your map pins
 *   [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx): &lt;/&gt; htmx - high power tools for HTML
 *   [tb0hdan/domains](https://github.com/tb0hdan/domains): World’s single largest Internet domains dataset
 *   [cporter202/scraping-apis-for-devs](https://github.com/cporter202/scraping-apis-for-devs): This GitHub repo is a powerhouse collection of scraping APIs for developers that you can start using immediately to build everything from simple automations to full-scale applications.
