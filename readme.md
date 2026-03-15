@@ -629,7 +629,7 @@
 *   [CoruptiaUcide/transparentatotala](https://github.com/CoruptiaUcide/transparentatotala)
 *   [robinstickel/awesome-design-principles](https://github.com/robinstickel/awesome-design-principles): ✨ A curated list of awesome design principles
 *   [sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm): Awesome npm resources and tips
-*   [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs): :zap: Delightful Node.js packages and resources
+*   [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs): :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL SEPTEMBER]
 *   [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor): A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
 *   [lucko515/matchbox-intro-to-ml](https://github.com/lucko515/matchbox-intro-to-ml): This repository contains all source files for the Introduction to practical ML course organized with MatchBox
 *   [mikhail-bot/awesome-gpt3](https://github.com/mikhail-bot/awesome-gpt3): Curating the best GPT3 tools and resources
