@@ -221,7 +221,7 @@
 *   [nalgeon/codapi](https://github.com/nalgeon/codapi): Interactive code examples
 *   [thomiceli/opengist](https://github.com/thomiceli/opengist): Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 *   [dustin/go-humanize](https://github.com/dustin/go-humanize): Go Humans! (formatters for units to human friendly sizes)
-*   [shadow1ng/fscan](https://github.com/shadow1ng/fscan): 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
+*   [shadow1ng/fscan](https://github.com/shadow1ng/fscan): 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。(An intranet comprehensive scanning tool, enabling one-click automated, all-round vulnerability scanning)
 *   [riverqueue/river](https://github.com/riverqueue/river): Fast and reliable background jobs in Go
 *   [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer): A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats.
 *   [ktock/buildg](https://github.com/ktock/buildg): Interactive debugger for Dockerfile, with support for IDEs (VS Code, Emacs, Neovim, etc.)
