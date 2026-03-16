@@ -201,7 +201,7 @@
 *   [chenjiandongx/sniffer](https://github.com/chenjiandongx/sniffer): 🤒   A modern alternative network traffic sniffer.
 *   [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh): The most customisable and low-latency cross platform/shell prompt renderer
 *   [apache/answer](https://github.com/apache/answer): A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
-*   [YaoApp/yao](https://github.com/YaoApp/yao): ✨ Yao is an Agent Engine: infrastructure to build, orchestrate, and deploy autonomous agents
+*   [YaoApp/yao](https://github.com/YaoApp/yao): ✨ Yao is a single-binary runtime to build and run autonomous agents — no Python, no Node.js, just define the role.
 *   [securego/gosec](https://github.com/securego/gosec): Go security checker
 *   [charmbracelet/pop](https://github.com/charmbracelet/pop): Send emails from your terminal 📬
 *   [pingc0y/URLFinder](https://github.com/pingc0y/URLFinder): 一款快速、全面、易用的页面信息提取工具，可快速发现和提取页面中的JS、URL和敏感信息。
