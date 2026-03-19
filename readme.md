@@ -179,6 +179,7 @@
 *   [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase): Open Source realtime backend in 1 file
 *   [writefreely/writefreely](https://github.com/writefreely/writefreely): A clean, Markdown-based publishing platform made for writers. Write together and build a community.
 *   [adnanh/webhook](https://github.com/adnanh/webhook): webhook is a lightweight incoming webhook server to run shell commands
+*   [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap): A simple wake on lan web app written with SvelteKit, Go and PocketBase.
 *   [Trugamr/wol](https://github.com/Trugamr/wol): 🦭 Wake up your devices with a single command or click. A Wake-On-LAN tool that works via CLI and web interface.
 *   [go-shiori/shiori](https://github.com/go-shiori/shiori): Simple bookmark manager built with Go
 *   [emersion/go-imap](https://github.com/emersion/go-imap): 📥 An IMAP library for Go clients and servers
@@ -1136,7 +1137,6 @@
 
 ## Svelte
 
-*   [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap): A simple wake on lan web app written with SvelteKit, Go and PocketBase.
 *   [reid41/QA-Pilot](https://github.com/reid41/QA-Pilot): QA-Pilot is an interactive chat project that leverages online/local LLM for rapid understanding and navigation of GitHub code repository.
 *   [ekafyi/johnnydecimal-index-generator](https://github.com/ekafyi/johnnydecimal-index-generator): Code for the Johnny Decimal Index Generator web app
 
