@@ -377,6 +377,7 @@
 
 ## JavaScript
 
+*   [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2): ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦🇪🇺
 *   [waysidemapping/pinhead](https://github.com/waysidemapping/pinhead): 📍 Quality public domain icons for your map pins
 *   [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx): &lt;/&gt; htmx - high power tools for HTML
 *   [tb0hdan/domains](https://github.com/tb0hdan/domains): World’s single largest Internet domains dataset
