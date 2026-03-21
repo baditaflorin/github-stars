@@ -394,7 +394,7 @@
 *   [automatisch/automatisch](https://github.com/automatisch/automatisch): The open source Zapier alternative. Build workflow automation without spending time and money.
 *   [plankanban/planka](https://github.com/plankanban/planka): PLANKA is the Kanban-style project mastering tool for everyone
 *   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma): A fancy self-hosted monitoring tool
-*   [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac):  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+*   [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac):  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 *   [BaldissaraMatheus/Tasks.md](https://github.com/BaldissaraMatheus/Tasks.md): A self-hosted, Markdown file based task management board
 *   [pinojs/pino](https://github.com/pinojs/pino): 🌲 super fast, all natural json logger
 *   [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys): Socket-based TS/JavaScript API for WhatsApp Web
