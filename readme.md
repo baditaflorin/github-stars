@@ -793,7 +793,7 @@
 *   [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek): Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake account)
 *   [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund): An AI Hedge Fund Team
 *   [mem0ai/mem0](https://github.com/mem0ai/mem0): Universal memory layer for AI Agents
-*   [awesomelistsio/awesome-open-source-space-data-apis](https://github.com/awesomelistsio/awesome-open-source-space-data-apis): A curated list of open source APIs, tools, and resources for accessing and analyzing space-related data.
+*   [brandonhimpfen/awesome-open-source-space-data-apis](https://github.com/brandonhimpfen/awesome-open-source-space-data-apis): A curated list of open source APIs, tools, and resources for accessing and analyzing space-related data.
 *   [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet): :beers: awesome cheatsheet
 *   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io): Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!
 *   [baditaflorin/0emb](https://github.com/baditaflorin/0emb)
