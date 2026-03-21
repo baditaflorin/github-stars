@@ -1144,7 +1144,7 @@
 
 ## Swift
 
-*   [saif0200/notchprompt](https://github.com/saif0200/notchprompt)
+*   [saif0200/notchprompt](https://github.com/saif0200/notchprompt): distraction-free teleprompter hidden in the macbook notch
 *   [kirill-markin/meta-glasses-ios-openai](https://github.com/kirill-markin/meta-glasses-ios-openai): iOS app for Meta smart glasses with OpenAI Realtime API voice assistant. SwiftUI + Bluetooth HFP + GPT realtime voice.
 *   [pock/pock](https://github.com/pock/pock): Widgets manager for MacBook Touch Bar
 
