@@ -946,7 +946,7 @@
 *   [MycroftAI/mycroft-core](https://github.com/MycroftAI/mycroft-core): Mycroft Core, the Mycroft Artificial Intelligence platform.
 *   [carltonnorthern/nicknames](https://github.com/carltonnorthern/nicknames): A CSV file with US given names (first name) and their associated nicknames or diminutive names.
 *   [JoaoCarabetta/osm-road-length](https://github.com/JoaoCarabetta/osm-road-length): Calculate Open Street Maps road length for any polygon
-*   [vinta/awesome-python](https://github.com/vinta/awesome-python): An opinionated list of awesome Python frameworks, libraries, software and resources.
+*   [vinta/awesome-python](https://github.com/vinta/awesome-python): An opinionated list of Python frameworks, libraries, tools, and resources.
 *   [philipperemy/name-dataset](https://github.com/philipperemy/name-dataset): The Python library for names.
 *   [kislyuk/yq](https://github.com/kislyuk/yq): Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
 *   [MagicStack/asyncpg](https://github.com/MagicStack/asyncpg): A fast PostgreSQL Database Client Library for Python/asyncio.
