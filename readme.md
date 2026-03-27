@@ -771,7 +771,6 @@
 *   [open-webui/open-webui](https://github.com/open-webui/open-webui): User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 *   [nicolargo/glances](https://github.com/nicolargo/glances): Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 *   [speaches-ai/speaches](https://github.com/speaches-ai/speaches)
-*   [nik549/ollama-search](https://github.com/nik549/ollama-search)
 *   [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp): A feature-rich command-line audio/video downloader
 *   [KoljaB/RealtimeTTS](https://github.com/KoljaB/RealtimeTTS): Converts text to speech in realtime
 *   [openai/openai-agents-python](https://github.com/openai/openai-agents-python): A lightweight, powerful framework for multi-agent workflows
