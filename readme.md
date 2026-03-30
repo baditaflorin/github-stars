@@ -716,6 +716,7 @@
 
 ## Objective-C
 
+*   [SAP/macOS-enterprise-privileges](https://github.com/SAP/macOS-enterprise-privileges): This application gives Mac users in enterprise environments control over the administration of their machines by elevating their access level to administrator privileges on macOS. Users can set a timeframe in the application's settings to perform specific tasks, such as installing or uninstalling applications.
 *   [YITechnology/YIOpenAPI](https://github.com/YITechnology/YIOpenAPI): YI Open API provides mobile SDKs and reference designs for software developers and hardware makers to build cool apps and products with YI 4K Action Cameras
 
 ## PHP
