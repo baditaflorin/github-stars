@@ -1034,6 +1034,7 @@
 
 ## Rust
 
+*   [silverstein/minutes](https://github.com/silverstein/minutes): Every meeting, every idea, every voice note — searchable by your AI. Open-source, privacy-first conversation memory layer.
 *   [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager): Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
 *   [postgresml/postgresml](https://github.com/postgresml/postgresml): Postgres with GPUs for ML/AI apps.
 *   [avstack/gst-meet](https://github.com/avstack/gst-meet): Connect GStreamer pipelines to Jitsi Meet conferences
