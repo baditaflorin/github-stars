@@ -756,6 +756,7 @@
 
 ## Python
 
+*   [walter-grace/mac-code](https://github.com/walter-grace/mac-code): mac code — Claude Code, but it runs on your Mac for free.   35B AI agent at 30 tok/s via Apple Silicon flash-paging. $0/month.
 *   [666ghj/MiroFish](https://github.com/666ghj/MiroFish): A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
 *   [DeepBlueDynamics/grubcrawler](https://github.com/DeepBlueDynamics/grubcrawler): The world's fastest agentic crawler. Reclaimed. Reinvented. Ready for war.
 *   [nlp-unibuc/ro-hyphen](https://github.com/nlp-unibuc/ro-hyphen): End of line hyphenation and syllabication in Romanian.
