@@ -943,7 +943,7 @@
 *   [MycroftAI/mycroft-core](https://github.com/MycroftAI/mycroft-core): Mycroft Core, the Mycroft Artificial Intelligence platform.
 *   [carltonnorthern/nicknames](https://github.com/carltonnorthern/nicknames): A CSV file with US given names (first name) and their associated nicknames or diminutive names.
 *   [JoaoCarabetta/osm-road-length](https://github.com/JoaoCarabetta/osm-road-length): Calculate Open Street Maps road length for any polygon
-*   [vinta/awesome-python](https://github.com/vinta/awesome-python): An opinionated list of Python frameworks, libraries, tools, and resources.
+*   [vinta/awesome-python](https://github.com/vinta/awesome-python): An opinionated list of Python frameworks, libraries, tools, and resources
 *   [philipperemy/name-dataset](https://github.com/philipperemy/name-dataset): The Python library for names.
 *   [kislyuk/yq](https://github.com/kislyuk/yq): Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
 *   [MagicStack/asyncpg](https://github.com/MagicStack/asyncpg): A fast PostgreSQL Database Client Library for Python/asyncio.
@@ -1234,7 +1234,7 @@
 *   [nanbingxyz/mcpsvr](https://github.com/nanbingxyz/mcpsvr): Discover Exceptional MCP Servers
 *   [nanbingxyz/5ire](https://github.com/nanbingxyz/5ire): 5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers,  supports local knowledge base and  tools via model context protocol servers .
 *   [browserbase/stagehand](https://github.com/browserbase/stagehand): The AI Browser Automation Framework
-*   [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl): 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
+*   [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl): 🔥 The Web Data API for AI - Power AI agents with clean web data
 *   [markmap/markmap](https://github.com/markmap/markmap): Build mindmaps with plain text
 *   [paperbits/paperbits-core](https://github.com/paperbits/paperbits-core): This repository contains core Paperbits components
 *   [outline/outline](https://github.com/outline/outline): The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
